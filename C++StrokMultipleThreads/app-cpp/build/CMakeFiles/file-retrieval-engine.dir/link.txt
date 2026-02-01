@@ -1,1 +1,0 @@
-g++  -O3 "CMakeFiles/file-retrieval-engine.dir/src/file-retrieval-engine.cpp.o" "CMakeFiles/file-retrieval-engine.dir/src/AppInterface.cpp.o" "CMakeFiles/file-retrieval-engine.dir/src/ProcessingEngine.cpp.o" -o file-retrieval-engine  -lnuma 
