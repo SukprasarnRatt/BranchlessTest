@@ -1,0 +1,2195 @@
+Test Results - Thu Jan 23 04:36:35 UTC 2025
+---------------------------------------
+---------------------------------------
+Threads: 1, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 56 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 26 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 1219.3373 seconds
+Thread 1 processed 31788301041 bytes
+Thread 1 took the longest time for tokenization: 1219.3373 seconds
+Total execution time (create and join threads): 1219.5058 seconds
+Completed indexing 31788301041 bytes of data
+Completed indexing 5990982577 tokens
+Average Throughput: 24.8590 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 1, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 57 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 24 (Node 1)
+Loader Thread 2 completed loading files on Node 1
+Loader Thread 1 completed loading files on Node 0
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 1244.8055 seconds
+Thread 1 processed 31788301041 bytes
+Thread 1 took the longest time for tokenization: 1244.8055 seconds
+Total execution time (create and join threads): 1244.9406 seconds
+Completed indexing 31788301041 bytes of data
+Completed indexing 5990982577 tokens
+Average Throughput: 24.3511 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 1, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 71 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 1219.7733 seconds
+Thread 1 processed 31788301041 bytes
+Thread 1 took the longest time for tokenization: 1219.7733 seconds
+Total execution time (create and join threads): 1219.9458 seconds
+Completed indexing 31788301041 bytes of data
+Completed indexing 5990982577 tokens
+Average Throughput: 24.8500 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 2, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 54 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 1259.2641 seconds
+Thread 1 processed 31788301041 bytes
+Thread 2 tokenization time: 1263.1381 seconds
+Thread 2 processed 31788301041 bytes
+Thread 2 took the longest time for tokenization: 1263.1381 seconds
+Total execution time (create and join threads): 1263.3736 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 47.9916 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 2, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 57 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 73 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 1239.6647 seconds
+Thread 1 processed 31788301041 bytes
+Thread 2 tokenization time: 1235.6739 seconds
+Thread 2 processed 31788301041 bytes
+Thread 1 took the longest time for tokenization: 1239.6647 seconds
+Total execution time (create and join threads): 1239.8760 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 48.9012 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 2, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 70 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 1261.7170 seconds
+Thread 1 processed 31788301041 bytes
+Thread 2 tokenization time: 1262.9375 seconds
+Thread 2 processed 31788301041 bytes
+Thread 2 took the longest time for tokenization: 1262.9375 seconds
+Total execution time (create and join threads): 1263.1808 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 47.9990 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 4, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 23 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 74 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 642.6413 seconds
+Thread 1 processed 16017120898 bytes
+Thread 2 tokenization time: 636.8905 seconds
+Thread 2 processed 15617151900 bytes
+Thread 3 tokenization time: 642.6494 seconds
+Thread 3 processed 15771180143 bytes
+Thread 4 tokenization time: 636.9288 seconds
+Thread 4 processed 16171149141 bytes
+Thread 3 took the longest time for tokenization: 642.6494 seconds
+Total execution time (create and join threads): 642.7527 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 94.3308 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 4, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 67 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 2 completed loading files on Node 1
+Loader Thread 1 completed loading files on Node 0
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 634.3768 seconds
+Thread 1 processed 16292817206 bytes
+Thread 2 tokenization time: 650.5122 seconds
+Thread 2 processed 15886372289 bytes
+Thread 3 tokenization time: 634.3765 seconds
+Thread 3 processed 15495483835 bytes
+Thread 4 tokenization time: 650.5159 seconds
+Thread 4 processed 15901928752 bytes
+Thread 4 took the longest time for tokenization: 650.5159 seconds
+Total execution time (create and join threads): 650.6501 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 93.1858 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 4, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 68 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 24 (Node 1)
+Loader Thread 2 completed loading files on Node 1
+Loader Thread 1 completed loading files on Node 0
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 633.0449 seconds
+Thread 1 processed 16293527687 bytes
+Thread 2 tokenization time: 648.5953 seconds
+Thread 2 processed 15887084853 bytes
+Thread 3 tokenization time: 633.0232 seconds
+Thread 3 processed 15494773354 bytes
+Thread 4 tokenization time: 648.5863 seconds
+Thread 4 processed 15901216188 bytes
+Thread 2 took the longest time for tokenization: 648.5953 seconds
+Total execution time (create and join threads): 648.7228 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 93.4627 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 8, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 19 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 24 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 328.0378 seconds
+Thread 1 processed 7948922438 bytes
+Thread 2 tokenization time: 334.7865 seconds
+Thread 2 processed 8027765011 bytes
+Thread 3 tokenization time: 328.0479 seconds
+Thread 3 processed 7976043775 bytes
+Thread 4 tokenization time: 334.7740 seconds
+Thread 4 processed 7958632302 bytes
+Thread 5 tokenization time: 328.0543 seconds
+Thread 5 processed 7900593750 bytes
+Thread 6 tokenization time: 334.7718 seconds
+Thread 6 processed 7883701154 bytes
+Thread 7 tokenization time: 328.0436 seconds
+Thread 7 processed 7962741078 bytes
+Thread 8 tokenization time: 334.7863 seconds
+Thread 8 processed 7918202574 bytes
+Thread 2 took the longest time for tokenization: 334.7865 seconds
+Total execution time (create and join threads): 334.8646 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 181.0623 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 8, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 22 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 24 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 329.6676 seconds
+Thread 1 processed 7936438837 bytes
+Thread 2 tokenization time: 331.2504 seconds
+Thread 2 processed 8079464811 bytes
+Thread 3 tokenization time: 329.6801 seconds
+Thread 3 processed 7930995861 bytes
+Thread 4 tokenization time: 331.2344 seconds
+Thread 4 processed 7980654128 bytes
+Thread 5 tokenization time: 329.7022 seconds
+Thread 5 processed 7926905716 bytes
+Thread 6 tokenization time: 331.2204 seconds
+Thread 6 processed 7854206820 bytes
+Thread 7 tokenization time: 329.6770 seconds
+Thread 7 processed 7993960627 bytes
+Thread 8 tokenization time: 331.2256 seconds
+Thread 8 processed 7873975282 bytes
+Thread 2 took the longest time for tokenization: 331.2504 seconds
+Total execution time (create and join threads): 331.3146 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 183.0024 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 8, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 56 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 334.7235 seconds
+Thread 1 processed 8018528784 bytes
+Thread 2 tokenization time: 335.4392 seconds
+Thread 2 processed 8089493896 bytes
+Thread 3 tokenization time: 334.7390 seconds
+Thread 3 processed 7906744773 bytes
+Thread 4 tokenization time: 335.4385 seconds
+Thread 4 processed 7984226380 bytes
+Thread 5 tokenization time: 334.7626 seconds
+Thread 5 processed 7971442602 bytes
+Thread 6 tokenization time: 335.4361 seconds
+Thread 6 processed 7850123805 bytes
+Thread 7 tokenization time: 334.7427 seconds
+Thread 7 processed 7891584882 bytes
+Thread 8 tokenization time: 335.4268 seconds
+Thread 8 processed 7864456960 bytes
+Thread 2 took the longest time for tokenization: 335.4392 seconds
+Total execution time (create and join threads): 335.5105 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 180.7138 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 16, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 67 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 167.9411 seconds
+Thread 1 processed 4015921420 bytes
+Thread 2 tokenization time: 168.0764 seconds
+Thread 2 processed 4013361209 bytes
+Thread 3 tokenization time: 167.9574 seconds
+Thread 3 processed 4022890166 bytes
+Thread 4 tokenization time: 168.0670 seconds
+Thread 4 processed 3965245298 bytes
+Thread 5 tokenization time: 167.9513 seconds
+Thread 5 processed 3960124481 bytes
+Thread 6 tokenization time: 168.0594 seconds
+Thread 6 processed 3967291728 bytes
+Thread 7 tokenization time: 167.9434 seconds
+Thread 7 processed 3958589900 bytes
+Thread 8 tokenization time: 168.0701 seconds
+Thread 8 processed 3959101449 bytes
+Thread 9 tokenization time: 167.9483 seconds
+Thread 9 processed 3959100382 bytes
+Thread 10 tokenization time: 168.0831 seconds
+Thread 10 processed 4025647320 bytes
+Thread 11 tokenization time: 167.9415 seconds
+Thread 11 processed 3960126082 bytes
+Thread 12 tokenization time: 168.0650 seconds
+Thread 12 processed 3955830675 bytes
+Thread 13 tokenization time: 167.9511 seconds
+Thread 13 processed 3955006162 bytes
+Thread 14 tokenization time: 168.0588 seconds
+Thread 14 processed 3944769733 bytes
+Thread 15 tokenization time: 167.9421 seconds
+Thread 15 processed 3956542448 bytes
+Thread 16 tokenization time: 168.0550 seconds
+Thread 16 processed 3957053629 bytes
+Thread 10 took the longest time for tokenization: 168.0831 seconds
+Total execution time (create and join threads): 168.1113 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 360.6621 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 16, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 7 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 168.0125 seconds
+Thread 1 processed 3953981460 bytes
+Thread 2 tokenization time: 168.1823 seconds
+Thread 2 processed 3950909832 bytes
+Thread 3 tokenization time: 168.0452 seconds
+Thread 3 processed 4023403975 bytes
+Thread 4 tokenization time: 168.1723 seconds
+Thread 4 processed 3964220049 bytes
+Thread 5 tokenization time: 168.0403 seconds
+Thread 5 processed 3965754058 bytes
+Thread 6 tokenization time: 168.1821 seconds
+Thread 6 processed 3952760632 bytes
+Thread 7 tokenization time: 168.0217 seconds
+Thread 7 processed 3949888369 bytes
+Thread 8 tokenization time: 168.1818 seconds
+Thread 8 processed 3949887583 bytes
+Thread 9 tokenization time: 168.0224 seconds
+Thread 9 processed 3947840267 bytes
+Thread 10 tokenization time: 168.1943 seconds
+Thread 10 processed 4022065220 bytes
+Thread 11 tokenization time: 168.0236 seconds
+Thread 11 processed 3962171225 bytes
+Thread 12 tokenization time: 168.1898 seconds
+Thread 12 processed 4025648860 bytes
+Thread 13 tokenization time: 168.0430 seconds
+Thread 13 processed 4018995719 bytes
+Thread 14 tokenization time: 168.1779 seconds
+Thread 14 processed 3961660172 bytes
+Thread 15 tokenization time: 168.0357 seconds
+Thread 15 processed 3966265968 bytes
+Thread 16 tokenization time: 168.1770 seconds
+Thread 16 processed 3961148693 bytes
+Thread 10 took the longest time for tokenization: 168.1943 seconds
+Total execution time (create and join threads): 168.2334 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 360.4004 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 16, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 67 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 73 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 167.5724 seconds
+Thread 1 processed 3935552487 bytes
+Thread 2 tokenization time: 167.5665 seconds
+Thread 2 processed 3943744464 bytes
+Thread 3 tokenization time: 167.6043 seconds
+Thread 3 processed 4018993900 bytes
+Thread 4 tokenization time: 167.5915 seconds
+Thread 4 processed 4016435048 bytes
+Thread 5 tokenization time: 167.5874 seconds
+Thread 5 processed 3953470409 bytes
+Thread 6 tokenization time: 167.5817 seconds
+Thread 6 processed 3955006756 bytes
+Thread 7 tokenization time: 167.5799 seconds
+Thread 7 processed 3952446888 bytes
+Thread 8 tokenization time: 167.5799 seconds
+Thread 8 processed 3952446132 bytes
+Thread 9 tokenization time: 167.5768 seconds
+Thread 9 processed 3951422584 bytes
+Thread 10 tokenization time: 167.5801 seconds
+Thread 10 processed 3926139745 bytes
+Thread 11 tokenization time: 167.6070 seconds
+Thread 11 processed 4013363382 bytes
+Thread 12 tokenization time: 167.6043 seconds
+Thread 12 processed 4016945764 bytes
+Thread 13 tokenization time: 167.5798 seconds
+Thread 13 processed 3948862606 bytes
+Thread 14 tokenization time: 167.5866 seconds
+Thread 14 processed 3954494066 bytes
+Thread 15 tokenization time: 167.5968 seconds
+Thread 15 processed 4014188785 bytes
+Thread 16 tokenization time: 167.5978 seconds
+Thread 16 processed 4023089066 bytes
+Thread 11 took the longest time for tokenization: 167.6070 seconds
+Total execution time (create and join threads): 167.6321 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 361.6931 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 32, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 56 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 95.2918 seconds
+Thread 1 processed 2052756959 bytes
+Thread 2 tokenization time: 94.2826 seconds
+Thread 2 processed 2066893261 bytes
+Thread 3 tokenization time: 95.2976 seconds
+Thread 3 processed 2032789229 bytes
+Thread 4 tokenization time: 94.2817 seconds
+Thread 4 processed 2034322826 bytes
+Thread 5 tokenization time: 95.2999 seconds
+Thread 5 processed 1946789607 bytes
+Thread 6 tokenization time: 94.2727 seconds
+Thread 6 processed 1886383310 bytes
+Thread 7 tokenization time: 95.2953 seconds
+Thread 7 processed 2015380166 bytes
+Thread 8 tokenization time: 94.2664 seconds
+Thread 8 processed 1900207386 bytes
+Thread 9 tokenization time: 95.3088 seconds
+Thread 9 processed 1963170262 bytes
+Thread 10 tokenization time: 94.2788 seconds
+Thread 10 processed 1880750044 bytes
+Thread 11 tokenization time: 95.3169 seconds
+Thread 11 processed 1962657235 bytes
+Thread 12 tokenization time: 94.2872 seconds
+Thread 12 processed 2029202533 bytes
+Thread 13 tokenization time: 95.3099 seconds
+Thread 13 processed 1960923329 bytes
+Thread 14 tokenization time: 94.2678 seconds
+Thread 14 processed 1872558489 bytes
+Thread 15 tokenization time: 95.3085 seconds
+Thread 15 processed 1960610116 bytes
+Thread 16 tokenization time: 94.2751 seconds
+Thread 16 processed 1900207165 bytes
+Thread 17 tokenization time: 95.3121 seconds
+Thread 17 processed 1961633764 bytes
+Thread 18 tokenization time: 94.2889 seconds
+Thread 18 processed 2069650496 bytes
+Thread 19 tokenization time: 95.2882 seconds
+Thread 19 processed 2056340988 bytes
+Thread 20 tokenization time: 94.2789 seconds
+Thread 20 processed 2039442840 bytes
+Thread 21 tokenization time: 95.3098 seconds
+Thread 21 processed 1964193231 bytes
+Thread 22 tokenization time: 94.2734 seconds
+Thread 22 processed 2058385979 bytes
+Thread 23 tokenization time: 95.3135 seconds
+Thread 23 processed 1960610278 bytes
+Thread 24 tokenization time: 94.2763 seconds
+Thread 24 processed 2051218664 bytes
+Thread 25 tokenization time: 95.2976 seconds
+Thread 25 processed 2039444362 bytes
+Thread 26 tokenization time: 94.2785 seconds
+Thread 26 processed 1907374658 bytes
+Thread 27 tokenization time: 95.3073 seconds
+Thread 27 processed 1949858357 bytes
+Thread 28 tokenization time: 94.2850 seconds
+Thread 28 processed 2052754279 bytes
+Thread 29 tokenization time: 95.2883 seconds
+Thread 29 processed 2029716483 bytes
+Thread 30 tokenization time: 94.2813 seconds
+Thread 30 processed 2037906523 bytes
+Thread 31 tokenization time: 95.2961 seconds
+Thread 31 processed 1931426675 bytes
+Thread 32 tokenization time: 94.2895 seconds
+Thread 32 processed 2001042588 bytes
+Thread 11 took the longest time for tokenization: 95.3169 seconds
+Total execution time (create and join threads): 95.3328 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 635.9971 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 32, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 70 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 92.1321 seconds
+Thread 1 processed 2015899519 bytes
+Thread 2 tokenization time: 92.5136 seconds
+Thread 2 processed 2077842416 bytes
+Thread 3 tokenization time: 92.1282 seconds
+Thread 3 processed 1965217464 bytes
+Thread 4 tokenization time: 92.5046 seconds
+Thread 4 processed 2072722162 bytes
+Thread 5 tokenization time: 92.1272 seconds
+Thread 5 processed 2019482174 bytes
+Thread 6 tokenization time: 92.5045 seconds
+Thread 6 processed 1933990252 bytes
+Thread 7 tokenization time: 92.1409 seconds
+Thread 7 processed 1967776902 bytes
+Thread 8 tokenization time: 92.5004 seconds
+Thread 8 processed 1937573623 bytes
+Thread 9 tokenization time: 92.1245 seconds
+Thread 9 processed 2011290291 bytes
+Thread 10 tokenization time: 92.5079 seconds
+Thread 10 processed 1928358099 bytes
+Thread 11 tokenization time: 92.1493 seconds
+Thread 11 processed 1967263962 bytes
+Thread 12 tokenization time: 92.5192 seconds
+Thread 12 processed 2033809040 bytes
+Thread 13 tokenization time: 92.1291 seconds
+Thread 13 processed 1945248919 bytes
+Thread 14 tokenization time: 92.4982 seconds
+Thread 14 processed 1936038215 bytes
+Thread 15 tokenization time: 92.1250 seconds
+Thread 15 processed 2004122921 bytes
+Thread 16 tokenization time: 92.5114 seconds
+Thread 16 processed 1911461469 bytes
+Thread 17 tokenization time: 92.1298 seconds
+Thread 17 processed 2005458961 bytes
+Thread 18 tokenization time: 92.4908 seconds
+Thread 18 processed 1939109897 bytes
+Thread 19 tokenization time: 92.1272 seconds
+Thread 19 processed 2001050461 bytes
+Thread 20 tokenization time: 92.5133 seconds
+Thread 20 processed 2083984877 bytes
+Thread 21 tokenization time: 92.1347 seconds
+Thread 21 processed 2007193683 bytes
+Thread 22 tokenization time: 92.5004 seconds
+Thread 22 processed 2077330399 bytes
+Thread 23 tokenization time: 92.1356 seconds
+Thread 23 processed 1968800676 bytes
+Thread 24 tokenization time: 92.4968 seconds
+Thread 24 processed 1908904571 bytes
+Thread 25 tokenization time: 92.1154 seconds
+Thread 25 processed 2000027046 bytes
+Thread 26 tokenization time: 92.5013 seconds
+Thread 26 processed 1935327172 bytes
+Thread 27 tokenization time: 92.1327 seconds
+Thread 27 processed 1966240570 bytes
+Thread 28 tokenization time: 92.5037 seconds
+Thread 28 processed 1926310106 bytes
+Thread 29 tokenization time: 92.1267 seconds
+Thread 29 processed 1950881326 bytes
+Thread 30 tokenization time: 92.5177 seconds
+Thread 30 processed 2050705045 bytes
+Thread 31 tokenization time: 92.1144 seconds
+Thread 31 processed 1992346166 bytes
+Thread 32 tokenization time: 92.5023 seconds
+Thread 32 processed 2034833698 bytes
+Thread 12 took the longest time for tokenization: 92.5192 seconds
+Total execution time (create and join threads): 92.5417 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 655.1790 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 32, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 56 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 46 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 92.1308 seconds
+Thread 1 processed 2022044219 bytes
+Thread 2 tokenization time: 91.3471 seconds
+Thread 2 processed 2048151533 bytes
+Thread 3 tokenization time: 92.1390 seconds
+Thread 3 processed 1983646655 bytes
+Thread 4 tokenization time: 91.3457 seconds
+Thread 4 processed 1924265309 bytes
+Thread 5 tokenization time: 92.1506 seconds
+Thread 5 processed 1985692825 bytes
+Thread 6 tokenization time: 91.3502 seconds
+Thread 6 processed 1929896303 bytes
+Thread 7 tokenization time: 92.1475 seconds
+Thread 7 processed 1981086615 bytes
+Thread 8 tokenization time: 91.3376 seconds
+Thread 8 processed 1907369297 bytes
+Thread 9 tokenization time: 92.1524 seconds
+Thread 9 processed 1983645999 bytes
+Thread 10 tokenization time: 91.3670 seconds
+Thread 10 processed 2012821676 bytes
+Thread 11 tokenization time: 92.1373 seconds
+Thread 11 processed 1978526320 bytes
+Thread 12 tokenization time: 91.3535 seconds
+Thread 12 processed 1901736308 bytes
+Thread 13 tokenization time: 92.1381 seconds
+Thread 13 processed 1983134879 bytes
+Thread 14 tokenization time: 91.3373 seconds
+Thread 14 processed 1927336591 bytes
+Thread 15 tokenization time: 92.1430 seconds
+Thread 15 processed 1934497708 bytes
+Thread 16 tokenization time: 91.3638 seconds
+Thread 16 processed 2053782132 bytes
+Thread 17 tokenization time: 92.1340 seconds
+Thread 17 processed 2021530275 bytes
+Thread 18 tokenization time: 91.3436 seconds
+Thread 18 processed 1927848545 bytes
+Thread 19 tokenization time: 92.1379 seconds
+Thread 19 processed 1985693875 bytes
+Thread 20 tokenization time: 91.3606 seconds
+Thread 20 processed 2029205965 bytes
+Thread 21 tokenization time: 92.1422 seconds
+Thread 21 processed 2013850234 bytes
+Thread 22 tokenization time: 91.3574 seconds
+Thread 22 processed 2030031317 bytes
+Thread 23 tokenization time: 92.1265 seconds
+Thread 23 processed 2003611178 bytes
+Thread 24 tokenization time: 91.3539 seconds
+Thread 24 processed 2026646464 bytes
+Thread 25 tokenization time: 92.1395 seconds
+Thread 25 processed 1994394965 bytes
+Thread 26 tokenization time: 91.3580 seconds
+Thread 26 processed 2021014498 bytes
+Thread 27 tokenization time: 92.1358 seconds
+Thread 27 processed 2012116197 bytes
+Thread 28 tokenization time: 91.3476 seconds
+Thread 28 processed 2026646195 bytes
+Thread 29 tokenization time: 92.1541 seconds
+Thread 29 processed 1957022607 bytes
+Thread 30 tokenization time: 91.3536 seconds
+Thread 30 processed 1990806928 bytes
+Thread 31 tokenization time: 92.1445 seconds
+Thread 31 processed 1947806490 bytes
+Thread 32 tokenization time: 91.3558 seconds
+Thread 32 processed 2030741980 bytes
+Thread 29 took the longest time for tokenization: 92.1541 seconds
+Total execution time (create and join threads): 92.1715 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 657.8108 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 48, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 57 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 47 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 72.6224 seconds
+Thread 1 processed 1409296455 bytes
+Thread 2 tokenization time: 73.8757 seconds
+Thread 2 processed 1467656860 bytes
+Thread 3 tokenization time: 72.6326 seconds
+Thread 3 processed 1326352727 bytes
+Thread 4 tokenization time: 73.8680 seconds
+Thread 4 processed 1286938907 bytes
+Thread 5 tokenization time: 72.6481 seconds
+Thread 5 processed 1284375264 bytes
+Thread 6 tokenization time: 73.8802 seconds
+Thread 6 processed 1283353885 bytes
+Thread 7 tokenization time: 72.6389 seconds
+Thread 7 processed 1363727361 bytes
+Thread 8 tokenization time: 73.8756 seconds
+Thread 8 processed 1274650933 bytes
+Thread 9 tokenization time: 72.6307 seconds
+Thread 9 processed 1310993015 bytes
+Thread 10 tokenization time: 73.8772 seconds
+Thread 10 processed 1265946936 bytes
+Thread 11 tokenization time: 72.6486 seconds
+Thread 11 processed 1258776744 bytes
+Thread 12 tokenization time: 73.8853 seconds
+Thread 12 processed 1338633936 bytes
+Thread 13 tokenization time: 72.6411 seconds
+Thread 13 processed 1247513092 bytes
+Thread 14 tokenization time: 73.8711 seconds
+Thread 14 processed 1241884078 bytes
+Thread 15 tokenization time: 72.6418 seconds
+Thread 15 processed 1239320855 bytes
+Thread 16 tokenization time: 73.8776 seconds
+Thread 16 processed 1232668126 bytes
+Thread 17 tokenization time: 72.6324 seconds
+Thread 17 processed 1408783215 bytes
+Thread 18 tokenization time: 73.8761 seconds
+Thread 18 processed 1463559924 bytes
+Thread 19 tokenization time: 72.6336 seconds
+Thread 19 processed 1397320156 bytes
+Thread 20 tokenization time: 73.8676 seconds
+Thread 20 processed 1318682036 bytes
+Thread 21 tokenization time: 72.6301 seconds
+Thread 21 processed 1310488155 bytes
+Thread 22 tokenization time: 73.8806 seconds
+Thread 22 processed 1302297459 bytes
+Thread 23 tokenization time: 72.6441 seconds
+Thread 23 processed 1308951471 bytes
+Thread 24 tokenization time: 73.8644 seconds
+Thread 24 processed 1255707796 bytes
+Thread 25 tokenization time: 72.6277 seconds
+Thread 25 processed 1393935521 bytes
+Thread 26 tokenization time: 73.8759 seconds
+Thread 26 processed 1252123343 bytes
+Thread 27 tokenization time: 72.6290 seconds
+Thread 27 processed 1371408078 bytes
+Thread 28 tokenization time: 73.8784 seconds
+Thread 28 processed 1390857353 bytes
+Thread 29 tokenization time: 72.6254 seconds
+Thread 29 processed 1326864165 bytes
+Thread 30 tokenization time: 73.8702 seconds
+Thread 30 processed 1302298844 bytes
+Thread 31 tokenization time: 72.6410 seconds
+Thread 31 processed 1306384137 bytes
+Thread 32 tokenization time: 73.8783 seconds
+Thread 32 processed 1327683468 bytes
+Thread 33 tokenization time: 72.6413 seconds
+Thread 33 processed 1238296886 bytes
+Thread 34 tokenization time: 73.8662 seconds
+Thread 34 processed 1233180081 bytes
+Thread 35 tokenization time: 72.6545 seconds
+Thread 35 processed 1323286454 bytes
+Thread 36 tokenization time: 73.8771 seconds
+Thread 36 processed 1445128473 bytes
+Thread 37 tokenization time: 72.6198 seconds
+Thread 37 processed 1376528413 bytes
+Thread 38 tokenization time: 73.8797 seconds
+Thread 38 processed 1413896246 bytes
+Thread 39 tokenization time: 72.6284 seconds
+Thread 39 processed 1369359929 bytes
+Thread 40 tokenization time: 73.8672 seconds
+Thread 40 processed 1323803040 bytes
+Thread 41 tokenization time: 72.6290 seconds
+Thread 41 processed 1284370244 bytes
+Thread 42 tokenization time: 73.8689 seconds
+Thread 42 processed 1251099175 bytes
+Thread 43 tokenization time: 72.6299 seconds
+Thread 43 processed 1320216413 bytes
+Thread 44 tokenization time: 73.8842 seconds
+Thread 44 processed 1352969155 bytes
+Thread 45 tokenization time: 72.6282 seconds
+Thread 45 processed 1269016159 bytes
+Thread 46 tokenization time: 73.8807 seconds
+Thread 46 processed 1372424991 bytes
+Thread 47 tokenization time: 72.6397 seconds
+Thread 47 processed 1342736132 bytes
+Thread 48 tokenization time: 73.8764 seconds
+Thread 48 processed 1390855996 bytes
+Thread 12 took the longest time for tokenization: 73.8853 seconds
+Total execution time (create and join threads): 73.9067 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 820.3775 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 48, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 68 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 26 (Node 1)
+Loader Thread 2 completed loading files on Node 1
+Loader Thread 1 completed loading files on Node 0
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 73.3172 seconds
+Thread 1 processed 1419022955 bytes
+Thread 2 tokenization time: 72.9943 seconds
+Thread 2 processed 1434891729 bytes
+Thread 3 tokenization time: 73.3380 seconds
+Thread 3 processed 1251608308 bytes
+Thread 4 tokenization time: 72.9922 seconds
+Thread 4 processed 1215262221 bytes
+Thread 5 tokenization time: 73.3173 seconds
+Thread 5 processed 1427214694 bytes
+Thread 6 tokenization time: 72.9746 seconds
+Thread 6 processed 1434891303 bytes
+Thread 7 tokenization time: 73.3386 seconds
+Thread 7 processed 1332502393 bytes
+Thread 8 tokenization time: 72.9974 seconds
+Thread 8 processed 1421067041 bytes
+Thread 9 tokenization time: 73.3275 seconds
+Thread 9 processed 1318166514 bytes
+Thread 10 tokenization time: 72.9732 seconds
+Thread 10 processed 1362188251 bytes
+Thread 11 tokenization time: 73.3250 seconds
+Thread 11 processed 1345294832 bytes
+Thread 12 tokenization time: 72.9759 seconds
+Thread 12 processed 1273117354 bytes
+Thread 13 tokenization time: 73.3408 seconds
+Thread 13 processed 1302293810 bytes
+Thread 14 tokenization time: 72.9789 seconds
+Thread 14 processed 1263389784 bytes
+Thread 15 tokenization time: 73.3342 seconds
+Thread 15 processed 1293590884 bytes
+Thread 16 tokenization time: 72.9824 seconds
+Thread 16 processed 1265949071 bytes
+Thread 17 tokenization time: 73.3279 seconds
+Thread 17 processed 1290006657 bytes
+Thread 18 tokenization time: 72.9627 seconds
+Thread 18 processed 1248030491 bytes
+Thread 19 tokenization time: 73.3197 seconds
+Thread 19 processed 1278231047 bytes
+Thread 20 tokenization time: 72.9799 seconds
+Thread 20 processed 1240861762 bytes
+Thread 21 tokenization time: 73.3289 seconds
+Thread 21 processed 1264408007 bytes
+Thread 22 tokenization time: 72.9942 seconds
+Thread 22 processed 1409291674 bytes
+Thread 23 tokenization time: 73.3218 seconds
+Thread 23 processed 1265943179 bytes
+Thread 24 tokenization time: 72.9857 seconds
+Thread 24 processed 1223454793 bytes
+Thread 25 tokenization time: 73.3409 seconds
+Thread 25 processed 1346325356 bytes
+Thread 26 tokenization time: 72.9828 seconds
+Thread 26 processed 1380108398 bytes
+Thread 27 tokenization time: 73.3157 seconds
+Thread 27 processed 1381134717 bytes
+Thread 28 tokenization time: 72.9882 seconds
+Thread 28 processed 1389323316 bytes
+Thread 29 tokenization time: 73.3171 seconds
+Thread 29 processed 1355022005 bytes
+Thread 30 tokenization time: 72.9892 seconds
+Thread 30 processed 1321228959 bytes
+Thread 31 tokenization time: 73.3218 seconds
+Thread 31 processed 1310991656 bytes
+Thread 32 tokenization time: 72.9708 seconds
+Thread 32 processed 1215775326 bytes
+Thread 33 tokenization time: 73.3297 seconds
+Thread 33 processed 1325333840 bytes
+Thread 34 tokenization time: 72.9920 seconds
+Thread 34 processed 1398027228 bytes
+Thread 35 tokenization time: 73.3371 seconds
+Thread 35 processed 1332503230 bytes
+Thread 36 tokenization time: 72.9941 seconds
+Thread 36 processed 1424651182 bytes
+Thread 37 tokenization time: 73.3244 seconds
+Thread 37 processed 1344782031 bytes
+Thread 38 tokenization time: 72.9896 seconds
+Thread 38 processed 1347852042 bytes
+Thread 39 tokenization time: 73.3123 seconds
+Thread 39 processed 1321231564 bytes
+Thread 40 tokenization time: 72.9804 seconds
+Thread 40 processed 1336588758 bytes
+Thread 41 tokenization time: 73.3156 seconds
+Thread 41 processed 1360142606 bytes
+Thread 42 tokenization time: 72.9850 seconds
+Thread 42 processed 1365771600 bytes
+Thread 43 tokenization time: 73.3199 seconds
+Thread 43 processed 1264919038 bytes
+Thread 44 tokenization time: 72.9789 seconds
+Thread 44 processed 1373452472 bytes
+Thread 45 tokenization time: 73.3188 seconds
+Thread 45 processed 1336904226 bytes
+Thread 46 tokenization time: 72.9728 seconds
+Thread 46 processed 1217310801 bytes
+Thread 47 tokenization time: 73.3355 seconds
+Thread 47 processed 1320727492 bytes
+Thread 48 tokenization time: 72.9759 seconds
+Thread 48 processed 1225815485 bytes
+Thread 25 took the longest time for tokenization: 73.3409 seconds
+Total execution time (create and join threads): 73.3563 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 826.5330 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 48, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 22 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 75 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 73.7034 seconds
+Thread 1 processed 1440527054 bytes
+Thread 2 tokenization time: 72.6786 seconds
+Thread 2 processed 1449738408 bytes
+Thread 3 tokenization time: 73.7063 seconds
+Thread 3 processed 1253655865 bytes
+Thread 4 tokenization time: 72.6646 seconds
+Thread 4 processed 1425162613 bytes
+Thread 5 tokenization time: 73.6962 seconds
+Thread 5 processed 1430798513 bytes
+Thread 6 tokenization time: 72.6630 seconds
+Thread 6 processed 1429770149 bytes
+Thread 7 tokenization time: 73.6971 seconds
+Thread 7 processed 1383694093 bytes
+Thread 8 tokenization time: 72.6750 seconds
+Thread 8 processed 1367819706 bytes
+Thread 9 tokenization time: 73.6976 seconds
+Thread 9 processed 1328918752 bytes
+Thread 10 tokenization time: 72.6689 seconds
+Thread 10 processed 1355531839 bytes
+Thread 11 tokenization time: 73.7160 seconds
+Thread 11 processed 1315606064 bytes
+Thread 12 tokenization time: 72.6700 seconds
+Thread 12 processed 1255196513 bytes
+Thread 13 tokenization time: 73.7116 seconds
+Thread 13 processed 1309462394 bytes
+Thread 14 tokenization time: 72.6838 seconds
+Thread 14 processed 1394954444 bytes
+Thread 15 tokenization time: 73.7143 seconds
+Thread 15 processed 1295638522 bytes
+Thread 16 tokenization time: 72.6668 seconds
+Thread 16 processed 1238814087 bytes
+Thread 17 tokenization time: 73.7150 seconds
+Thread 17 processed 1287958809 bytes
+Thread 18 tokenization time: 72.6727 seconds
+Thread 18 processed 1233693584 bytes
+Thread 19 tokenization time: 73.7088 seconds
+Thread 19 processed 1277719105 bytes
+Thread 20 tokenization time: 72.6689 seconds
+Thread 20 processed 1225814883 bytes
+Thread 21 tokenization time: 73.7060 seconds
+Thread 21 processed 1267479750 bytes
+Thread 22 tokenization time: 72.6762 seconds
+Thread 22 processed 1213213728 bytes
+Thread 23 tokenization time: 73.7006 seconds
+Thread 23 processed 1256728222 bytes
+Thread 24 tokenization time: 72.6549 seconds
+Thread 24 processed 1264413047 bytes
+Thread 25 tokenization time: 73.7050 seconds
+Thread 25 processed 1262359592 bytes
+Thread 26 tokenization time: 72.6662 seconds
+Thread 26 processed 1314076703 bytes
+Thread 27 tokenization time: 73.7010 seconds
+Thread 27 processed 1368334094 bytes
+Thread 28 tokenization time: 72.6715 seconds
+Thread 28 processed 1312540334 bytes
+Thread 29 tokenization time: 73.6913 seconds
+Thread 29 processed 1407247618 bytes
+Thread 30 tokenization time: 72.6821 seconds
+Thread 30 processed 1381642816 bytes
+Thread 31 tokenization time: 73.7029 seconds
+Thread 31 processed 1374478035 bytes
+Thread 32 tokenization time: 72.6724 seconds
+Thread 32 processed 1362187096 bytes
+Thread 33 tokenization time: 73.7001 seconds
+Thread 33 processed 1356046683 bytes
+Thread 34 tokenization time: 72.6833 seconds
+Thread 34 processed 1335051927 bytes
+Thread 35 tokenization time: 73.6944 seconds
+Thread 35 processed 1334032010 bytes
+Thread 36 tokenization time: 72.6771 seconds
+Thread 36 processed 1315597099 bytes
+Thread 37 tokenization time: 73.6970 seconds
+Thread 37 processed 1324303621 bytes
+Thread 38 tokenization time: 72.6668 seconds
+Thread 38 processed 1219870606 bytes
+Thread 39 tokenization time: 73.6838 seconds
+Thread 39 processed 1313040308 bytes
+Thread 40 tokenization time: 72.6708 seconds
+Thread 40 processed 1306892178 bytes
+Thread 41 tokenization time: 73.7123 seconds
+Thread 41 processed 1264407523 bytes
+Thread 42 tokenization time: 72.6731 seconds
+Thread 42 processed 1262876141 bytes
+Thread 43 tokenization time: 73.6957 seconds
+Thread 43 processed 1334552059 bytes
+Thread 44 tokenization time: 72.6739 seconds
+Thread 44 processed 1414922481 bytes
+Thread 45 tokenization time: 73.6952 seconds
+Thread 45 processed 1349704123 bytes
+Thread 46 tokenization time: 72.6831 seconds
+Thread 46 processed 1442569611 bytes
+Thread 47 tokenization time: 73.7089 seconds
+Thread 47 processed 1251608232 bytes
+Thread 48 tokenization time: 72.6630 seconds
+Thread 48 processed 1265951048 bytes
+Thread 11 took the longest time for tokenization: 73.7160 seconds
+Total execution time (create and join threads): 73.7299 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 822.3449 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 64, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 81 (Node 1)
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 0 (Node 0)
+Loader Thread 2 completed loading files on Node 1
+Loader Thread 1 completed loading files on Node 0
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 69.3371 seconds
+Thread 1 processed 911688233 bytes
+Thread 2 tokenization time: 69.3965 seconds
+Thread 2 processed 745861705 bytes
+Thread 3 tokenization time: 69.3552 seconds
+Thread 3 processed 771458622 bytes
+Thread 4 tokenization time: 69.3768 seconds
+Thread 4 processed 698758310 bytes
+Thread 5 tokenization time: 69.3180 seconds
+Thread 5 processed 1230617461 bytes
+Thread 6 tokenization time: 69.3982 seconds
+Thread 6 processed 1258260948 bytes
+Thread 7 tokenization time: 69.3385 seconds
+Thread 7 processed 712576790 bytes
+Thread 8 tokenization time: 69.3951 seconds
+Thread 8 processed 727735676 bytes
+Thread 9 tokenization time: 69.3373 seconds
+Thread 9 processed 820096049 bytes
+Thread 10 tokenization time: 69.4000 seconds
+Thread 10 processed 724863337 bytes
+Thread 11 tokenization time: 69.3280 seconds
+Thread 11 processed 1275164392 bytes
+Thread 12 tokenization time: 69.3963 seconds
+Thread 12 processed 727934444 bytes
+Thread 13 tokenization time: 69.3192 seconds
+Thread 13 processed 711553347 bytes
+Thread 14 tokenization time: 69.3901 seconds
+Thread 14 processed 1266965385 bytes
+Thread 15 tokenization time: 69.3393 seconds
+Thread 15 processed 1257245324 bytes
+Thread 16 tokenization time: 69.3752 seconds
+Thread 16 processed 1235225853 bytes
+Thread 17 tokenization time: 69.3244 seconds
+Thread 17 processed 1243418645 bytes
+Thread 18 tokenization time: 69.3987 seconds
+Thread 18 processed 824706073 bytes
+Thread 19 tokenization time: 69.3166 seconds
+Thread 19 processed 1270553201 bytes
+Thread 20 tokenization time: 69.3914 seconds
+Thread 20 processed 1300244976 bytes
+Thread 21 tokenization time: 69.3284 seconds
+Thread 21 processed 1286424685 bytes
+Thread 22 tokenization time: 69.3698 seconds
+Thread 22 processed 1250596056 bytes
+Thread 23 tokenization time: 69.3356 seconds
+Thread 23 processed 700291863 bytes
+Thread 24 tokenization time: 69.3833 seconds
+Thread 24 processed 726399403 bytes
+Thread 25 tokenization time: 69.3305 seconds
+Thread 25 processed 1054042334 bytes
+Thread 26 tokenization time: 69.3806 seconds
+Thread 26 processed 1271062154 bytes
+Thread 27 tokenization time: 69.3421 seconds
+Thread 27 processed 711552738 bytes
+Thread 28 tokenization time: 69.3999 seconds
+Thread 28 processed 706950314 bytes
+Thread 29 tokenization time: 69.3484 seconds
+Thread 29 processed 713088614 bytes
+Thread 30 tokenization time: 69.3860 seconds
+Thread 30 processed 1181977658 bytes
+Thread 31 tokenization time: 69.3527 seconds
+Thread 31 processed 808320081 bytes
+Thread 32 tokenization time: 69.3935 seconds
+Thread 32 processed 786306871 bytes
+Thread 33 tokenization time: 69.3283 seconds
+Thread 33 processed 1282332338 bytes
+Thread 34 tokenization time: 69.3720 seconds
+Thread 34 processed 724357819 bytes
+Thread 35 tokenization time: 69.3417 seconds
+Thread 35 processed 1216797990 bytes
+Thread 36 tokenization time: 69.4123 seconds
+Thread 36 processed 726399088 bytes
+Thread 37 tokenization time: 69.3392 seconds
+Thread 37 processed 1277723889 bytes
+Thread 38 tokenization time: 69.3820 seconds
+Thread 38 processed 724863043 bytes
+Thread 39 tokenization time: 69.3146 seconds
+Thread 39 processed 1237276843 bytes
+Thread 40 tokenization time: 69.3854 seconds
+Thread 40 processed 1284373495 bytes
+Thread 41 tokenization time: 69.3384 seconds
+Thread 41 processed 713088569 bytes
+Thread 42 tokenization time: 69.3797 seconds
+Thread 42 processed 751493641 bytes
+Thread 43 tokenization time: 69.3225 seconds
+Thread 43 processed 1284380052 bytes
+Thread 44 tokenization time: 69.3824 seconds
+Thread 44 processed 1259797839 bytes
+Thread 45 tokenization time: 69.3391 seconds
+Thread 45 processed 711865920 bytes
+Thread 46 tokenization time: 69.3875 seconds
+Thread 46 processed 1275669767 bytes
+Thread 47 tokenization time: 69.3354 seconds
+Thread 47 processed 1196829593 bytes
+Thread 48 tokenization time: 69.4083 seconds
+Thread 48 processed 724863152 bytes
+Thread 49 tokenization time: 69.3203 seconds
+Thread 49 processed 833919759 bytes
+Thread 50 tokenization time: 69.3629 seconds
+Thread 50 processed 1255203222 bytes
+Thread 51 tokenization time: 69.3376 seconds
+Thread 51 processed 711552604 bytes
+Thread 52 tokenization time: 69.3741 seconds
+Thread 52 processed 1262357850 bytes
+Thread 53 tokenization time: 69.3575 seconds
+Thread 53 processed 805246825 bytes
+Thread 54 tokenization time: 69.3797 seconds
+Thread 54 processed 757637910 bytes
+Thread 55 tokenization time: 69.3211 seconds
+Thread 55 processed 1164063877 bytes
+Thread 56 tokenization time: 69.3919 seconds
+Thread 56 processed 746373634 bytes
+Thread 57 tokenization time: 69.3099 seconds
+Thread 57 processed 712577251 bytes
+Thread 58 tokenization time: 69.3716 seconds
+Thread 58 processed 1113384073 bytes
+Thread 59 tokenization time: 69.3041 seconds
+Thread 59 processed 1260825812 bytes
+Thread 60 tokenization time: 69.3634 seconds
+Thread 60 processed 1224996177 bytes
+Thread 61 tokenization time: 69.3161 seconds
+Thread 61 processed 1189150854 bytes
+Thread 62 tokenization time: 69.3923 seconds
+Thread 62 processed 1270037190 bytes
+Thread 63 tokenization time: 69.3464 seconds
+Thread 63 processed 712576486 bytes
+Thread 64 tokenization time: 69.3671 seconds
+Thread 64 processed 1252643978 bytes
+Thread 36 took the longest time for tokenization: 69.4123 seconds
+Total execution time (create and join threads): 69.4261 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 873.3230 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 64, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 8 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 2 completed loading files on Node 1
+Loader Thread 1 completed loading files on Node 0
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 70.9219 seconds
+Thread 1 processed 864127282 bytes
+Thread 2 tokenization time: 71.5240 seconds
+Thread 2 processed 1328918797 bytes
+Thread 3 tokenization time: 70.9300 seconds
+Thread 3 processed 1210653952 bytes
+Thread 4 tokenization time: 71.5097 seconds
+Thread 4 processed 1177381372 bytes
+Thread 5 tokenization time: 70.9378 seconds
+Thread 5 processed 683395964 bytes
+Thread 6 tokenization time: 71.5042 seconds
+Thread 6 processed 707972141 bytes
+Thread 7 tokenization time: 70.9047 seconds
+Thread 7 processed 1286936529 bytes
+Thread 8 tokenization time: 71.5122 seconds
+Thread 8 processed 1168678315 bytes
+Thread 9 tokenization time: 70.9177 seconds
+Thread 9 processed 709508489 bytes
+Thread 10 tokenization time: 71.5117 seconds
+Thread 10 processed 708483723 bytes
+Thread 11 tokenization time: 70.9231 seconds
+Thread 11 processed 1117995972 bytes
+Thread 12 tokenization time: 71.5265 seconds
+Thread 12 processed 705410654 bytes
+Thread 13 tokenization time: 70.9175 seconds
+Thread 13 processed 1212701412 bytes
+Thread 14 tokenization time: 71.5145 seconds
+Thread 14 processed 701828538 bytes
+Thread 15 tokenization time: 70.9485 seconds
+Thread 15 processed 704388226 bytes
+Thread 16 tokenization time: 71.5168 seconds
+Thread 16 processed 1314069757 bytes
+Thread 17 tokenization time: 70.9245 seconds
+Thread 17 processed 1196318286 bytes
+Thread 18 tokenization time: 71.5134 seconds
+Thread 18 processed 1295126305 bytes
+Thread 19 tokenization time: 70.9247 seconds
+Thread 19 processed 1088805299 bytes
+Thread 20 tokenization time: 71.5268 seconds
+Thread 20 processed 737660623 bytes
+Thread 21 tokenization time: 70.9199 seconds
+Thread 21 processed 1224989438 bytes
+Thread 22 tokenization time: 71.4955 seconds
+Thread 22 processed 1184039678 bytes
+Thread 23 tokenization time: 70.9217 seconds
+Thread 23 processed 1167135000 bytes
+Thread 24 tokenization time: 71.5080 seconds
+Thread 24 processed 1199396371 bytes
+Thread 25 tokenization time: 70.9181 seconds
+Thread 25 processed 1281617682 bytes
+Thread 26 tokenization time: 71.5082 seconds
+Thread 26 processed 1182501764 bytes
+Thread 27 tokenization time: 70.9361 seconds
+Thread 27 processed 1175838897 bytes
+Thread 28 tokenization time: 71.5202 seconds
+Thread 28 processed 1318678079 bytes
+Thread 29 tokenization time: 70.9172 seconds
+Thread 29 processed 922482376 bytes
+Thread 30 tokenization time: 71.5054 seconds
+Thread 30 processed 705412414 bytes
+Thread 31 tokenization time: 70.9499 seconds
+Thread 31 processed 704900133 bytes
+Thread 32 tokenization time: 71.5051 seconds
+Thread 32 processed 1109799102 bytes
+Thread 33 tokenization time: 70.9302 seconds
+Thread 33 processed 834942172 bytes
+Thread 34 tokenization time: 71.5188 seconds
+Thread 34 processed 744117837 bytes
+Thread 35 tokenization time: 70.9209 seconds
+Thread 35 processed 740224656 bytes
+Thread 36 tokenization time: 71.5107 seconds
+Thread 36 processed 699267821 bytes
+Thread 37 tokenization time: 70.9180 seconds
+Thread 37 processed 1215261821 bytes
+Thread 38 tokenization time: 71.5010 seconds
+Thread 38 processed 690051623 bytes
+Thread 39 tokenization time: 70.9247 seconds
+Thread 39 processed 1212702291 bytes
+Thread 40 tokenization time: 71.5038 seconds
+Thread 40 processed 1306390664 bytes
+Thread 41 tokenization time: 70.9313 seconds
+Thread 41 processed 691076428 bytes
+Thread 42 tokenization time: 71.5081 seconds
+Thread 42 processed 708995661 bytes
+Thread 43 tokenization time: 70.9193 seconds
+Thread 43 processed 1253144693 bytes
+Thread 44 tokenization time: 71.5114 seconds
+Thread 44 processed 736126046 bytes
+Thread 45 tokenization time: 70.9448 seconds
+Thread 45 processed 706435662 bytes
+Thread 46 tokenization time: 71.5201 seconds
+Thread 46 processed 832379109 bytes
+Thread 47 tokenization time: 70.9305 seconds
+Thread 47 processed 1002857636 bytes
+Thread 48 tokenization time: 71.5014 seconds
+Thread 48 processed 1196837335 bytes
+Thread 49 tokenization time: 70.9252 seconds
+Thread 49 processed 688004489 bytes
+Thread 50 tokenization time: 71.5027 seconds
+Thread 50 processed 744829029 bytes
+Thread 51 tokenization time: 70.9427 seconds
+Thread 51 processed 708993221 bytes
+Thread 52 tokenization time: 71.5171 seconds
+Thread 52 processed 796027587 bytes
+Thread 53 tokenization time: 70.9189 seconds
+Thread 53 processed 682884477 bytes
+Thread 54 tokenization time: 71.5047 seconds
+Thread 54 processed 1310998528 bytes
+Thread 55 tokenization time: 70.9373 seconds
+Thread 55 processed 845694186 bytes
+Thread 56 tokenization time: 71.5104 seconds
+Thread 56 processed 963436114 bytes
+Thread 57 tokenization time: 70.9115 seconds
+Thread 57 processed 1281815868 bytes
+Thread 58 tokenization time: 71.5090 seconds
+Thread 58 processed 751484721 bytes
+Thread 59 tokenization time: 70.8879 seconds
+Thread 59 processed 870270964 bytes
+Thread 60 tokenization time: 71.4520 seconds
+Thread 60 processed 1184548683 bytes
+Thread 61 tokenization time: 70.8721 seconds
+Thread 61 processed 1276184304 bytes
+Thread 62 tokenization time: 71.4713 seconds
+Thread 62 processed 1318677735 bytes
+Thread 63 tokenization time: 70.8709 seconds
+Thread 63 processed 1226013236 bytes
+Thread 64 tokenization time: 71.4693 seconds
+Thread 64 processed 1258774915 bytes
+Thread 20 took the longest time for tokenization: 71.5268 seconds
+Total execution time (create and join threads): 71.5435 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 847.4751 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 64, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 54 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 2 completed loading files on Node 1
+Loader Thread 1 completed loading files on Node 0
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 70.0899 seconds
+Thread 1 processed 1299738809 bytes
+Thread 2 tokenization time: 69.8939 seconds
+Thread 2 processed 842621159 bytes
+Thread 3 tokenization time: 70.0967 seconds
+Thread 3 processed 1226014389 bytes
+Thread 4 tokenization time: 69.9181 seconds
+Thread 4 processed 1044307813 bytes
+Thread 5 tokenization time: 70.0917 seconds
+Thread 5 processed 1041708144 bytes
+Thread 6 tokenization time: 69.8941 seconds
+Thread 6 processed 1187617837 bytes
+Thread 7 tokenization time: 70.0747 seconds
+Thread 7 processed 1256219091 bytes
+Thread 8 tokenization time: 69.8949 seconds
+Thread 8 processed 1175131674 bytes
+Thread 9 tokenization time: 70.0896 seconds
+Thread 9 processed 717697905 bytes
+Thread 10 tokenization time: 69.8998 seconds
+Thread 10 processed 1169698121 bytes
+Thread 11 tokenization time: 70.0967 seconds
+Thread 11 processed 700292044 bytes
+Thread 12 tokenization time: 69.9238 seconds
+Thread 12 processed 693125302 bytes
+Thread 13 tokenization time: 70.0884 seconds
+Thread 13 processed 695684687 bytes
+Thread 14 tokenization time: 69.9071 seconds
+Thread 14 processed 676229199 bytes
+Thread 15 tokenization time: 70.0965 seconds
+Thread 15 processed 707460524 bytes
+Thread 16 tokenization time: 69.9092 seconds
+Thread 16 processed 1307921306 bytes
+Thread 17 tokenization time: 70.1024 seconds
+Thread 17 processed 706948455 bytes
+Thread 18 tokenization time: 69.8899 seconds
+Thread 18 processed 1297169487 bytes
+Thread 19 tokenization time: 70.0902 seconds
+Thread 19 processed 699267626 bytes
+Thread 20 tokenization time: 69.8949 seconds
+Thread 20 processed 1214752497 bytes
+Thread 21 tokenization time: 70.0966 seconds
+Thread 21 processed 1236254929 bytes
+Thread 22 tokenization time: 69.9237 seconds
+Thread 22 processed 836476520 bytes
+Thread 23 tokenization time: 70.0994 seconds
+Thread 23 processed 705412536 bytes
+Thread 24 tokenization time: 69.8944 seconds
+Thread 24 processed 1202977457 bytes
+Thread 25 tokenization time: 70.0924 seconds
+Thread 25 processed 1303833959 bytes
+Thread 26 tokenization time: 69.8908 seconds
+Thread 26 processed 835451971 bytes
+Thread 27 tokenization time: 70.1028 seconds
+Thread 27 processed 1201439817 bytes
+Thread 28 tokenization time: 69.9075 seconds
+Thread 28 processed 731005586 bytes
+Thread 29 tokenization time: 70.0919 seconds
+Thread 29 processed 1197856243 bytes
+Thread 30 tokenization time: 69.8876 seconds
+Thread 30 processed 682374066 bytes
+Thread 31 tokenization time: 70.1041 seconds
+Thread 31 processed 707460646 bytes
+Thread 32 tokenization time: 69.8973 seconds
+Thread 32 processed 676229774 bytes
+Thread 33 tokenization time: 70.1080 seconds
+Thread 33 processed 706948118 bytes
+Thread 34 tokenization time: 69.8996 seconds
+Thread 34 processed 834421046 bytes
+Thread 35 tokenization time: 70.0747 seconds
+Thread 35 processed 1300250406 bytes
+Thread 36 tokenization time: 69.9157 seconds
+Thread 36 processed 1164106009 bytes
+Thread 37 tokenization time: 70.0981 seconds
+Thread 37 processed 820095408 bytes
+Thread 38 tokenization time: 69.9068 seconds
+Thread 38 processed 1303313406 bytes
+Thread 39 tokenization time: 70.0834 seconds
+Thread 39 processed 745856051 bytes
+Thread 40 tokenization time: 69.8928 seconds
+Thread 40 processed 916337259 bytes
+Thread 41 tokenization time: 70.0962 seconds
+Thread 41 processed 707971875 bytes
+Thread 42 tokenization time: 69.8809 seconds
+Thread 42 processed 1186593436 bytes
+Thread 43 tokenization time: 70.0795 seconds
+Thread 43 processed 1240866064 bytes
+Thread 44 tokenization time: 69.9014 seconds
+Thread 44 processed 1238815613 bytes
+Thread 45 tokenization time: 70.0928 seconds
+Thread 45 processed 940872299 bytes
+Thread 46 tokenization time: 69.8893 seconds
+Thread 46 processed 725374679 bytes
+Thread 47 tokenization time: 70.0795 seconds
+Thread 47 processed 1302809957 bytes
+Thread 48 tokenization time: 69.8701 seconds
+Thread 48 processed 1166625984 bytes
+Thread 49 tokenization time: 70.0876 seconds
+Thread 49 processed 1258781749 bytes
+Thread 50 tokenization time: 69.9123 seconds
+Thread 50 processed 685957070 bytes
+Thread 51 tokenization time: 70.0721 seconds
+Thread 51 processed 979311790 bytes
+Thread 52 tokenization time: 69.8941 seconds
+Thread 52 processed 880461390 bytes
+Thread 53 tokenization time: 70.0902 seconds
+Thread 53 processed 1216799618 bytes
+Thread 54 tokenization time: 69.8806 seconds
+Thread 54 processed 1271058002 bytes
+Thread 55 tokenization time: 70.0904 seconds
+Thread 55 processed 1209433543 bytes
+Thread 56 tokenization time: 69.8712 seconds
+Thread 56 processed 674693846 bytes
+Thread 57 tokenization time: 70.0891 seconds
+Thread 57 processed 825727542 bytes
+Thread 58 tokenization time: 69.8813 seconds
+Thread 58 processed 842619709 bytes
+Thread 59 tokenization time: 70.0814 seconds
+Thread 59 processed 1153321169 bytes
+Thread 60 tokenization time: 69.8870 seconds
+Thread 60 processed 1291026359 bytes
+Thread 61 tokenization time: 70.0680 seconds
+Thread 61 processed 1285914201 bytes
+Thread 62 tokenization time: 69.8648 seconds
+Thread 62 processed 1309457142 bytes
+Thread 63 tokenization time: 70.0488 seconds
+Thread 63 processed 690051447 bytes
+Thread 64 tokenization time: 69.8407 seconds
+Thread 64 processed 724350322 bytes
+Thread 33 took the longest time for tokenization: 70.1080 seconds
+Total execution time (create and join threads): 70.1208 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 864.6699 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 96, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 54 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 29 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 67.6168 seconds
+Thread 1 processed 671112100 bytes
+Thread 2 tokenization time: 67.5399 seconds
+Thread 2 processed 682175802 bytes
+Thread 3 tokenization time: 67.6110 seconds
+Thread 3 processed 653194942 bytes
+Thread 4 tokenization time: 67.5426 seconds
+Thread 4 processed 681350358 bytes
+Thread 5 tokenization time: 67.6274 seconds
+Thread 5 processed 655555818 bytes
+Thread 6 tokenization time: 67.5236 seconds
+Thread 6 processed 642957490 bytes
+Thread 7 tokenization time: 67.6162 seconds
+Thread 7 processed 674695646 bytes
+Thread 8 tokenization time: 67.5432 seconds
+Thread 8 processed 679302367 bytes
+Thread 9 tokenization time: 67.6027 seconds
+Thread 9 processed 655754660 bytes
+Thread 10 tokenization time: 67.5418 seconds
+Thread 10 processed 643468628 bytes
+Thread 11 tokenization time: 67.6144 seconds
+Thread 11 processed 653194626 bytes
+Thread 12 tokenization time: 67.5469 seconds
+Thread 12 processed 640908974 bytes
+Thread 13 tokenization time: 67.6154 seconds
+Thread 13 processed 654218696 bytes
+Thread 14 tokenization time: 67.5479 seconds
+Thread 14 processed 681350377 bytes
+Thread 15 tokenization time: 67.6036 seconds
+Thread 15 processed 653706829 bytes
+Thread 16 tokenization time: 67.5463 seconds
+Thread 16 processed 682374228 bytes
+Thread 17 tokenization time: 67.6221 seconds
+Thread 17 processed 653707305 bytes
+Thread 18 tokenization time: 67.5270 seconds
+Thread 18 processed 680838594 bytes
+Thread 19 tokenization time: 67.6105 seconds
+Thread 19 processed 672647893 bytes
+Thread 20 tokenization time: 67.5530 seconds
+Thread 20 processed 642444918 bytes
+Thread 21 tokenization time: 67.6242 seconds
+Thread 21 processed 654217891 bytes
+Thread 22 tokenization time: 67.5435 seconds
+Thread 22 processed 681862472 bytes
+Thread 23 tokenization time: 67.6043 seconds
+Thread 23 processed 669576788 bytes
+Thread 24 tokenization time: 67.5500 seconds
+Thread 24 processed 679302200 bytes
+Thread 25 tokenization time: 67.6316 seconds
+Thread 25 processed 653195125 bytes
+Thread 26 tokenization time: 67.5370 seconds
+Thread 26 processed 683910278 bytes
+Thread 27 tokenization time: 67.5956 seconds
+Thread 27 processed 673160265 bytes
+Thread 28 tokenization time: 67.5199 seconds
+Thread 28 processed 683910472 bytes
+Thread 29 tokenization time: 67.6086 seconds
+Thread 29 processed 668552867 bytes
+Thread 30 tokenization time: 67.5103 seconds
+Thread 30 processed 642445588 bytes
+Thread 31 tokenization time: 67.5935 seconds
+Thread 31 processed 672136529 bytes
+Thread 32 tokenization time: 67.5469 seconds
+Thread 32 processed 680326589 bytes
+Thread 33 tokenization time: 67.6198 seconds
+Thread 33 processed 653707514 bytes
+Thread 34 tokenization time: 67.5260 seconds
+Thread 34 processed 639374076 bytes
+Thread 35 tokenization time: 67.6025 seconds
+Thread 35 processed 653195406 bytes
+Thread 36 tokenization time: 67.5154 seconds
+Thread 36 processed 641933423 bytes
+Thread 37 tokenization time: 67.6094 seconds
+Thread 37 processed 654218627 bytes
+Thread 38 tokenization time: 67.5244 seconds
+Thread 38 processed 641933487 bytes
+Thread 39 tokenization time: 67.6178 seconds
+Thread 39 processed 654219239 bytes
+Thread 40 tokenization time: 67.5333 seconds
+Thread 40 processed 642957355 bytes
+Thread 41 tokenization time: 67.6302 seconds
+Thread 41 processed 653194936 bytes
+Thread 42 tokenization time: 67.5431 seconds
+Thread 42 processed 681349960 bytes
+Thread 43 tokenization time: 67.5966 seconds
+Thread 43 processed 670089108 bytes
+Thread 44 tokenization time: 67.5503 seconds
+Thread 44 processed 682374014 bytes
+Thread 45 tokenization time: 67.6003 seconds
+Thread 45 processed 671625004 bytes
+Thread 46 tokenization time: 67.5342 seconds
+Thread 46 processed 641421364 bytes
+Thread 47 tokenization time: 67.6037 seconds
+Thread 47 processed 669576491 bytes
+Thread 48 tokenization time: 67.5500 seconds
+Thread 48 processed 640909349 bytes
+Thread 49 tokenization time: 67.6072 seconds
+Thread 49 processed 670600284 bytes
+Thread 50 tokenization time: 67.5490 seconds
+Thread 50 processed 640909155 bytes
+Thread 51 tokenization time: 67.6340 seconds
+Thread 51 processed 653706940 bytes
+Thread 52 tokenization time: 67.5084 seconds
+Thread 52 processed 641421685 bytes
+Thread 53 tokenization time: 67.5906 seconds
+Thread 53 processed 674184474 bytes
+Thread 54 tokenization time: 67.5291 seconds
+Thread 54 processed 639885674 bytes
+Thread 55 tokenization time: 67.6011 seconds
+Thread 55 processed 672135930 bytes
+Thread 56 tokenization time: 67.5120 seconds
+Thread 56 processed 641933394 bytes
+Thread 57 tokenization time: 67.6144 seconds
+Thread 57 processed 653707154 bytes
+Thread 58 tokenization time: 67.5438 seconds
+Thread 58 processed 683398229 bytes
+Thread 59 tokenization time: 67.6046 seconds
+Thread 59 processed 652171802 bytes
+Thread 60 tokenization time: 67.4806 seconds
+Thread 60 processed 640910019 bytes
+Thread 61 tokenization time: 67.5763 seconds
+Thread 61 processed 672648432 bytes
+Thread 62 tokenization time: 67.5180 seconds
+Thread 62 processed 682886122 bytes
+Thread 63 tokenization time: 67.5830 seconds
+Thread 63 processed 651659616 bytes
+Thread 64 tokenization time: 67.5129 seconds
+Thread 64 processed 680838268 bytes
+Thread 65 tokenization time: 67.5808 seconds
+Thread 65 processed 670600442 bytes
+Thread 66 tokenization time: 67.5148 seconds
+Thread 66 processed 679814271 bytes
+Thread 67 tokenization time: 67.5877 seconds
+Thread 67 processed 671112037 bytes
+Thread 68 tokenization time: 67.5104 seconds
+Thread 68 processed 684933882 bytes
+Thread 69 tokenization time: 67.5757 seconds
+Thread 69 processed 653706664 bytes
+Thread 70 tokenization time: 67.4793 seconds
+Thread 70 processed 640909497 bytes
+Thread 71 tokenization time: 67.5674 seconds
+Thread 71 processed 672136234 bytes
+Thread 72 tokenization time: 67.5057 seconds
+Thread 72 processed 639885689 bytes
+Thread 73 tokenization time: 67.5717 seconds
+Thread 73 processed 672649146 bytes
+Thread 74 tokenization time: 67.4948 seconds
+Thread 74 processed 640909662 bytes
+Thread 75 tokenization time: 67.5792 seconds
+Thread 75 processed 670088116 bytes
+Thread 76 tokenization time: 67.5007 seconds
+Thread 76 processed 641421414 bytes
+Thread 77 tokenization time: 67.5801 seconds
+Thread 77 processed 672136537 bytes
+Thread 78 tokenization time: 67.5033 seconds
+Thread 78 processed 676742981 bytes
+Thread 79 tokenization time: 67.5853 seconds
+Thread 79 processed 653706958 bytes
+Thread 80 tokenization time: 67.5087 seconds
+Thread 80 processed 682886158 bytes
+Thread 81 tokenization time: 67.5738 seconds
+Thread 81 processed 651147608 bytes
+Thread 82 tokenization time: 67.4931 seconds
+Thread 82 processed 680838427 bytes
+Thread 83 tokenization time: 67.5551 seconds
+Thread 83 processed 655754501 bytes
+Thread 84 tokenization time: 67.4996 seconds
+Thread 84 processed 680326662 bytes
+Thread 85 tokenization time: 67.5489 seconds
+Thread 85 processed 670088609 bytes
+Thread 86 tokenization time: 67.4706 seconds
+Thread 86 processed 680838930 bytes
+Thread 87 tokenization time: 67.5671 seconds
+Thread 87 processed 674695947 bytes
+Thread 88 tokenization time: 67.4875 seconds
+Thread 88 processed 640397688 bytes
+Thread 89 tokenization time: 67.5667 seconds
+Thread 89 processed 655242254 bytes
+Thread 90 tokenization time: 67.4935 seconds
+Thread 90 processed 681861991 bytes
+Thread 91 tokenization time: 67.5539 seconds
+Thread 91 processed 669576799 bytes
+Thread 92 tokenization time: 67.4970 seconds
+Thread 92 processed 643468955 bytes
+Thread 93 tokenization time: 67.5752 seconds
+Thread 93 processed 652683328 bytes
+Thread 94 tokenization time: 67.4809 seconds
+Thread 94 processed 639885618 bytes
+Thread 95 tokenization time: 67.5840 seconds
+Thread 95 processed 653706924 bytes
+Thread 96 tokenization time: 67.4991 seconds
+Thread 96 processed 679814307 bytes
+Thread 51 took the longest time for tokenization: 67.6340 seconds
+Total execution time (create and join threads): 67.6477 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 896.2810 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 96, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 8 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 72 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 67.1493 seconds
+Thread 1 processed 669063682 bytes
+Thread 2 tokenization time: 67.0239 seconds
+Thread 2 processed 678278765 bytes
+Thread 3 tokenization time: 67.1625 seconds
+Thread 3 processed 669576609 bytes
+Thread 4 tokenization time: 66.9928 seconds
+Thread 4 processed 640909696 bytes
+Thread 5 tokenization time: 67.1485 seconds
+Thread 5 processed 671111563 bytes
+Thread 6 tokenization time: 67.0024 seconds
+Thread 6 processed 642957362 bytes
+Thread 7 tokenization time: 67.1607 seconds
+Thread 7 processed 656266190 bytes
+Thread 8 tokenization time: 66.9972 seconds
+Thread 8 processed 640909640 bytes
+Thread 9 tokenization time: 67.1504 seconds
+Thread 9 processed 655243521 bytes
+Thread 10 tokenization time: 67.0042 seconds
+Thread 10 processed 680838528 bytes
+Thread 11 tokenization time: 67.1538 seconds
+Thread 11 processed 658314703 bytes
+Thread 12 tokenization time: 67.0240 seconds
+Thread 12 processed 641421396 bytes
+Thread 13 tokenization time: 67.1482 seconds
+Thread 13 processed 656267336 bytes
+Thread 14 tokenization time: 66.9781 seconds
+Thread 14 processed 641421654 bytes
+Thread 15 tokenization time: 67.1592 seconds
+Thread 15 processed 656778074 bytes
+Thread 16 tokenization time: 67.0087 seconds
+Thread 16 processed 680326621 bytes
+Thread 17 tokenization time: 67.1479 seconds
+Thread 17 processed 655754535 bytes
+Thread 18 tokenization time: 66.9810 seconds
+Thread 18 processed 680326813 bytes
+Thread 19 tokenization time: 67.1540 seconds
+Thread 19 processed 655755220 bytes
+Thread 20 tokenization time: 67.0055 seconds
+Thread 20 processed 640397337 bytes
+Thread 21 tokenization time: 67.1403 seconds
+Thread 21 processed 655242725 bytes
+Thread 22 tokenization time: 66.9714 seconds
+Thread 22 processed 640909921 bytes
+Thread 23 tokenization time: 67.1450 seconds
+Thread 23 processed 655243603 bytes
+Thread 24 tokenization time: 66.9951 seconds
+Thread 24 processed 641421573 bytes
+Thread 25 tokenization time: 67.1443 seconds
+Thread 25 processed 667529059 bytes
+Thread 26 tokenization time: 67.0145 seconds
+Thread 26 processed 678278950 bytes
+Thread 27 tokenization time: 67.1444 seconds
+Thread 27 processed 656779217 bytes
+Thread 28 tokenization time: 66.9975 seconds
+Thread 28 processed 640397720 bytes
+Thread 29 tokenization time: 67.1417 seconds
+Thread 29 processed 672135431 bytes
+Thread 30 tokenization time: 66.9851 seconds
+Thread 30 processed 642957471 bytes
+Thread 31 tokenization time: 67.1469 seconds
+Thread 31 processed 671112788 bytes
+Thread 32 tokenization time: 66.9835 seconds
+Thread 32 processed 641933549 bytes
+Thread 33 tokenization time: 67.1439 seconds
+Thread 33 processed 670599326 bytes
+Thread 34 tokenization time: 67.0049 seconds
+Thread 34 processed 640909616 bytes
+Thread 35 tokenization time: 67.1405 seconds
+Thread 35 processed 655243690 bytes
+Thread 36 tokenization time: 67.0084 seconds
+Thread 36 processed 642444742 bytes
+Thread 37 tokenization time: 67.1491 seconds
+Thread 37 processed 668553081 bytes
+Thread 38 tokenization time: 67.0225 seconds
+Thread 38 processed 641420897 bytes
+Thread 39 tokenization time: 67.1573 seconds
+Thread 39 processed 654731472 bytes
+Thread 40 tokenization time: 66.9793 seconds
+Thread 40 processed 641421706 bytes
+Thread 41 tokenization time: 67.1403 seconds
+Thread 41 processed 669065040 bytes
+Thread 42 tokenization time: 66.9894 seconds
+Thread 42 processed 641222700 bytes
+Thread 43 tokenization time: 67.1630 seconds
+Thread 43 processed 655243199 bytes
+Thread 44 tokenization time: 66.9947 seconds
+Thread 44 processed 641421541 bytes
+Thread 45 tokenization time: 67.1466 seconds
+Thread 45 processed 670088451 bytes
+Thread 46 tokenization time: 67.0084 seconds
+Thread 46 processed 641933407 bytes
+Thread 47 tokenization time: 67.1425 seconds
+Thread 47 processed 656579593 bytes
+Thread 48 tokenization time: 66.9945 seconds
+Thread 48 processed 679814719 bytes
+Thread 49 tokenization time: 67.1625 seconds
+Thread 49 processed 655754891 bytes
+Thread 50 tokenization time: 66.9889 seconds
+Thread 50 processed 679302834 bytes
+Thread 51 tokenization time: 67.1576 seconds
+Thread 51 processed 655242233 bytes
+Thread 52 tokenization time: 67.0052 seconds
+Thread 52 processed 679302469 bytes
+Thread 53 tokenization time: 67.1360 seconds
+Thread 53 processed 655754527 bytes
+Thread 54 tokenization time: 66.9930 seconds
+Thread 54 processed 679302521 bytes
+Thread 55 tokenization time: 67.1387 seconds
+Thread 55 processed 655755338 bytes
+Thread 56 tokenization time: 66.9966 seconds
+Thread 56 processed 642957193 bytes
+Thread 57 tokenization time: 67.1557 seconds
+Thread 57 processed 654219591 bytes
+Thread 58 tokenization time: 67.0051 seconds
+Thread 58 processed 642956923 bytes
+Thread 59 tokenization time: 67.1245 seconds
+Thread 59 processed 671624662 bytes
+Thread 60 tokenization time: 66.9966 seconds
+Thread 60 processed 679814141 bytes
+Thread 61 tokenization time: 67.1343 seconds
+Thread 61 processed 656778150 bytes
+Thread 62 tokenization time: 66.9716 seconds
+Thread 62 processed 677766950 bytes
+Thread 63 tokenization time: 67.0892 seconds
+Thread 63 processed 655243450 bytes
+Thread 64 tokenization time: 66.9707 seconds
+Thread 64 processed 677255091 bytes
+Thread 65 tokenization time: 67.0998 seconds
+Thread 65 processed 670088727 bytes
+Thread 66 tokenization time: 66.9827 seconds
+Thread 66 processed 680326624 bytes
+Thread 67 tokenization time: 67.0973 seconds
+Thread 67 processed 670599250 bytes
+Thread 68 tokenization time: 66.9546 seconds
+Thread 68 processed 641933317 bytes
+Thread 69 tokenization time: 67.0941 seconds
+Thread 69 processed 669065026 bytes
+Thread 70 tokenization time: 66.9294 seconds
+Thread 70 processed 639885897 bytes
+Thread 71 tokenization time: 67.0896 seconds
+Thread 71 processed 670599769 bytes
+Thread 72 tokenization time: 66.9662 seconds
+Thread 72 processed 680326486 bytes
+Thread 73 tokenization time: 67.0844 seconds
+Thread 73 processed 671623735 bytes
+Thread 74 tokenization time: 66.9508 seconds
+Thread 74 processed 678790687 bytes
+Thread 75 tokenization time: 67.1088 seconds
+Thread 75 processed 654219188 bytes
+Thread 76 tokenization time: 66.9371 seconds
+Thread 76 processed 680838555 bytes
+Thread 77 tokenization time: 67.0869 seconds
+Thread 77 processed 654731800 bytes
+Thread 78 tokenization time: 66.9471 seconds
+Thread 78 processed 681350028 bytes
+Thread 79 tokenization time: 67.0931 seconds
+Thread 79 processed 651659962 bytes
+Thread 80 tokenization time: 66.9413 seconds
+Thread 80 processed 679302775 bytes
+Thread 81 tokenization time: 67.0803 seconds
+Thread 81 processed 669064047 bytes
+Thread 82 tokenization time: 66.9501 seconds
+Thread 82 processed 681862278 bytes
+Thread 83 tokenization time: 67.0746 seconds
+Thread 83 processed 671111661 bytes
+Thread 84 tokenization time: 66.9481 seconds
+Thread 84 processed 680326257 bytes
+Thread 85 tokenization time: 67.0840 seconds
+Thread 85 processed 670599439 bytes
+Thread 86 tokenization time: 66.9546 seconds
+Thread 86 processed 680838434 bytes
+Thread 87 tokenization time: 67.0704 seconds
+Thread 87 processed 668553291 bytes
+Thread 88 tokenization time: 66.9502 seconds
+Thread 88 processed 681350141 bytes
+Thread 89 tokenization time: 67.0907 seconds
+Thread 89 processed 655754272 bytes
+Thread 90 tokenization time: 66.9469 seconds
+Thread 90 processed 680838506 bytes
+Thread 91 tokenization time: 67.0891 seconds
+Thread 91 processed 669576941 bytes
+Thread 92 tokenization time: 66.9387 seconds
+Thread 92 processed 679302853 bytes
+Thread 93 tokenization time: 67.0754 seconds
+Thread 93 processed 672136754 bytes
+Thread 94 tokenization time: 66.9530 seconds
+Thread 94 processed 679814521 bytes
+Thread 95 tokenization time: 67.0908 seconds
+Thread 95 processed 656266229 bytes
+Thread 96 tokenization time: 66.9184 seconds
+Thread 96 processed 678279236 bytes
+Thread 43 took the longest time for tokenization: 67.1630 seconds
+Total execution time (create and join threads): 67.1815 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 902.5011 MB/s
+> Exit File Retrieval Engine
+
+
+---------------------------------------
+Threads: 96, Affinity: 0
+---------------------------------------
+> Starting indexFiles with path: /home/sukprasan/logs/logs60
+Crawled dataset. Number of files: 124196
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 56 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 73 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 124196
+Thread 1 tokenization time: 66.9191 seconds
+Thread 1 processed 668553023 bytes
+Thread 2 tokenization time: 67.1073 seconds
+Thread 2 processed 679814818 bytes
+Thread 3 tokenization time: 66.9364 seconds
+Thread 3 processed 670088489 bytes
+Thread 4 tokenization time: 67.0891 seconds
+Thread 4 processed 682374566 bytes
+Thread 5 tokenization time: 66.9219 seconds
+Thread 5 processed 654731333 bytes
+Thread 6 tokenization time: 67.0838 seconds
+Thread 6 processed 682374659 bytes
+Thread 7 tokenization time: 66.9277 seconds
+Thread 7 processed 654218905 bytes
+Thread 8 tokenization time: 67.1144 seconds
+Thread 8 processed 682374293 bytes
+Thread 9 tokenization time: 66.9044 seconds
+Thread 9 processed 670088639 bytes
+Thread 10 tokenization time: 67.0821 seconds
+Thread 10 processed 646028118 bytes
+Thread 11 tokenization time: 66.9368 seconds
+Thread 11 processed 669064391 bytes
+Thread 12 tokenization time: 67.0766 seconds
+Thread 12 processed 647563967 bytes
+Thread 13 tokenization time: 66.9266 seconds
+Thread 13 processed 668040577 bytes
+Thread 14 tokenization time: 67.0916 seconds
+Thread 14 processed 681349310 bytes
+Thread 15 tokenization time: 66.9046 seconds
+Thread 15 processed 669064785 bytes
+Thread 16 tokenization time: 67.0731 seconds
+Thread 16 processed 646540249 bytes
+Thread 17 tokenization time: 66.9246 seconds
+Thread 17 processed 654730974 bytes
+Thread 18 tokenization time: 67.0796 seconds
+Thread 18 processed 646540115 bytes
+Thread 19 tokenization time: 66.9043 seconds
+Thread 19 processed 670600454 bytes
+Thread 20 tokenization time: 67.0873 seconds
+Thread 20 processed 682374699 bytes
+Thread 21 tokenization time: 66.9413 seconds
+Thread 21 processed 655242499 bytes
+Thread 22 tokenization time: 67.0966 seconds
+Thread 22 processed 643981823 bytes
+Thread 23 tokenization time: 66.9228 seconds
+Thread 23 processed 652171085 bytes
+Thread 24 tokenization time: 67.0934 seconds
+Thread 24 processed 685444551 bytes
+Thread 25 tokenization time: 66.9035 seconds
+Thread 25 processed 654219332 bytes
+Thread 26 tokenization time: 67.0765 seconds
+Thread 26 processed 645517538 bytes
+Thread 27 tokenization time: 66.9283 seconds
+Thread 27 processed 653706871 bytes
+Thread 28 tokenization time: 67.0665 seconds
+Thread 28 processed 646028628 bytes
+Thread 29 tokenization time: 66.9114 seconds
+Thread 29 processed 654731428 bytes
+Thread 30 tokenization time: 67.0868 seconds
+Thread 30 processed 682886401 bytes
+Thread 31 tokenization time: 66.9274 seconds
+Thread 31 processed 670088400 bytes
+Thread 32 tokenization time: 67.0879 seconds
+Thread 32 processed 646029051 bytes
+Thread 33 tokenization time: 66.9356 seconds
+Thread 33 processed 654219018 bytes
+Thread 34 tokenization time: 67.0865 seconds
+Thread 34 processed 646540257 bytes
+Thread 35 tokenization time: 66.9243 seconds
+Thread 35 processed 668040656 bytes
+Thread 36 tokenization time: 67.0888 seconds
+Thread 36 processed 646028094 bytes
+Thread 37 tokenization time: 66.8956 seconds
+Thread 37 processed 652683605 bytes
+Thread 38 tokenization time: 67.0803 seconds
+Thread 38 processed 644293703 bytes
+Thread 39 tokenization time: 66.9072 seconds
+Thread 39 processed 655242988 bytes
+Thread 40 tokenization time: 67.0846 seconds
+Thread 40 processed 646028483 bytes
+Thread 41 tokenization time: 66.9180 seconds
+Thread 41 processed 652683477 bytes
+Thread 42 tokenization time: 67.0768 seconds
+Thread 42 processed 646028340 bytes
+Thread 43 tokenization time: 66.9288 seconds
+Thread 43 processed 654730670 bytes
+Thread 44 tokenization time: 67.0790 seconds
+Thread 44 processed 644493540 bytes
+Thread 45 tokenization time: 66.9287 seconds
+Thread 45 processed 652683323 bytes
+Thread 46 tokenization time: 67.0904 seconds
+Thread 46 processed 646540854 bytes
+Thread 47 tokenization time: 66.9199 seconds
+Thread 47 processed 670600423 bytes
+Thread 48 tokenization time: 67.0646 seconds
+Thread 48 processed 682373726 bytes
+Thread 49 tokenization time: 66.9063 seconds
+Thread 49 processed 669576538 bytes
+Thread 50 tokenization time: 67.0634 seconds
+Thread 50 processed 645004362 bytes
+Thread 51 tokenization time: 66.9315 seconds
+Thread 51 processed 670088476 bytes
+Thread 52 tokenization time: 67.0723 seconds
+Thread 52 processed 682374305 bytes
+Thread 53 tokenization time: 66.9089 seconds
+Thread 53 processed 670087806 bytes
+Thread 54 tokenization time: 67.0678 seconds
+Thread 54 processed 681350895 bytes
+Thread 55 tokenization time: 66.8977 seconds
+Thread 55 processed 654730951 bytes
+Thread 56 tokenization time: 67.0800 seconds
+Thread 56 processed 644493089 bytes
+Thread 57 tokenization time: 66.8790 seconds
+Thread 57 processed 670088815 bytes
+Thread 58 tokenization time: 67.0657 seconds
+Thread 58 processed 645005405 bytes
+Thread 59 tokenization time: 66.8927 seconds
+Thread 59 processed 669576691 bytes
+Thread 60 tokenization time: 67.0895 seconds
+Thread 60 processed 681350492 bytes
+Thread 61 tokenization time: 66.8987 seconds
+Thread 61 processed 668040661 bytes
+Thread 62 tokenization time: 67.0954 seconds
+Thread 62 processed 681350569 bytes
+Thread 63 tokenization time: 66.9209 seconds
+Thread 63 processed 670600304 bytes
+Thread 64 tokenization time: 67.0697 seconds
+Thread 64 processed 644492808 bytes
+Thread 65 tokenization time: 66.9150 seconds
+Thread 65 processed 668040747 bytes
+Thread 66 tokenization time: 67.0733 seconds
+Thread 66 processed 683908764 bytes
+Thread 67 tokenization time: 66.8917 seconds
+Thread 67 processed 652683383 bytes
+Thread 68 tokenization time: 67.0610 seconds
+Thread 68 processed 644492488 bytes
+Thread 69 tokenization time: 66.9099 seconds
+Thread 69 processed 653706975 bytes
+Thread 70 tokenization time: 67.0747 seconds
+Thread 70 processed 645005067 bytes
+Thread 71 tokenization time: 66.9063 seconds
+Thread 71 processed 654020122 bytes
+Thread 72 tokenization time: 67.0665 seconds
+Thread 72 processed 643469724 bytes
+Thread 73 tokenization time: 66.9219 seconds
+Thread 73 processed 651659283 bytes
+Thread 74 tokenization time: 67.0853 seconds
+Thread 74 processed 682374493 bytes
+Thread 75 tokenization time: 66.8829 seconds
+Thread 75 processed 668553269 bytes
+Thread 76 tokenization time: 67.0445 seconds
+Thread 76 processed 683909312 bytes
+Thread 77 tokenization time: 66.8807 seconds
+Thread 77 processed 654219263 bytes
+Thread 78 tokenization time: 67.0580 seconds
+Thread 78 processed 643469700 bytes
+Thread 79 tokenization time: 66.8871 seconds
+Thread 79 processed 669064937 bytes
+Thread 80 tokenization time: 67.0457 seconds
+Thread 80 processed 681862653 bytes
+Thread 81 tokenization time: 66.8900 seconds
+Thread 81 processed 668040904 bytes
+Thread 82 tokenization time: 67.0739 seconds
+Thread 82 processed 680838406 bytes
+Thread 83 tokenization time: 66.9054 seconds
+Thread 83 processed 670088236 bytes
+Thread 84 tokenization time: 67.0426 seconds
+Thread 84 processed 646028029 bytes
+Thread 85 tokenization time: 66.8860 seconds
+Thread 85 processed 670600553 bytes
+Thread 86 tokenization time: 67.0598 seconds
+Thread 86 processed 682374388 bytes
+Thread 87 tokenization time: 66.8964 seconds
+Thread 87 processed 653195204 bytes
+Thread 88 tokenization time: 67.0393 seconds
+Thread 88 processed 682885439 bytes
+Thread 89 tokenization time: 66.8998 seconds
+Thread 89 processed 653194953 bytes
+Thread 90 tokenization time: 67.0337 seconds
+Thread 90 processed 643981756 bytes
+Thread 91 tokenization time: 66.8936 seconds
+Thread 91 processed 668040581 bytes
+Thread 92 tokenization time: 67.0278 seconds
+Thread 92 processed 681350056 bytes
+Thread 93 tokenization time: 66.8758 seconds
+Thread 93 processed 670088434 bytes
+Thread 94 tokenization time: 67.0272 seconds
+Thread 94 processed 644493689 bytes
+Thread 95 tokenization time: 66.8579 seconds
+Thread 95 processed 670088610 bytes
+Thread 96 tokenization time: 67.0396 seconds
+Thread 96 processed 682885369 bytes
+Thread 8 took the longest time for tokenization: 67.1144 seconds
+Total execution time (create and join threads): 67.1255 seconds
+Completed indexing 63576602082 bytes of data
+Completed indexing 11983329854 tokens
+Average Throughput: 903.2545 MB/s
+> Exit File Retrieval Engine
+
+
