@@ -1,0 +1,3803 @@
+Test Results - Wed Oct 29 07:15:51 UTC 2025
+---------------------------------------
+Testing with 1 threads...
+Running iteration 1 for 1 threads... (affinity = 1)
+Result for 1 threads, iteration 1:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 0 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 75 (Node 1)
+Loader Thread 2 completed loading files on Node 1
+Loader Thread 1 completed loading files on Node 0
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 0 (Node 0)
+Thread 1 tokenization time: 190.3376 seconds
+Thread 1 processed 64355517600 bytes
+Thread 1 took the longest time for tokenization: 190.3376 seconds
+Total execution time (create and join threads): 190.6081 seconds
+Completed indexing 64355517600 bytes of data
+Completed indexing 11543867191 tokens
+Average Throughput: 321.9915 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 2 for 1 threads... (affinity = 1)
+Result for 1 threads, iteration 2:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 0 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 83 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 14 (Node 0)
+Thread 1 tokenization time: 187.5119 seconds
+Thread 1 processed 64355517600 bytes
+Thread 1 took the longest time for tokenization: 187.5119 seconds
+Total execution time (create and join threads): 187.8357 seconds
+Completed indexing 64355517600 bytes of data
+Completed indexing 11543867191 tokens
+Average Throughput: 326.7442 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 3 for 1 threads... (affinity = 1)
+Result for 1 threads, iteration 3:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 92 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 33 (Node 1)
+Loader Thread 2 completed loading files on Node 1
+Loader Thread 1 completed loading files on Node 0
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 92 (Node 0)
+Thread 1 tokenization time: 189.9868 seconds
+Thread 1 processed 64355517600 bytes
+Thread 1 took the longest time for tokenization: 189.9868 seconds
+Total execution time (create and join threads): 190.2491 seconds
+Completed indexing 64355517600 bytes of data
+Completed indexing 11543867191 tokens
+Average Throughput: 322.5992 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Testing with 2 threads...
+Running iteration 1 for 2 threads... (affinity = 1)
+Result for 2 threads, iteration 1:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 42 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 77 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 90 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 79 (Node 1)
+Thread 1 tokenization time: 196.0629 seconds
+Thread 1 processed 64355517600 bytes
+Thread 2 tokenization time: 195.6090 seconds
+Thread 2 processed 64355350373 bytes
+Thread 1 took the longest time for tokenization: 196.0629 seconds
+Total execution time (create and join threads): 196.5549 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 624.4986 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 2 for 2 threads... (affinity = 1)
+Result for 2 threads, iteration 2:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 40 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 81 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 42 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 83 (Node 1)
+Thread 1 tokenization time: 196.9435 seconds
+Thread 1 processed 64355517600 bytes
+Thread 2 tokenization time: 197.7684 seconds
+Thread 2 processed 64355350373 bytes
+Thread 2 took the longest time for tokenization: 197.7684 seconds
+Total execution time (create and join threads): 198.3107 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 618.9695 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 3 for 2 threads... (affinity = 1)
+Result for 2 threads, iteration 3:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 52 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 5 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 46 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 15 (Node 1)
+Thread 1 tokenization time: 197.5629 seconds
+Thread 1 processed 64355517600 bytes
+Thread 2 tokenization time: 197.5379 seconds
+Thread 2 processed 64355350373 bytes
+Thread 1 took the longest time for tokenization: 197.5629 seconds
+Total execution time (create and join threads): 198.1477 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 619.4787 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Testing with 4 threads...
+Running iteration 1 for 4 threads... (affinity = 1)
+Result for 4 threads, iteration 1:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 90 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 85 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 90 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 87 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 46 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 17 (Node 1)
+Thread 1 tokenization time: 100.3505 seconds
+Thread 1 processed 30946977932 bytes
+Thread 2 tokenization time: 96.5908 seconds
+Thread 2 processed 30875907305 bytes
+Thread 3 tokenization time: 100.3673 seconds
+Thread 3 processed 33408539668 bytes
+Thread 4 tokenization time: 96.5956 seconds
+Thread 4 processed 33479443068 bytes
+Thread 3 took the longest time for tokenization: 100.3673 seconds
+Total execution time (create and join threads): 100.6092 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 1220.0494 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 2 for 4 threads... (affinity = 1)
+Result for 4 threads, iteration 2:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 94 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 19 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 94 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 21 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 2 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 23 (Node 1)
+Thread 1 tokenization time: 100.7691 seconds
+Thread 1 processed 31626719144 bytes
+Thread 2 tokenization time: 96.4918 seconds
+Thread 2 processed 31591080462 bytes
+Thread 3 tokenization time: 100.7243 seconds
+Thread 3 processed 32728798456 bytes
+Thread 4 tokenization time: 96.4520 seconds
+Thread 4 processed 32764269911 bytes
+Thread 1 took the longest time for tokenization: 100.7691 seconds
+Total execution time (create and join threads): 100.9720 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 1215.6656 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 3 for 4 threads... (affinity = 1)
+Result for 4 threads, iteration 3:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 92 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 29 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 92 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 37 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 0 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 77 (Node 1)
+Thread 1 tokenization time: 98.0955 seconds
+Thread 1 processed 30976123666 bytes
+Thread 2 tokenization time: 100.4880 seconds
+Thread 2 processed 30958550234 bytes
+Thread 3 tokenization time: 98.1017 seconds
+Thread 3 processed 33379393934 bytes
+Thread 4 tokenization time: 100.4992 seconds
+Thread 4 processed 33396800139 bytes
+Thread 4 took the longest time for tokenization: 100.4992 seconds
+Total execution time (create and join threads): 100.8022 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 1217.7139 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Testing with 8 threads...
+Running iteration 1 for 8 threads... (affinity = 1)
+Result for 8 threads, iteration 1:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 0 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 79 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 48 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 81 (Node 1)
+Thread 4 affinity set to Node 1
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 4 (Node 0)
+Thread 4 is running on CPU 7 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 2 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 9 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 56 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 11 (Node 1)
+Thread 1 tokenization time: 50.1162 seconds
+Thread 1 processed 14778353216 bytes
+Thread 2 tokenization time: 50.7445 seconds
+Thread 2 processed 14936477407 bytes
+Thread 3 tokenization time: 50.1250 seconds
+Thread 3 processed 16533887668 bytes
+Thread 4 tokenization time: 50.7484 seconds
+Thread 4 processed 16460112289 bytes
+Thread 5 tokenization time: 50.1210 seconds
+Thread 5 processed 16512073282 bytes
+Thread 6 tokenization time: 50.7478 seconds
+Thread 6 processed 16501836144 bytes
+Thread 7 tokenization time: 50.1226 seconds
+Thread 7 processed 16531203434 bytes
+Thread 8 tokenization time: 50.7530 seconds
+Thread 8 processed 16456924533 bytes
+Thread 8 took the longest time for tokenization: 50.7530 seconds
+Total execution time (create and join threads): 50.9277 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 2410.2442 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 2 for 8 threads... (affinity = 1)
+Result for 8 threads, iteration 2:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 42 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 29 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 0 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 31 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 92 (Node 0)
+Thread 5 affinity set to Node 0
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 39 (Node 1)
+Thread 5 is running on CPU 42 (Node 0)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 4 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 41 (Node 1)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 83 (Node 1)
+Thread 1 tokenization time: 50.7965 seconds
+Thread 1 processed 14646563745 bytes
+Thread 2 tokenization time: 50.7288 seconds
+Thread 2 processed 14854323425 bytes
+Thread 3 tokenization time: 50.8053 seconds
+Thread 3 processed 16572605806 bytes
+Thread 4 tokenization time: 50.7360 seconds
+Thread 4 processed 16502532320 bytes
+Thread 5 tokenization time: 50.8046 seconds
+Thread 5 processed 16563514933 bytes
+Thread 6 tokenization time: 50.7345 seconds
+Thread 6 processed 16477937816 bytes
+Thread 7 tokenization time: 50.8021 seconds
+Thread 7 processed 16572833116 bytes
+Thread 8 tokenization time: 50.7314 seconds
+Thread 8 processed 16520556812 bytes
+Thread 3 took the longest time for tokenization: 50.8053 seconds
+Total execution time (create and join threads): 50.9701 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 2408.2408 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 3 for 8 threads... (affinity = 1)
+Result for 8 threads, iteration 3:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 0 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 85 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 6 (Node 0)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 2 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 29 (Node 1)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 45 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 10 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 83 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 0 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 75 (Node 1)
+Thread 1 tokenization time: 51.2231 seconds
+Thread 1 processed 14891885994 bytes
+Thread 2 tokenization time: 52.1731 seconds
+Thread 2 processed 14938310405 bytes
+Thread 3 tokenization time: 51.2190 seconds
+Thread 3 processed 16481084600 bytes
+Thread 4 tokenization time: 52.1790 seconds
+Thread 4 processed 16463884505 bytes
+Thread 5 tokenization time: 51.2249 seconds
+Thread 5 processed 16469093861 bytes
+Thread 6 tokenization time: 52.1748 seconds
+Thread 6 processed 16488965058 bytes
+Thread 7 tokenization time: 51.2220 seconds
+Thread 7 processed 16513453145 bytes
+Thread 8 tokenization time: 52.1791 seconds
+Thread 8 processed 16464190405 bytes
+Thread 8 took the longest time for tokenization: 52.1791 seconds
+Total execution time (create and join threads): 52.3695 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 2343.8892 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Testing with 16 threads...
+Running iteration 1 for 16 threads... (affinity = 1)
+Result for 16 threads, iteration 1:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 0 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 87 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 80 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 33 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 2 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 35 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 4 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 37 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 56 (Node 0)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 6 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 39 (Node 1)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 21 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 48 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 23 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 62 (Node 0)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 20 (Node 0)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 53 (Node 1)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 31 (Node 1)
+Thread 1 tokenization time: 25.3082 seconds
+Thread 1 processed 7086917960 bytes
+Thread 2 tokenization time: 25.2929 seconds
+Thread 2 processed 7060302331 bytes
+Thread 3 tokenization time: 25.3002 seconds
+Thread 3 processed 8180109681 bytes
+Thread 4 tokenization time: 25.2835 seconds
+Thread 4 processed 8179873927 bytes
+Thread 5 tokenization time: 25.3040 seconds
+Thread 5 processed 8182670938 bytes
+Thread 6 tokenization time: 25.2853 seconds
+Thread 6 processed 8194976729 bytes
+Thread 7 tokenization time: 25.3015 seconds
+Thread 7 processed 8189009030 bytes
+Thread 8 tokenization time: 25.2847 seconds
+Thread 8 processed 8170415192 bytes
+Thread 9 tokenization time: 25.3010 seconds
+Thread 9 processed 8183459993 bytes
+Thread 10 tokenization time: 25.2832 seconds
+Thread 10 processed 8195123681 bytes
+Thread 11 tokenization time: 25.3000 seconds
+Thread 11 processed 8174470591 bytes
+Thread 12 tokenization time: 25.2844 seconds
+Thread 12 processed 8197576134 bytes
+Thread 13 tokenization time: 25.3044 seconds
+Thread 13 processed 8175063399 bytes
+Thread 14 tokenization time: 25.2819 seconds
+Thread 14 processed 8177907107 bytes
+Thread 15 tokenization time: 25.3014 seconds
+Thread 15 processed 8183816008 bytes
+Thread 16 tokenization time: 25.2832 seconds
+Thread 16 processed 8179175272 bytes
+Thread 1 took the longest time for tokenization: 25.3082 seconds
+Total execution time (create and join threads): 25.4118 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 4830.3548 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 2 for 16 threads... (affinity = 1)
+Result for 16 threads, iteration 2:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 0 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 89 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 0 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 91 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 4 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 23 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 2 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 25 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 8 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 27 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 58 (Node 0)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 6 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 85 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 77 (Node 1)
+Thread 13 is running on CPU 60 (Node 0)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 14 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 39 (Node 1)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 17 (Node 1)
+Thread 1 tokenization time: 25.7912 seconds
+Thread 1 processed 7012234967 bytes
+Thread 2 tokenization time: 25.7821 seconds
+Thread 2 processed 7058527950 bytes
+Thread 3 tokenization time: 25.7865 seconds
+Thread 3 processed 8188919725 bytes
+Thread 4 tokenization time: 25.7748 seconds
+Thread 4 processed 8198187022 bytes
+Thread 5 tokenization time: 25.7849 seconds
+Thread 5 processed 8185186825 bytes
+Thread 6 tokenization time: 25.7735 seconds
+Thread 6 processed 8181725377 bytes
+Thread 7 tokenization time: 25.7868 seconds
+Thread 7 processed 8196950430 bytes
+Thread 8 tokenization time: 25.7709 seconds
+Thread 8 processed 8181832558 bytes
+Thread 9 tokenization time: 25.7852 seconds
+Thread 9 processed 8197815729 bytes
+Thread 10 tokenization time: 25.7725 seconds
+Thread 10 processed 8182173870 bytes
+Thread 11 tokenization time: 25.7858 seconds
+Thread 11 processed 8193665060 bytes
+Thread 12 tokenization time: 25.7728 seconds
+Thread 12 processed 8190588016 bytes
+Thread 13 tokenization time: 25.7835 seconds
+Thread 13 processed 8198020647 bytes
+Thread 14 tokenization time: 25.7731 seconds
+Thread 14 processed 8189415625 bytes
+Thread 15 tokenization time: 25.7887 seconds
+Thread 15 processed 8182724217 bytes
+Thread 16 tokenization time: 25.7713 seconds
+Thread 16 processed 8172899955 bytes
+Thread 1 took the longest time for tokenization: 25.7912 seconds
+Total execution time (create and join threads): 25.9016 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 4739.0201 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 3 for 16 threads... (affinity = 1)
+Result for 16 threads, iteration 3:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 0 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 93 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 82 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 45 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 2 (Node 0)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 0 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 49 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 8 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 13 (Node 1)
+Thread 8 is running on CPU 51 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 10 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 53 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 54 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 87 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 4 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 89 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 64 (Node 0)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 91 (Node 1)
+Thread 1 tokenization time: 25.7461 seconds
+Thread 1 processed 7051599896 bytes
+Thread 2 tokenization time: 25.7153 seconds
+Thread 2 processed 7078409780 bytes
+Thread 3 tokenization time: 25.7387 seconds
+Thread 3 processed 8188009780 bytes
+Thread 4 tokenization time: 25.7162 seconds
+Thread 4 processed 8176444416 bytes
+Thread 5 tokenization time: 25.7388 seconds
+Thread 5 processed 8136198585 bytes
+Thread 6 tokenization time: 25.7150 seconds
+Thread 6 processed 8193989143 bytes
+Thread 7 tokenization time: 25.7402 seconds
+Thread 7 processed 8202940139 bytes
+Thread 8 tokenization time: 25.7177 seconds
+Thread 8 processed 8177047231 bytes
+Thread 9 tokenization time: 25.7388 seconds
+Thread 9 processed 8197289962 bytes
+Thread 10 tokenization time: 25.7170 seconds
+Thread 10 processed 8193576473 bytes
+Thread 11 tokenization time: 25.7413 seconds
+Thread 11 processed 8181818254 bytes
+Thread 12 tokenization time: 25.7153 seconds
+Thread 12 processed 8187463893 bytes
+Thread 13 tokenization time: 25.7370 seconds
+Thread 13 processed 8193575021 bytes
+Thread 14 tokenization time: 25.7149 seconds
+Thread 14 processed 8172691150 bytes
+Thread 15 tokenization time: 25.7406 seconds
+Thread 15 processed 8204085963 bytes
+Thread 16 tokenization time: 25.7147 seconds
+Thread 16 processed 8175728287 bytes
+Thread 1 took the longest time for tokenization: 25.7461 seconds
+Total execution time (create and join threads): 25.8508 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 4748.3344 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Testing with 32 threads...
+Running iteration 1 for 32 threads... (affinity = 1)
+Result for 32 threads, iteration 1:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 42 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 93 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 26 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 35 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 92 (Node 0)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 42 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 31 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 94 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 47 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 0 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 95 (Node 1)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 75 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 56 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 77 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 2 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 79 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 6 (Node 0)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 81 (Node 1)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 10 (Node 0)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 52 (Node 0)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 9 (Node 1)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 64 (Node 0)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 93 (Node 1)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 60 (Node 0)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 19 (Node 1)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 29 (Node 1)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 21 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 68 (Node 0)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 70 (Node 0)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 23 (Node 1)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 28 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 25 (Node 1)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 18 (Node 0)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 65 (Node 1)
+Thread 1 tokenization time: 13.4753 seconds
+Thread 1 processed 3271650092 bytes
+Thread 2 tokenization time: 13.7928 seconds
+Thread 2 processed 3293911307 bytes
+Thread 3 tokenization time: 13.4663 seconds
+Thread 3 processed 4072930805 bytes
+Thread 4 tokenization time: 13.7786 seconds
+Thread 4 processed 4048781843 bytes
+Thread 5 tokenization time: 13.4603 seconds
+Thread 5 processed 4070689267 bytes
+Thread 6 tokenization time: 13.7803 seconds
+Thread 6 processed 4061830271 bytes
+Thread 7 tokenization time: 13.4657 seconds
+Thread 7 processed 4084542165 bytes
+Thread 8 tokenization time: 13.7791 seconds
+Thread 8 processed 4077506461 bytes
+Thread 9 tokenization time: 13.4582 seconds
+Thread 9 processed 4043432563 bytes
+Thread 10 tokenization time: 13.7768 seconds
+Thread 10 processed 4069195785 bytes
+Thread 11 tokenization time: 13.4640 seconds
+Thread 11 processed 4078989125 bytes
+Thread 12 tokenization time: 13.7800 seconds
+Thread 12 processed 4059584014 bytes
+Thread 13 tokenization time: 13.4594 seconds
+Thread 13 processed 4068670687 bytes
+Thread 14 tokenization time: 13.7803 seconds
+Thread 14 processed 4046174226 bytes
+Thread 15 tokenization time: 13.4571 seconds
+Thread 15 processed 4071838714 bytes
+Thread 16 tokenization time: 13.7779 seconds
+Thread 16 processed 4081921175 bytes
+Thread 17 tokenization time: 13.4615 seconds
+Thread 17 processed 4078868143 bytes
+Thread 18 tokenization time: 13.7802 seconds
+Thread 18 processed 4086695778 bytes
+Thread 19 tokenization time: 13.4569 seconds
+Thread 19 processed 4064713389 bytes
+Thread 20 tokenization time: 13.7764 seconds
+Thread 20 processed 4074708064 bytes
+Thread 21 tokenization time: 13.4622 seconds
+Thread 21 processed 4079532535 bytes
+Thread 22 tokenization time: 13.7770 seconds
+Thread 22 processed 4082455240 bytes
+Thread 23 tokenization time: 13.4600 seconds
+Thread 23 processed 4076816873 bytes
+Thread 24 tokenization time: 13.7769 seconds
+Thread 24 processed 4055195252 bytes
+Thread 25 tokenization time: 13.4560 seconds
+Thread 25 processed 4070119317 bytes
+Thread 26 tokenization time: 13.7761 seconds
+Thread 26 processed 4075321186 bytes
+Thread 27 tokenization time: 13.4639 seconds
+Thread 27 processed 4070647866 bytes
+Thread 28 tokenization time: 13.7764 seconds
+Thread 28 processed 4083480388 bytes
+Thread 29 tokenization time: 13.4600 seconds
+Thread 29 processed 4082278195 bytes
+Thread 30 tokenization time: 13.7788 seconds
+Thread 30 processed 4081671777 bytes
+Thread 31 tokenization time: 13.4588 seconds
+Thread 31 processed 4069797864 bytes
+Thread 32 tokenization time: 13.7762 seconds
+Thread 32 processed 4076917606 bytes
+Thread 2 took the longest time for tokenization: 13.7928 seconds
+Total execution time (create and join threads): 13.8840 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 8841.0177 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 2 for 32 threads... (affinity = 1)
+Result for 32 threads, iteration 2:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 92 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 33 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 6 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 1 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 94 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 91 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 92 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 35 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 48 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 37 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 4 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 39 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 40 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 87 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 58 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 89 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 56 (Node 0)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 12 (Node 0)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 93 (Node 1)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 64 (Node 0)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 50 (Node 0)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 27 (Node 1)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 68 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 29 (Node 1)
+Thread 22 affinity set to Node 1
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 18 (Node 0)
+Thread 22 is running on CPU 79 (Node 1)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 81 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 24 (Node 0)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 83 (Node 1)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 22 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 67 (Node 1)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 80 (Node 0)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 69 (Node 1)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 91 (Node 1)
+Thread 1 tokenization time: 13.9757 seconds
+Thread 1 processed 3283911565 bytes
+Thread 2 tokenization time: 14.0587 seconds
+Thread 2 processed 3268197202 bytes
+Thread 3 tokenization time: 13.9650 seconds
+Thread 3 processed 4079074238 bytes
+Thread 4 tokenization time: 14.0343 seconds
+Thread 4 processed 4053918054 bytes
+Thread 5 tokenization time: 13.9673 seconds
+Thread 5 processed 4079618102 bytes
+Thread 6 tokenization time: 14.0395 seconds
+Thread 6 processed 4052244465 bytes
+Thread 7 tokenization time: 13.9593 seconds
+Thread 7 processed 4051241729 bytes
+Thread 8 tokenization time: 14.0428 seconds
+Thread 8 processed 4084782115 bytes
+Thread 9 tokenization time: 13.9631 seconds
+Thread 9 processed 4072609418 bytes
+Thread 10 tokenization time: 14.0404 seconds
+Thread 10 processed 4059316547 bytes
+Thread 11 tokenization time: 13.9557 seconds
+Thread 11 processed 4069722947 bytes
+Thread 12 tokenization time: 14.0373 seconds
+Thread 12 processed 4058331525 bytes
+Thread 13 tokenization time: 13.9596 seconds
+Thread 13 processed 4078454591 bytes
+Thread 14 tokenization time: 14.0410 seconds
+Thread 14 processed 4082787558 bytes
+Thread 15 tokenization time: 13.9627 seconds
+Thread 15 processed 4074328605 bytes
+Thread 16 tokenization time: 14.0357 seconds
+Thread 16 processed 4061350414 bytes
+Thread 17 tokenization time: 13.9617 seconds
+Thread 17 processed 4073725586 bytes
+Thread 18 tokenization time: 14.0395 seconds
+Thread 18 processed 4086709715 bytes
+Thread 19 tokenization time: 13.9639 seconds
+Thread 19 processed 4077382144 bytes
+Thread 20 tokenization time: 14.0385 seconds
+Thread 20 processed 4079207769 bytes
+Thread 21 tokenization time: 13.9558 seconds
+Thread 21 processed 4051288184 bytes
+Thread 22 tokenization time: 14.0310 seconds
+Thread 22 processed 4070662850 bytes
+Thread 23 tokenization time: 13.9590 seconds
+Thread 23 processed 4077611421 bytes
+Thread 24 tokenization time: 14.0351 seconds
+Thread 24 processed 4081719486 bytes
+Thread 25 tokenization time: 13.9574 seconds
+Thread 25 processed 4067942485 bytes
+Thread 26 tokenization time: 14.0311 seconds
+Thread 26 processed 4069402450 bytes
+Thread 27 tokenization time: 13.9571 seconds
+Thread 27 processed 4072530087 bytes
+Thread 28 tokenization time: 14.0407 seconds
+Thread 28 processed 4071953148 bytes
+Thread 29 tokenization time: 13.9625 seconds
+Thread 29 processed 4073572956 bytes
+Thread 30 tokenization time: 14.0335 seconds
+Thread 30 processed 4086935830 bytes
+Thread 31 tokenization time: 13.9513 seconds
+Thread 31 processed 4072503542 bytes
+Thread 32 tokenization time: 14.0322 seconds
+Thread 32 processed 4087831245 bytes
+Thread 2 took the longest time for tokenization: 14.0587 seconds
+Total execution time (create and join threads): 14.1628 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 8666.9658 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 3 for 32 threads... (affinity = 1)
+Result for 32 threads, iteration 3:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 92 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 37 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 0 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 5 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 46 (Node 0)
+Thread 5 is running on CPU 92 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 1 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 2 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 83 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 52 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 15 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 54 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 95 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 58 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 3 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 60 (Node 0)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 8 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 95 (Node 1)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 79 (Node 1)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 23 (Node 1)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 5 (Node 1)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 66 (Node 0)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 62 (Node 0)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 25 (Node 1)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 70 (Node 0)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 74 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 27 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 20 (Node 0)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 39 (Node 1)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 45 (Node 1)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 28 (Node 0)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 32 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 13 (Node 1)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 87 (Node 1)
+Thread 1 tokenization time: 13.3646 seconds
+Thread 1 processed 3227695359 bytes
+Thread 2 tokenization time: 13.5264 seconds
+Thread 2 processed 3235561965 bytes
+Thread 3 tokenization time: 13.3348 seconds
+Thread 3 processed 4079802176 bytes
+Thread 4 tokenization time: 13.5044 seconds
+Thread 4 processed 4077714534 bytes
+Thread 5 tokenization time: 13.3400 seconds
+Thread 5 processed 4081738895 bytes
+Thread 6 tokenization time: 13.5116 seconds
+Thread 6 processed 4077679224 bytes
+Thread 7 tokenization time: 13.3393 seconds
+Thread 7 processed 4075227688 bytes
+Thread 8 tokenization time: 13.5065 seconds
+Thread 8 processed 4073276064 bytes
+Thread 9 tokenization time: 13.3406 seconds
+Thread 9 processed 4070795393 bytes
+Thread 10 tokenization time: 13.5093 seconds
+Thread 10 processed 4066407932 bytes
+Thread 11 tokenization time: 13.3358 seconds
+Thread 11 processed 4069010188 bytes
+Thread 12 tokenization time: 13.5125 seconds
+Thread 12 processed 4079616616 bytes
+Thread 13 tokenization time: 13.3415 seconds
+Thread 13 processed 4080460211 bytes
+Thread 14 tokenization time: 13.5098 seconds
+Thread 14 processed 4073185321 bytes
+Thread 15 tokenization time: 13.3422 seconds
+Thread 15 processed 4069016460 bytes
+Thread 16 tokenization time: 13.5052 seconds
+Thread 16 processed 4056356150 bytes
+Thread 17 tokenization time: 13.3409 seconds
+Thread 17 processed 4074672003 bytes
+Thread 18 tokenization time: 13.5115 seconds
+Thread 18 processed 4083418871 bytes
+Thread 19 tokenization time: 13.3332 seconds
+Thread 19 processed 4074192584 bytes
+Thread 20 tokenization time: 13.5090 seconds
+Thread 20 processed 4084541681 bytes
+Thread 21 tokenization time: 13.3375 seconds
+Thread 21 processed 4075815259 bytes
+Thread 22 tokenization time: 13.5085 seconds
+Thread 22 processed 4079463529 bytes
+Thread 23 tokenization time: 13.3403 seconds
+Thread 23 processed 4072662413 bytes
+Thread 24 tokenization time: 13.5047 seconds
+Thread 24 processed 4072308386 bytes
+Thread 25 tokenization time: 13.3313 seconds
+Thread 25 processed 4071328625 bytes
+Thread 26 tokenization time: 13.5064 seconds
+Thread 26 processed 4067644218 bytes
+Thread 27 tokenization time: 13.3347 seconds
+Thread 27 processed 4080729874 bytes
+Thread 28 tokenization time: 13.5051 seconds
+Thread 28 processed 4083699915 bytes
+Thread 29 tokenization time: 13.3402 seconds
+Thread 29 processed 4077079165 bytes
+Thread 30 tokenization time: 13.5057 seconds
+Thread 30 processed 4081253410 bytes
+Thread 31 tokenization time: 13.3370 seconds
+Thread 31 processed 4075291307 bytes
+Thread 32 tokenization time: 13.5042 seconds
+Thread 32 processed 4063222557 bytes
+Thread 2 took the longest time for tokenization: 13.5264 seconds
+Total execution time (create and join threads): 13.6293 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 9006.1762 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Testing with 48 threads...
+Running iteration 1 for 48 threads... (affinity = 1)
+Result for 48 threads, iteration 1:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 0 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 3 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 2 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 85 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 6 (Node 0)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 52 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 75 (Node 1)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 7 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 58 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 1 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 8 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 3 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 60 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 81 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 16 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 31 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 14 (Node 0)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 18 (Node 0)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 57 (Node 1)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 29 (Node 1)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 74 (Node 0)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 70 (Node 0)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 31 (Node 1)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 33 (Node 1)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 20 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 41 (Node 1)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 78 (Node 0)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 28 (Node 0)
+Thread 29 affinity set to Node 0
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 41 (Node 1)
+Thread 29 is running on CPU 82 (Node 0)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 80 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 25 (Node 1)
+Thread 33 affinity set to Node 0
+Thread 33 is running on CPU 40 (Node 0)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 83 (Node 1)
+Thread 35 affinity set to Node 0
+Thread 35 is running on CPU 36 (Node 0)
+Thread 37 affinity set to Node 0
+Thread 37 is running on CPU 90 (Node 0)
+Thread 39 affinity set to Node 0
+Thread 39 is running on CPU 48 (Node 0)
+Thread 40 affinity set to Node 1
+Thread 40 is running on CPU 9 (Node 1)
+Thread 41 affinity set to Node 0
+Thread 41 is running on CPU 92 (Node 0)
+Thread 42 affinity set to Node 1
+Thread 42 is running on CPU 11 (Node 1)
+Thread 43 affinity set to Node 0
+Thread 43 is running on CPU 24 (Node 0)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 31 (Node 1)
+Thread 44 affinity set to Node 1
+Thread 44 is running on CPU 13 (Node 1)
+Thread 45 affinity set to Node 0
+Thread 45 is running on CPU 94 (Node 0)
+Thread 47 affinity set to Node 0
+Thread 47 is running on CPU 36 (Node 0)
+Thread 46 affinity set to Node 1
+Thread 46 is running on CPU 15 (Node 1)
+Thread 34 affinity set to Node 1
+Thread 34 is running on CPU 41 (Node 1)
+Thread 48 affinity set to Node 1
+Thread 48 is running on CPU 93 (Node 1)
+Thread 36 affinity set to Node 1
+Thread 36 is running on CPU 85 (Node 1)
+Thread 38 affinity set to Node 1
+Thread 38 is running on CPU 17 (Node 1)
+Thread 1 tokenization time: 10.5093 seconds
+Thread 1 processed 2028240199 bytes
+Thread 2 tokenization time: 10.5413 seconds
+Thread 2 processed 2053245056 bytes
+Thread 3 tokenization time: 10.4554 seconds
+Thread 3 processed 2713309289 bytes
+Thread 4 tokenization time: 10.5074 seconds
+Thread 4 processed 2714462522 bytes
+Thread 5 tokenization time: 10.4595 seconds
+Thread 5 processed 2721054598 bytes
+Thread 6 tokenization time: 10.5004 seconds
+Thread 6 processed 2703894077 bytes
+Thread 7 tokenization time: 10.4599 seconds
+Thread 7 processed 2711608929 bytes
+Thread 8 tokenization time: 10.4991 seconds
+Thread 8 processed 2702144284 bytes
+Thread 9 tokenization time: 10.4606 seconds
+Thread 9 processed 2696613775 bytes
+Thread 10 tokenization time: 10.5061 seconds
+Thread 10 processed 2707154431 bytes
+Thread 11 tokenization time: 10.4560 seconds
+Thread 11 processed 2716641119 bytes
+Thread 12 tokenization time: 10.5047 seconds
+Thread 12 processed 2718407266 bytes
+Thread 13 tokenization time: 10.4601 seconds
+Thread 13 processed 2715816020 bytes
+Thread 14 tokenization time: 10.5024 seconds
+Thread 14 processed 2707621858 bytes
+Thread 15 tokenization time: 10.4620 seconds
+Thread 15 processed 2701082156 bytes
+Thread 16 tokenization time: 10.5119 seconds
+Thread 16 processed 2720242707 bytes
+Thread 17 tokenization time: 10.4570 seconds
+Thread 17 processed 2715190790 bytes
+Thread 18 tokenization time: 10.5100 seconds
+Thread 18 processed 2708182414 bytes
+Thread 19 tokenization time: 10.4557 seconds
+Thread 19 processed 2716342688 bytes
+Thread 20 tokenization time: 10.5041 seconds
+Thread 20 processed 2700267111 bytes
+Thread 21 tokenization time: 10.4495 seconds
+Thread 21 processed 2713561813 bytes
+Thread 22 tokenization time: 10.5141 seconds
+Thread 22 processed 2703729208 bytes
+Thread 23 tokenization time: 10.4530 seconds
+Thread 23 processed 2713795272 bytes
+Thread 24 tokenization time: 10.4971 seconds
+Thread 24 processed 2708361407 bytes
+Thread 25 tokenization time: 10.4588 seconds
+Thread 25 processed 2715943355 bytes
+Thread 26 tokenization time: 10.5025 seconds
+Thread 26 processed 2709510794 bytes
+Thread 27 tokenization time: 10.4533 seconds
+Thread 27 processed 2708812220 bytes
+Thread 28 tokenization time: 10.4952 seconds
+Thread 28 processed 2697618689 bytes
+Thread 29 tokenization time: 10.4586 seconds
+Thread 29 processed 2714595115 bytes
+Thread 30 tokenization time: 10.4951 seconds
+Thread 30 processed 2712071396 bytes
+Thread 31 tokenization time: 10.4569 seconds
+Thread 31 processed 2720475339 bytes
+Thread 32 tokenization time: 10.5087 seconds
+Thread 32 processed 2714439095 bytes
+Thread 33 tokenization time: 10.4468 seconds
+Thread 33 processed 2705024286 bytes
+Thread 34 tokenization time: 10.4937 seconds
+Thread 34 processed 2699061436 bytes
+Thread 35 tokenization time: 10.4461 seconds
+Thread 35 processed 2712354516 bytes
+Thread 36 tokenization time: 10.5013 seconds
+Thread 36 processed 2706630557 bytes
+Thread 37 tokenization time: 10.4493 seconds
+Thread 37 processed 2705678617 bytes
+Thread 38 tokenization time: 10.4927 seconds
+Thread 38 processed 2708313352 bytes
+Thread 39 tokenization time: 10.4419 seconds
+Thread 39 processed 2685370544 bytes
+Thread 40 tokenization time: 10.5011 seconds
+Thread 40 processed 2696833459 bytes
+Thread 41 tokenization time: 10.4595 seconds
+Thread 41 processed 2717232986 bytes
+Thread 42 tokenization time: 10.4997 seconds
+Thread 42 processed 2705748090 bytes
+Thread 43 tokenization time: 10.4449 seconds
+Thread 43 processed 2711699220 bytes
+Thread 44 tokenization time: 10.5075 seconds
+Thread 44 processed 2721021505 bytes
+Thread 45 tokenization time: 10.4513 seconds
+Thread 45 processed 2684320602 bytes
+Thread 46 tokenization time: 10.5026 seconds
+Thread 46 processed 2710016801 bytes
+Thread 47 tokenization time: 10.4428 seconds
+Thread 47 processed 2710754152 bytes
+Thread 48 tokenization time: 10.5098 seconds
+Thread 48 processed 2726372858 bytes
+Thread 2 took the longest time for tokenization: 10.5413 seconds
+Total execution time (create and join threads): 10.6784 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 11494.9780 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 2 for 48 threads... (affinity = 1)
+Result for 48 threads, iteration 2:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 92 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 39 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 42 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 11 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 0 (Node 0)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 92 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 95 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 50 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 87 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 52 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 17 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 54 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 89 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 56 (Node 0)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 62 (Node 0)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 77 (Node 1)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 5 (Node 1)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 13 (Node 1)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 66 (Node 0)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 79 (Node 1)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 64 (Node 0)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 81 (Node 1)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 68 (Node 0)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 83 (Node 1)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 58 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 67 (Node 1)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 70 (Node 0)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 65 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 72 (Node 0)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 76 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 69 (Node 1)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 71 (Node 1)
+Thread 33 affinity set to Node 0
+Thread 33 is running on CPU 80 (Node 0)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 78 (Node 0)
+Thread 34 affinity set to Node 1
+Thread 34 is running on CPU 73 (Node 1)
+Thread 36 affinity set to Node 1
+Thread 35 affinity set to Node 0
+Thread 35 is running on CPU 82 (Node 0)
+Thread 36 is running on CPU 75 (Node 1)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 19 (Node 1)
+Thread 37 affinity set to Node 0
+Thread 37 is running on CPU 84 (Node 0)
+Thread 39 affinity set to Node 0
+Thread 39 is running on CPU 74 (Node 0)
+Thread 38 affinity set to Node 1
+Thread 38 is running on CPU 7 (Node 1)
+Thread 40 affinity set to Node 1
+Thread 40 is running on CPU 35 (Node 1)
+Thread 41 affinity set to Node 0
+Thread 41 is running on CPU 60 (Node 0)
+Thread 43 affinity set to Node 0
+Thread 43 is running on CPU 88 (Node 0)
+Thread 45 affinity set to Node 0
+Thread 45 is running on CPU 94 (Node 0)
+Thread 42 affinity set to Node 1
+Thread 42 is running on CPU 1 (Node 1)
+Thread 47 affinity set to Node 0
+Thread 47 is running on CPU 60 (Node 0)
+Thread 48 affinity set to Node 1
+Thread 48 is running on CPU 91 (Node 1)
+Thread 46 affinity set to Node 1
+Thread 44 affinity set to Node 1
+Thread 44 is running on CPU 87 (Node 1)
+Thread 46 is running on CPU 89 (Node 1)
+Thread 1 tokenization time: 10.7227 seconds
+Thread 1 processed 2073809946 bytes
+Thread 2 tokenization time: 10.8079 seconds
+Thread 2 processed 2069993442 bytes
+Thread 3 tokenization time: 10.6841 seconds
+Thread 3 processed 2703104803 bytes
+Thread 4 tokenization time: 10.7716 seconds
+Thread 4 processed 2718222999 bytes
+Thread 5 tokenization time: 10.6876 seconds
+Thread 5 processed 2701907314 bytes
+Thread 6 tokenization time: 10.7627 seconds
+Thread 6 processed 2696613259 bytes
+Thread 7 tokenization time: 10.6864 seconds
+Thread 7 processed 2700431122 bytes
+Thread 8 tokenization time: 10.7627 seconds
+Thread 8 processed 2685834852 bytes
+Thread 9 tokenization time: 10.6759 seconds
+Thread 9 processed 2708088136 bytes
+Thread 10 tokenization time: 10.7605 seconds
+Thread 10 processed 2716715323 bytes
+Thread 11 tokenization time: 10.6864 seconds
+Thread 11 processed 2720221115 bytes
+Thread 12 tokenization time: 10.7596 seconds
+Thread 12 processed 2725460110 bytes
+Thread 13 tokenization time: 10.6966 seconds
+Thread 13 processed 2718593653 bytes
+Thread 14 tokenization time: 10.7569 seconds
+Thread 14 processed 2712558031 bytes
+Thread 15 tokenization time: 10.6819 seconds
+Thread 15 processed 2705727611 bytes
+Thread 16 tokenization time: 10.7563 seconds
+Thread 16 processed 2713367295 bytes
+Thread 17 tokenization time: 10.6859 seconds
+Thread 17 processed 2696898860 bytes
+Thread 18 tokenization time: 10.7549 seconds
+Thread 18 processed 2707245887 bytes
+Thread 19 tokenization time: 10.6832 seconds
+Thread 19 processed 2697746464 bytes
+Thread 20 tokenization time: 10.7574 seconds
+Thread 20 processed 2710789914 bytes
+Thread 21 tokenization time: 10.6750 seconds
+Thread 21 processed 2710504955 bytes
+Thread 22 tokenization time: 10.7595 seconds
+Thread 22 processed 2703819294 bytes
+Thread 23 tokenization time: 10.6746 seconds
+Thread 23 processed 2708965287 bytes
+Thread 24 tokenization time: 10.7647 seconds
+Thread 24 processed 2702125969 bytes
+Thread 25 tokenization time: 10.6930 seconds
+Thread 25 processed 2716796685 bytes
+Thread 26 tokenization time: 10.7533 seconds
+Thread 26 processed 2701709939 bytes
+Thread 27 tokenization time: 10.6829 seconds
+Thread 27 processed 2710459833 bytes
+Thread 28 tokenization time: 10.7572 seconds
+Thread 28 processed 2696628641 bytes
+Thread 29 tokenization time: 10.6747 seconds
+Thread 29 processed 2709067848 bytes
+Thread 30 tokenization time: 10.7517 seconds
+Thread 30 processed 2706021619 bytes
+Thread 31 tokenization time: 10.6751 seconds
+Thread 31 processed 2708609250 bytes
+Thread 32 tokenization time: 10.7564 seconds
+Thread 32 processed 2718840070 bytes
+Thread 33 tokenization time: 10.6821 seconds
+Thread 33 processed 2713905193 bytes
+Thread 34 tokenization time: 10.7570 seconds
+Thread 34 processed 2713597510 bytes
+Thread 35 tokenization time: 10.6794 seconds
+Thread 35 processed 2711342192 bytes
+Thread 36 tokenization time: 10.7511 seconds
+Thread 36 processed 2713521813 bytes
+Thread 37 tokenization time: 10.6740 seconds
+Thread 37 processed 2703667977 bytes
+Thread 38 tokenization time: 10.7645 seconds
+Thread 38 processed 2723559842 bytes
+Thread 39 tokenization time: 10.6835 seconds
+Thread 39 processed 2711701475 bytes
+Thread 40 tokenization time: 10.7589 seconds
+Thread 40 processed 2694120136 bytes
+Thread 41 tokenization time: 10.6799 seconds
+Thread 41 processed 2702351929 bytes
+Thread 42 tokenization time: 10.7497 seconds
+Thread 42 processed 2693185211 bytes
+Thread 43 tokenization time: 10.6899 seconds
+Thread 43 processed 2699911295 bytes
+Thread 44 tokenization time: 10.7584 seconds
+Thread 44 processed 2704014467 bytes
+Thread 45 tokenization time: 10.6728 seconds
+Thread 45 processed 2710063987 bytes
+Thread 46 tokenization time: 10.7593 seconds
+Thread 46 processed 2718729234 bytes
+Thread 47 tokenization time: 10.6771 seconds
+Thread 47 processed 2711640670 bytes
+Thread 48 tokenization time: 10.7471 seconds
+Thread 48 processed 2708675516 bytes
+Thread 2 took the longest time for tokenization: 10.8079 seconds
+Total execution time (create and join threads): 10.9113 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 11249.6904 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 3 for 48 threads... (affinity = 1)
+Result for 48 threads, iteration 3:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 94 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 95 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 2 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 43 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 48 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 45 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 4 (Node 0)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 54 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 47 (Node 1)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 49 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 8 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 51 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 10 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 41 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 94 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 57 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 62 (Node 0)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 23 (Node 1)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 66 (Node 0)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 64 (Node 0)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 12 (Node 0)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 57 (Node 1)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 35 (Node 1)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 61 (Node 1)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 20 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 63 (Node 1)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 72 (Node 0)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 65 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 76 (Node 0)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 70 (Node 0)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 73 (Node 1)
+Thread 30 affinity set to Node 1
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 32 (Node 0)
+Thread 30 is running on CPU 75 (Node 1)
+Thread 33 affinity set to Node 0
+Thread 33 is running on CPU 78 (Node 0)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 91 (Node 1)
+Thread 35 affinity set to Node 0
+Thread 35 is running on CPU 82 (Node 0)
+Thread 34 affinity set to Node 1
+Thread 34 is running on CPU 95 (Node 1)
+Thread 36 affinity set to Node 1
+Thread 36 is running on CPU 19 (Node 1)
+Thread 37 affinity set to Node 0
+Thread 37 is running on CPU 84 (Node 0)
+Thread 38 affinity set to Node 1
+Thread 38 is running on CPU 21 (Node 1)
+Thread 41 affinity set to Node 0
+Thread 41 is running on CPU 74 (Node 0)
+Thread 39 affinity set to Node 0
+Thread 39 is running on CPU 42 (Node 0)
+Thread 42 affinity set to Node 1
+Thread 42 is running on CPU 25 (Node 1)
+Thread 43 affinity set to Node 0
+Thread 43 is running on CPU 88 (Node 0)
+Thread 44 affinity set to Node 1
+Thread 44 is running on CPU 27 (Node 1)
+Thread 45 affinity set to Node 0
+Thread 45 is running on CPU 86 (Node 0)
+Thread 46 affinity set to Node 1
+Thread 46 is running on CPU 13 (Node 1)
+Thread 47 affinity set to Node 0
+Thread 47 is running on CPU 92 (Node 0)
+Thread 48 affinity set to Node 1
+Thread 48 is running on CPU 1 (Node 1)
+Thread 40 affinity set to Node 1
+Thread 40 is running on CPU 29 (Node 1)
+Thread 1 tokenization time: 10.3340 seconds
+Thread 1 processed 2046790360 bytes
+Thread 2 tokenization time: 10.4466 seconds
+Thread 2 processed 2033155191 bytes
+Thread 3 tokenization time: 10.2960 seconds
+Thread 3 processed 2687604303 bytes
+Thread 4 tokenization time: 10.4036 seconds
+Thread 4 processed 2727764321 bytes
+Thread 5 tokenization time: 10.2877 seconds
+Thread 5 processed 2710842660 bytes
+Thread 6 tokenization time: 10.4025 seconds
+Thread 6 processed 2701989650 bytes
+Thread 7 tokenization time: 10.2845 seconds
+Thread 7 processed 2717726571 bytes
+Thread 8 tokenization time: 10.3992 seconds
+Thread 8 processed 2690479985 bytes
+Thread 9 tokenization time: 10.2899 seconds
+Thread 9 processed 2717701215 bytes
+Thread 10 tokenization time: 10.3918 seconds
+Thread 10 processed 2717468982 bytes
+Thread 11 tokenization time: 10.2923 seconds
+Thread 11 processed 2721984277 bytes
+Thread 12 tokenization time: 10.4018 seconds
+Thread 12 processed 2725075276 bytes
+Thread 13 tokenization time: 10.2890 seconds
+Thread 13 processed 2694874830 bytes
+Thread 14 tokenization time: 10.4028 seconds
+Thread 14 processed 2712481799 bytes
+Thread 15 tokenization time: 10.2834 seconds
+Thread 15 processed 2708023638 bytes
+Thread 16 tokenization time: 10.4013 seconds
+Thread 16 processed 2730356994 bytes
+Thread 17 tokenization time: 10.2898 seconds
+Thread 17 processed 2710406207 bytes
+Thread 18 tokenization time: 10.4029 seconds
+Thread 18 processed 2726238273 bytes
+Thread 19 tokenization time: 10.2820 seconds
+Thread 19 processed 2707238495 bytes
+Thread 20 tokenization time: 10.4044 seconds
+Thread 20 processed 2730018614 bytes
+Thread 21 tokenization time: 10.2836 seconds
+Thread 21 processed 2711732065 bytes
+Thread 22 tokenization time: 10.3945 seconds
+Thread 22 processed 2667344494 bytes
+Thread 23 tokenization time: 10.2805 seconds
+Thread 23 processed 2711355854 bytes
+Thread 24 tokenization time: 10.3942 seconds
+Thread 24 processed 2725637678 bytes
+Thread 25 tokenization time: 10.2797 seconds
+Thread 25 processed 2721247919 bytes
+Thread 26 tokenization time: 10.3937 seconds
+Thread 26 processed 2719727319 bytes
+Thread 27 tokenization time: 10.2786 seconds
+Thread 27 processed 2708818338 bytes
+Thread 28 tokenization time: 10.3996 seconds
+Thread 28 processed 2711823090 bytes
+Thread 29 tokenization time: 10.2783 seconds
+Thread 29 processed 2713279105 bytes
+Thread 30 tokenization time: 10.3872 seconds
+Thread 30 processed 2682051556 bytes
+Thread 31 tokenization time: 10.2883 seconds
+Thread 31 processed 2698254058 bytes
+Thread 32 tokenization time: 10.3956 seconds
+Thread 32 processed 2711045300 bytes
+Thread 33 tokenization time: 10.2851 seconds
+Thread 33 processed 2716195004 bytes
+Thread 34 tokenization time: 10.3971 seconds
+Thread 34 processed 2715724874 bytes
+Thread 35 tokenization time: 10.2858 seconds
+Thread 35 processed 2719874551 bytes
+Thread 36 tokenization time: 10.3892 seconds
+Thread 36 processed 2727286265 bytes
+Thread 37 tokenization time: 10.2781 seconds
+Thread 37 processed 2714087584 bytes
+Thread 38 tokenization time: 10.4018 seconds
+Thread 38 processed 2730597325 bytes
+Thread 39 tokenization time: 10.2758 seconds
+Thread 39 processed 2675994232 bytes
+Thread 40 tokenization time: 10.3834 seconds
+Thread 40 processed 2722770599 bytes
+Thread 41 tokenization time: 10.2733 seconds
+Thread 41 processed 2702999277 bytes
+Thread 42 tokenization time: 10.3898 seconds
+Thread 42 processed 2693384345 bytes
+Thread 43 tokenization time: 10.2683 seconds
+Thread 43 processed 2705571517 bytes
+Thread 44 tokenization time: 10.3918 seconds
+Thread 44 processed 2673422977 bytes
+Thread 45 tokenization time: 10.2749 seconds
+Thread 45 processed 2717618605 bytes
+Thread 46 tokenization time: 10.3939 seconds
+Thread 46 processed 2682792287 bytes
+Thread 47 tokenization time: 10.2824 seconds
+Thread 47 processed 2715296935 bytes
+Thread 48 tokenization time: 10.3773 seconds
+Thread 48 processed 2696713179 bytes
+Thread 2 took the longest time for tokenization: 10.4466 seconds
+Total execution time (create and join threads): 10.5544 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 11630.0509 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Testing with 64 threads...
+Running iteration 1 for 64 threads... (affinity = 1)
+Result for 64 threads, iteration 1:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 6 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 91 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 4 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 5 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 6 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 93 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 8 (Node 0)
+Thread 7 affinity set to Node 0
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 85 (Node 1)
+Thread 7 is running on CPU 60 (Node 0)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 58 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 7 (Node 1)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 73 (Node 1)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 9 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 62 (Node 0)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 66 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 11 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 2 (Node 0)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 68 (Node 0)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 24 (Node 0)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 17 (Node 1)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 67 (Node 1)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 64 (Node 0)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 69 (Node 1)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 79 (Node 1)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 78 (Node 0)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 28 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 81 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 74 (Node 0)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 37 (Node 1)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 29 (Node 1)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 70 (Node 0)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 36 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 39 (Node 1)
+Thread 33 affinity set to Node 0
+Thread 33 is running on CPU 80 (Node 0)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 39 (Node 1)
+Thread 35 affinity set to Node 0
+Thread 35 is running on CPU 38 (Node 0)
+Thread 34 affinity set to Node 1
+Thread 34 is running on CPU 43 (Node 1)
+Thread 37 affinity set to Node 0
+Thread 37 is running on CPU 90 (Node 0)
+Thread 36 affinity set to Node 1
+Thread 36 is running on CPU 41 (Node 1)
+Thread 39 affinity set to Node 0
+Thread 39 is running on CPU 88 (Node 0)
+Thread 38 affinity set to Node 1
+Thread 38 is running on CPU 17 (Node 1)
+Thread 41 affinity set to Node 0
+Thread 41 is running on CPU 92 (Node 0)
+Thread 42 affinity set to Node 1
+Thread 42 is running on CPU 1 (Node 1)
+Thread 43 affinity set to Node 0
+Thread 43 is running on CPU 34 (Node 0)
+Thread 44 affinity set to Node 1
+Thread 44 is running on CPU 3 (Node 1)
+Thread 45 affinity set to Node 0
+Thread 45 is running on CPU 48 (Node 0)
+Thread 46 affinity set to Node 1
+Thread 46 is running on CPU 61 (Node 1)
+Thread 40 affinity set to Node 1
+Thread 40 is running on CPU 15 (Node 1)
+Thread 47 affinity set to Node 0
+Thread 47 is running on CPU 46 (Node 0)
+Thread 48 affinity set to Node 1
+Thread 48 is running on CPU 89 (Node 1)
+Thread 49 affinity set to Node 0
+Thread 49 is running on CPU 54 (Node 0)
+Thread 50 affinity set to Node 1
+Thread 50 is running on CPU 91 (Node 1)
+Thread 51 affinity set to Node 0
+Thread 51 is running on CPU 76 (Node 0)
+Thread 52 affinity set to Node 1
+Thread 52 is running on CPU 93 (Node 1)
+Thread 53 affinity set to Node 0
+Thread 53 is running on CPU 30 (Node 0)
+Thread 55 affinity set to Node 0
+Thread 55 is running on CPU 50 (Node 0)
+Thread 54 affinity set to Node 1
+Thread 54 is running on CPU 95 (Node 1)
+Thread 57 affinity set to Node 0
+Thread 57 is running on CPU 86 (Node 0)
+Thread 56 affinity set to Node 1
+Thread 56 is running on CPU 49 (Node 1)
+Thread 59 affinity set to Node 0
+Thread 59 is running on CPU 52 (Node 0)
+Thread 60 affinity set to Node 1
+Thread 60 is running on CPU 31 (Node 1)
+Thread 62 affinity set to Node 1
+Thread 62 is running on CPU 33 (Node 1)
+Thread 61 affinity set to Node 0
+Thread 61 is running on CPU 32 (Node 0)
+Thread 63 affinity set to Node 0
+Thread 63 is running on CPU 10 (Node 0)
+Thread 58 affinity set to Node 1
+Thread 58 is running on CPU 29 (Node 1)
+Thread 64 affinity set to Node 1
+Thread 64 is running on CPU 1 (Node 1)
+Thread 1 tokenization time: 9.7606 seconds
+Thread 1 processed 1199427191 bytes
+Thread 2 tokenization time: 9.8163 seconds
+Thread 2 processed 1517561298 bytes
+Thread 3 tokenization time: 9.6490 seconds
+Thread 3 processed 1784022713 bytes
+Thread 4 tokenization time: 9.7087 seconds
+Thread 4 processed 2312000084 bytes
+Thread 5 tokenization time: 9.6566 seconds
+Thread 5 processed 1932353370 bytes
+Thread 6 tokenization time: 9.6923 seconds
+Thread 6 processed 2129148183 bytes
+Thread 7 tokenization time: 9.6365 seconds
+Thread 7 processed 2242095744 bytes
+Thread 8 tokenization time: 9.7125 seconds
+Thread 8 processed 2322069032 bytes
+Thread 9 tokenization time: 9.6110 seconds
+Thread 9 processed 2186758561 bytes
+Thread 10 tokenization time: 9.7498 seconds
+Thread 10 processed 1909632553 bytes
+Thread 11 tokenization time: 9.6267 seconds
+Thread 11 processed 2315964440 bytes
+Thread 12 tokenization time: 9.7299 seconds
+Thread 12 processed 1960430830 bytes
+Thread 13 tokenization time: 9.6765 seconds
+Thread 13 processed 1945921578 bytes
+Thread 14 tokenization time: 9.7170 seconds
+Thread 14 processed 2224138328 bytes
+Thread 15 tokenization time: 9.6637 seconds
+Thread 15 processed 1782370644 bytes
+Thread 16 tokenization time: 9.7314 seconds
+Thread 16 processed 2082650750 bytes
+Thread 17 tokenization time: 9.6690 seconds
+Thread 17 processed 1870813373 bytes
+Thread 18 tokenization time: 9.7241 seconds
+Thread 18 processed 2153028615 bytes
+Thread 19 tokenization time: 9.6320 seconds
+Thread 19 processed 2156375553 bytes
+Thread 20 tokenization time: 9.7391 seconds
+Thread 20 processed 1759463065 bytes
+Thread 21 tokenization time: 9.6070 seconds
+Thread 21 processed 2391792457 bytes
+Thread 22 tokenization time: 9.6980 seconds
+Thread 22 processed 2343071526 bytes
+Thread 23 tokenization time: 9.6592 seconds
+Thread 23 processed 1668661815 bytes
+Thread 24 tokenization time: 9.7192 seconds
+Thread 24 processed 1994049203 bytes
+Thread 25 tokenization time: 9.5984 seconds
+Thread 25 processed 2229462512 bytes
+Thread 26 tokenization time: 9.7074 seconds
+Thread 26 processed 1949513310 bytes
+Thread 27 tokenization time: 9.6489 seconds
+Thread 27 processed 2007339991 bytes
+Thread 28 tokenization time: 9.7171 seconds
+Thread 28 processed 2169269188 bytes
+Thread 29 tokenization time: 9.6276 seconds
+Thread 29 processed 2310435555 bytes
+Thread 30 tokenization time: 9.7205 seconds
+Thread 30 processed 1815946593 bytes
+Thread 31 tokenization time: 9.5982 seconds
+Thread 31 processed 2164907903 bytes
+Thread 32 tokenization time: 9.7324 seconds
+Thread 32 processed 1846627717 bytes
+Thread 33 tokenization time: 9.5988 seconds
+Thread 33 processed 2207182567 bytes
+Thread 34 tokenization time: 9.7206 seconds
+Thread 34 processed 1698199922 bytes
+Thread 35 tokenization time: 9.6454 seconds
+Thread 35 processed 2269272407 bytes
+Thread 36 tokenization time: 9.7332 seconds
+Thread 36 processed 1772713400 bytes
+Thread 37 tokenization time: 9.6739 seconds
+Thread 37 processed 1902213967 bytes
+Thread 38 tokenization time: 9.7019 seconds
+Thread 38 processed 2400510443 bytes
+Thread 39 tokenization time: 9.6437 seconds
+Thread 39 processed 2079417410 bytes
+Thread 40 tokenization time: 9.6957 seconds
+Thread 40 processed 2135887849 bytes
+Thread 41 tokenization time: 9.6263 seconds
+Thread 41 processed 2077762406 bytes
+Thread 42 tokenization time: 9.7211 seconds
+Thread 42 processed 1950375366 bytes
+Thread 43 tokenization time: 9.6366 seconds
+Thread 43 processed 2083921654 bytes
+Thread 44 tokenization time: 9.7493 seconds
+Thread 44 processed 1779494061 bytes
+Thread 45 tokenization time: 9.6556 seconds
+Thread 45 processed 1821593937 bytes
+Thread 46 tokenization time: 9.7062 seconds
+Thread 46 processed 2178534917 bytes
+Thread 47 tokenization time: 9.6567 seconds
+Thread 47 processed 1953196188 bytes
+Thread 48 tokenization time: 9.6730 seconds
+Thread 48 processed 2259919910 bytes
+Thread 49 tokenization time: 9.6243 seconds
+Thread 49 processed 2014804632 bytes
+Thread 50 tokenization time: 9.6814 seconds
+Thread 50 processed 2208796046 bytes
+Thread 51 tokenization time: 9.5989 seconds
+Thread 51 processed 2162974639 bytes
+Thread 52 tokenization time: 9.7191 seconds
+Thread 52 processed 1926056206 bytes
+Thread 53 tokenization time: 9.6415 seconds
+Thread 53 processed 1768891840 bytes
+Thread 54 tokenization time: 9.6936 seconds
+Thread 54 processed 2342146771 bytes
+Thread 55 tokenization time: 9.6497 seconds
+Thread 55 processed 1800371151 bytes
+Thread 56 tokenization time: 9.7462 seconds
+Thread 56 processed 1700696609 bytes
+Thread 57 tokenization time: 9.5819 seconds
+Thread 57 processed 2349235156 bytes
+Thread 58 tokenization time: 9.7213 seconds
+Thread 58 processed 1925352559 bytes
+Thread 59 tokenization time: 9.6146 seconds
+Thread 59 processed 1966661605 bytes
+Thread 60 tokenization time: 9.7293 seconds
+Thread 60 processed 1651049934 bytes
+Thread 61 tokenization time: 9.6249 seconds
+Thread 61 processed 1814586627 bytes
+Thread 62 tokenization time: 9.6810 seconds
+Thread 62 processed 2256961921 bytes
+Thread 63 tokenization time: 9.6511 seconds
+Thread 63 processed 1894728014 bytes
+Thread 64 tokenization time: 9.7397 seconds
+Thread 64 processed 1680054184 bytes
+Thread 2 took the longest time for tokenization: 9.8163 seconds
+Total execution time (create and join threads): 9.9871 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 12290.6232 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 2 for 64 threads... (affinity = 1)
+Result for 64 threads, iteration 2:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 92 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 45 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 2 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 41 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 43 (Node 1)
+Thread 5 is running on CPU 94 (Node 0)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 44 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 53 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 42 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 55 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 4 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 57 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 0 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 37 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 56 (Node 0)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 6 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 35 (Node 1)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 83 (Node 1)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 16 (Node 0)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 18 (Node 0)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 39 (Node 1)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 68 (Node 0)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 70 (Node 0)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 10 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 71 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 72 (Node 0)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 35 (Node 1)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 85 (Node 1)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 47 (Node 1)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 78 (Node 0)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 93 (Node 1)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 26 (Node 0)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 51 (Node 1)
+Thread 33 affinity set to Node 0
+Thread 33 is running on CPU 82 (Node 0)
+Thread 35 affinity set to Node 0
+Thread 35 is running on CPU 32 (Node 0)
+Thread 37 affinity set to Node 0
+Thread 37 is running on CPU 38 (Node 0)
+Thread 38 affinity set to Node 1
+Thread 38 is running on CPU 49 (Node 1)
+Thread 41 affinity set to Node 0
+Thread 41 is running on CPU 88 (Node 0)
+Thread 39 affinity set to Node 0
+Thread 39 is running on CPU 14 (Node 0)
+Thread 34 affinity set to Node 1
+Thread 34 is running on CPU 53 (Node 1)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 85 (Node 1)
+Thread 40 affinity set to Node 1
+Thread 40 is running on CPU 51 (Node 1)
+Thread 36 affinity set to Node 1
+Thread 36 is running on CPU 95 (Node 1)
+Thread 43 affinity set to Node 0
+Thread 43 is running on CPU 36 (Node 0)
+Thread 42 affinity set to Node 1
+Thread 42 is running on CPU 1 (Node 1)
+Thread 45 affinity set to Node 0
+Thread 45 is running on CPU 28 (Node 0)
+Thread 44 affinity set to Node 1
+Thread 44 is running on CPU 7 (Node 1)
+Thread 46 affinity set to Node 1
+Thread 46 is running on CPU 13 (Node 1)
+Thread 48 affinity set to Node 1
+Thread 48 is running on CPU 87 (Node 1)
+Thread 47 affinity set to Node 0
+Thread 47 is running on CPU 50 (Node 0)
+Thread 49 affinity set to Node 0
+Thread 49 is running on CPU 30 (Node 0)
+Thread 50 affinity set to Node 1
+Thread 50 is running on CPU 15 (Node 1)
+Thread 51 affinity set to Node 0
+Thread 51 is running on CPU 22 (Node 0)
+Thread 53 affinity set to Node 0
+Thread 53 is running on CPU 14 (Node 0)
+Thread 52 affinity set to Node 1
+Thread 52 is running on CPU 17 (Node 1)
+Thread 55 affinity set to Node 0
+Thread 55 is running on CPU 60 (Node 0)
+Thread 57 affinity set to Node 0
+Thread 57 is running on CPU 24 (Node 0)
+Thread 59 affinity set to Node 0
+Thread 59 is running on CPU 34 (Node 0)
+Thread 58 affinity set to Node 1
+Thread 58 is running on CPU 3 (Node 1)
+Thread 56 affinity set to Node 1
+Thread 54 affinity set to Node 1
+Thread 54 is running on CPU 41 (Node 1)
+Thread 56 is running on CPU 43 (Node 1)
+Thread 60 affinity set to Node 1
+Thread 60 is running on CPU 23 (Node 1)
+Thread 61 affinity set to Node 0
+Thread 61 is running on CPU 84 (Node 0)
+Thread 63 affinity set to Node 0
+Thread 63 is running on CPU 86 (Node 0)
+Thread 62 affinity set to Node 1
+Thread 62 is running on CPU 37 (Node 1)
+Thread 64 affinity set to Node 1
+Thread 64 is running on CPU 39 (Node 1)
+Thread 1 tokenization time: 9.7003 seconds
+Thread 1 processed 1488902882 bytes
+Thread 2 tokenization time: 9.7769 seconds
+Thread 2 processed 1342131639 bytes
+Thread 3 tokenization time: 9.6178 seconds
+Thread 3 processed 2287176278 bytes
+Thread 4 tokenization time: 9.6533 seconds
+Thread 4 processed 2290924089 bytes
+Thread 5 tokenization time: 9.6408 seconds
+Thread 5 processed 2023026186 bytes
+Thread 6 tokenization time: 9.6932 seconds
+Thread 6 processed 1664712507 bytes
+Thread 7 tokenization time: 9.6281 seconds
+Thread 7 processed 2022196992 bytes
+Thread 8 tokenization time: 9.6735 seconds
+Thread 8 processed 1851187186 bytes
+Thread 9 tokenization time: 9.6326 seconds
+Thread 9 processed 2133909505 bytes
+Thread 10 tokenization time: 9.7033 seconds
+Thread 10 processed 1661796638 bytes
+Thread 11 tokenization time: 9.6130 seconds
+Thread 11 processed 2133489117 bytes
+Thread 12 tokenization time: 9.6913 seconds
+Thread 12 processed 1780019360 bytes
+Thread 13 tokenization time: 9.6267 seconds
+Thread 13 processed 2248733901 bytes
+Thread 14 tokenization time: 9.6525 seconds
+Thread 14 processed 2169842765 bytes
+Thread 15 tokenization time: 9.6362 seconds
+Thread 15 processed 1898137097 bytes
+Thread 16 tokenization time: 9.6375 seconds
+Thread 16 processed 2322830708 bytes
+Thread 17 tokenization time: 9.6355 seconds
+Thread 17 processed 1930615123 bytes
+Thread 18 tokenization time: 9.6762 seconds
+Thread 18 processed 1952677699 bytes
+Thread 19 tokenization time: 9.6052 seconds
+Thread 19 processed 2341709688 bytes
+Thread 20 tokenization time: 9.6739 seconds
+Thread 20 processed 2080831470 bytes
+Thread 21 tokenization time: 9.6006 seconds
+Thread 21 processed 2389918409 bytes
+Thread 22 tokenization time: 9.6589 seconds
+Thread 22 processed 2018320544 bytes
+Thread 23 tokenization time: 9.5874 seconds
+Thread 23 processed 2148412818 bytes
+Thread 24 tokenization time: 9.6792 seconds
+Thread 24 processed 2020677706 bytes
+Thread 25 tokenization time: 9.6048 seconds
+Thread 25 processed 2385341807 bytes
+Thread 26 tokenization time: 9.6447 seconds
+Thread 26 processed 2183192323 bytes
+Thread 27 tokenization time: 9.6241 seconds
+Thread 27 processed 1997595689 bytes
+Thread 28 tokenization time: 9.6498 seconds
+Thread 28 processed 2196672459 bytes
+Thread 29 tokenization time: 9.6285 seconds
+Thread 29 processed 1684350955 bytes
+Thread 30 tokenization time: 9.6571 seconds
+Thread 30 processed 2366248133 bytes
+Thread 31 tokenization time: 9.6057 seconds
+Thread 31 processed 2254307102 bytes
+Thread 32 tokenization time: 9.6851 seconds
+Thread 32 processed 1934152595 bytes
+Thread 33 tokenization time: 9.6079 seconds
+Thread 33 processed 1935308368 bytes
+Thread 34 tokenization time: 9.6556 seconds
+Thread 34 processed 1824634695 bytes
+Thread 35 tokenization time: 9.6286 seconds
+Thread 35 processed 2025712452 bytes
+Thread 36 tokenization time: 9.6396 seconds
+Thread 36 processed 2257626028 bytes
+Thread 37 tokenization time: 9.6173 seconds
+Thread 37 processed 1759691120 bytes
+Thread 38 tokenization time: 9.6441 seconds
+Thread 38 processed 2109696316 bytes
+Thread 39 tokenization time: 9.6277 seconds
+Thread 39 processed 1713411342 bytes
+Thread 40 tokenization time: 9.6916 seconds
+Thread 40 processed 1817574405 bytes
+Thread 41 tokenization time: 9.5833 seconds
+Thread 41 processed 2402579682 bytes
+Thread 42 tokenization time: 9.6822 seconds
+Thread 42 processed 1618160776 bytes
+Thread 43 tokenization time: 9.5908 seconds
+Thread 43 processed 1962125865 bytes
+Thread 44 tokenization time: 9.6500 seconds
+Thread 44 processed 2290964714 bytes
+Thread 45 tokenization time: 9.6223 seconds
+Thread 45 processed 2124912753 bytes
+Thread 46 tokenization time: 9.6880 seconds
+Thread 46 processed 1658323250 bytes
+Thread 47 tokenization time: 9.5843 seconds
+Thread 47 processed 2094233203 bytes
+Thread 48 tokenization time: 9.6469 seconds
+Thread 48 processed 2431002288 bytes
+Thread 49 tokenization time: 9.6294 seconds
+Thread 49 processed 1644008751 bytes
+Thread 50 tokenization time: 9.6629 seconds
+Thread 50 processed 2110901884 bytes
+Thread 51 tokenization time: 9.6334 seconds
+Thread 51 processed 1667330977 bytes
+Thread 52 tokenization time: 9.6668 seconds
+Thread 52 processed 2139748816 bytes
+Thread 53 tokenization time: 9.5928 seconds
+Thread 53 processed 1977978891 bytes
+Thread 54 tokenization time: 9.6311 seconds
+Thread 54 processed 2180006538 bytes
+Thread 55 tokenization time: 9.6380 seconds
+Thread 55 processed 1931631107 bytes
+Thread 56 tokenization time: 9.6767 seconds
+Thread 56 processed 1920091706 bytes
+Thread 57 tokenization time: 9.5742 seconds
+Thread 57 processed 2093375970 bytes
+Thread 58 tokenization time: 9.6730 seconds
+Thread 58 processed 1857623476 bytes
+Thread 59 tokenization time: 9.6244 seconds
+Thread 59 processed 1665958340 bytes
+Thread 60 tokenization time: 9.6511 seconds
+Thread 60 processed 2170888960 bytes
+Thread 61 tokenization time: 9.5979 seconds
+Thread 61 processed 2218058597 bytes
+Thread 62 tokenization time: 9.6438 seconds
+Thread 62 processed 2253765245 bytes
+Thread 63 tokenization time: 9.6200 seconds
+Thread 63 processed 1771376633 bytes
+Thread 64 tokenization time: 9.6816 seconds
+Thread 64 processed 1878123455 bytes
+Thread 2 took the longest time for tokenization: 9.7769 seconds
+Total execution time (create and join threads): 9.9030 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 12395.0710 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 3 for 64 threads... (affinity = 1)
+Result for 64 threads, iteration 3:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 33 (Node 1)
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 42 (Node 0)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 42 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 31 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 46 (Node 0)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 44 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 59 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 0 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 5 (Node 1)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 63 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 50 (Node 0)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 6 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 75 (Node 1)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 13 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 4 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 19 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 14 (Node 0)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 60 (Node 0)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 21 (Node 1)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 66 (Node 0)
+Thread 20 affinity set to Node 1
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 67 (Node 1)
+Thread 20 is running on CPU 23 (Node 1)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 22 (Node 0)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 95 (Node 1)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 64 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 1 (Node 1)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 26 (Node 0)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 3 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 30 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 95 (Node 1)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 28 (Node 0)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 56 (Node 0)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 5 (Node 1)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 7 (Node 1)
+Thread 33 affinity set to Node 0
+Thread 33 is running on CPU 32 (Node 0)
+Thread 35 affinity set to Node 0
+Thread 35 is running on CPU 82 (Node 0)
+Thread 37 affinity set to Node 0
+Thread 37 is running on CPU 38 (Node 0)
+Thread 34 affinity set to Node 1
+Thread 34 is running on CPU 9 (Node 1)
+Thread 36 affinity set to Node 1
+Thread 36 is running on CPU 33 (Node 1)
+Thread 38 affinity set to Node 1
+Thread 38 is running on CPU 11 (Node 1)
+Thread 39 affinity set to Node 0
+Thread 39 is running on CPU 36 (Node 0)
+Thread 41 affinity set to Node 0
+Thread 41 is running on CPU 68 (Node 0)
+Thread 43 affinity set to Node 0
+Thread 43 is running on CPU 24 (Node 0)
+Thread 42 affinity set to Node 1
+Thread 42 is running on CPU 45 (Node 1)
+Thread 40 affinity set to Node 1
+Thread 40 is running on CPU 61 (Node 1)
+Thread 45 affinity set to Node 0
+Thread 45 is running on CPU 88 (Node 0)
+Thread 44 affinity set to Node 1
+Thread 44 is running on CPU 87 (Node 1)
+Thread 46 affinity set to Node 1
+Thread 46 is running on CPU 21 (Node 1)
+Thread 47 affinity set to Node 0
+Thread 47 is running on CPU 58 (Node 0)
+Thread 49 affinity set to Node 0
+Thread 49 is running on CPU 72 (Node 0)
+Thread 48 affinity set to Node 1
+Thread 48 is running on CPU 23 (Node 1)
+Thread 50 affinity set to Node 1
+Thread 50 is running on CPU 25 (Node 1)
+Thread 51 affinity set to Node 0
+Thread 51 is running on CPU 80 (Node 0)
+Thread 52 affinity set to Node 1
+Thread 52 is running on CPU 27 (Node 1)
+Thread 53 affinity set to Node 0
+Thread 53 is running on CPU 92 (Node 0)
+Thread 54 affinity set to Node 1
+Thread 54 is running on CPU 93 (Node 1)
+Thread 55 affinity set to Node 0
+Thread 55 is running on CPU 20 (Node 0)
+Thread 56 affinity set to Node 1
+Thread 56 is running on CPU 47 (Node 1)
+Thread 57 affinity set to Node 0
+Thread 57 is running on CPU 84 (Node 0)
+Thread 59 affinity set to Node 0
+Thread 59 is running on CPU 78 (Node 0)
+Thread 58 affinity set to Node 1
+Thread 58 is running on CPU 49 (Node 1)
+Thread 61 affinity set to Node 0
+Thread 61 is running on CPU 34 (Node 0)
+Thread 63 affinity set to Node 0
+Thread 63 is running on CPU 94 (Node 0)
+Thread 64 affinity set to Node 1
+Thread 64 is running on CPU 35 (Node 1)
+Thread 62 affinity set to Node 1
+Thread 62 is running on CPU 47 (Node 1)
+Thread 60 affinity set to Node 1
+Thread 60 is running on CPU 37 (Node 1)
+Thread 1 tokenization time: 9.7022 seconds
+Thread 1 processed 1286673407 bytes
+Thread 2 tokenization time: 9.7755 seconds
+Thread 2 processed 1393162810 bytes
+Thread 3 tokenization time: 9.5869 seconds
+Thread 3 processed 1821248356 bytes
+Thread 4 tokenization time: 9.6951 seconds
+Thread 4 processed 1764111735 bytes
+Thread 5 tokenization time: 9.5829 seconds
+Thread 5 processed 1727358840 bytes
+Thread 6 tokenization time: 9.7017 seconds
+Thread 6 processed 1962679714 bytes
+Thread 7 tokenization time: 9.5839 seconds
+Thread 7 processed 2017919906 bytes
+Thread 8 tokenization time: 9.6591 seconds
+Thread 8 processed 1992147781 bytes
+Thread 9 tokenization time: 9.6000 seconds
+Thread 9 processed 2031233250 bytes
+Thread 10 tokenization time: 9.6953 seconds
+Thread 10 processed 1800710396 bytes
+Thread 11 tokenization time: 9.6012 seconds
+Thread 11 processed 1968139408 bytes
+Thread 12 tokenization time: 9.6950 seconds
+Thread 12 processed 1799490490 bytes
+Thread 13 tokenization time: 9.5904 seconds
+Thread 13 processed 2155420483 bytes
+Thread 14 tokenization time: 9.7016 seconds
+Thread 14 processed 1858093056 bytes
+Thread 15 tokenization time: 9.6002 seconds
+Thread 15 processed 2009578491 bytes
+Thread 16 tokenization time: 9.6421 seconds
+Thread 16 processed 2332051401 bytes
+Thread 17 tokenization time: 9.5956 seconds
+Thread 17 processed 1981678725 bytes
+Thread 18 tokenization time: 9.6569 seconds
+Thread 18 processed 1948619327 bytes
+Thread 19 tokenization time: 9.5644 seconds
+Thread 19 processed 2390463404 bytes
+Thread 20 tokenization time: 9.6723 seconds
+Thread 20 processed 2128578345 bytes
+Thread 21 tokenization time: 9.5572 seconds
+Thread 21 processed 2217344810 bytes
+Thread 22 tokenization time: 9.6579 seconds
+Thread 22 processed 2203456059 bytes
+Thread 23 tokenization time: 9.5948 seconds
+Thread 23 processed 1944145927 bytes
+Thread 24 tokenization time: 9.6867 seconds
+Thread 24 processed 1716786016 bytes
+Thread 25 tokenization time: 9.5499 seconds
+Thread 25 processed 2261618495 bytes
+Thread 26 tokenization time: 9.6643 seconds
+Thread 26 processed 2158676704 bytes
+Thread 27 tokenization time: 9.5942 seconds
+Thread 27 processed 1700835884 bytes
+Thread 28 tokenization time: 9.6591 seconds
+Thread 28 processed 2060803648 bytes
+Thread 29 tokenization time: 9.5796 seconds
+Thread 29 processed 2134018473 bytes
+Thread 30 tokenization time: 9.6558 seconds
+Thread 30 processed 2269391061 bytes
+Thread 31 tokenization time: 9.5706 seconds
+Thread 31 processed 2326083268 bytes
+Thread 32 tokenization time: 9.6767 seconds
+Thread 32 processed 1899598134 bytes
+Thread 33 tokenization time: 9.5679 seconds
+Thread 33 processed 1872288963 bytes
+Thread 34 tokenization time: 9.6931 seconds
+Thread 34 processed 1943958371 bytes
+Thread 35 tokenization time: 9.5360 seconds
+Thread 35 processed 2201052862 bytes
+Thread 36 tokenization time: 9.6716 seconds
+Thread 36 processed 2047281432 bytes
+Thread 37 tokenization time: 9.5741 seconds
+Thread 37 processed 2034983134 bytes
+Thread 38 tokenization time: 9.6521 seconds
+Thread 38 processed 1919260586 bytes
+Thread 39 tokenization time: 9.5623 seconds
+Thread 39 processed 2122170963 bytes
+Thread 40 tokenization time: 9.6505 seconds
+Thread 40 processed 2020650402 bytes
+Thread 41 tokenization time: 9.5836 seconds
+Thread 41 processed 1780100268 bytes
+Thread 42 tokenization time: 9.6683 seconds
+Thread 42 processed 2086345494 bytes
+Thread 43 tokenization time: 9.5568 seconds
+Thread 43 processed 2053097885 bytes
+Thread 44 tokenization time: 9.6505 seconds
+Thread 44 processed 2430237183 bytes
+Thread 45 tokenization time: 9.5772 seconds
+Thread 45 processed 1784196006 bytes
+Thread 46 tokenization time: 9.6529 seconds
+Thread 46 processed 2081494122 bytes
+Thread 47 tokenization time: 9.5623 seconds
+Thread 47 processed 2368210294 bytes
+Thread 48 tokenization time: 9.6845 seconds
+Thread 48 processed 1663251230 bytes
+Thread 49 tokenization time: 9.5436 seconds
+Thread 49 processed 2236073748 bytes
+Thread 50 tokenization time: 9.6827 seconds
+Thread 50 processed 1988963358 bytes
+Thread 51 tokenization time: 9.5849 seconds
+Thread 51 processed 1999288439 bytes
+Thread 52 tokenization time: 9.6503 seconds
+Thread 52 processed 2015332277 bytes
+Thread 53 tokenization time: 9.5828 seconds
+Thread 53 processed 1766938779 bytes
+Thread 54 tokenization time: 9.6344 seconds
+Thread 54 processed 2366334493 bytes
+Thread 55 tokenization time: 9.5820 seconds
+Thread 55 processed 1754957257 bytes
+Thread 56 tokenization time: 9.6661 seconds
+Thread 56 processed 1923216116 bytes
+Thread 57 tokenization time: 9.5386 seconds
+Thread 57 processed 2110574932 bytes
+Thread 58 tokenization time: 9.6518 seconds
+Thread 58 processed 1979545381 bytes
+Thread 59 tokenization time: 9.5351 seconds
+Thread 59 processed 2203283125 bytes
+Thread 60 tokenization time: 9.6757 seconds
+Thread 60 processed 2067037879 bytes
+Thread 61 tokenization time: 9.6160 seconds
+Thread 61 processed 1740040225 bytes
+Thread 62 tokenization time: 9.6623 seconds
+Thread 62 processed 2196596499 bytes
+Thread 63 tokenization time: 9.5508 seconds
+Thread 63 processed 2354499593 bytes
+Thread 64 tokenization time: 9.6599 seconds
+Thread 64 processed 2337488873 bytes
+Thread 2 took the longest time for tokenization: 9.7755 seconds
+Total execution time (create and join threads): 9.9450 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 12342.7349 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Testing with 96 threads...
+Running iteration 1 for 96 threads... (affinity = 1)
+Result for 96 threads, iteration 1:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 90 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 29 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 76 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 49 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 92 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 51 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 46 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 53 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 42 (Node 0)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 0 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 7 (Node 1)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 9 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 4 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 11 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 54 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 13 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 50 (Node 0)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 43 (Node 1)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 62 (Node 0)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 45 (Node 1)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 47 (Node 1)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 10 (Node 0)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 66 (Node 0)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 64 (Node 0)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 41 (Node 1)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 20 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 73 (Node 1)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 75 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 24 (Node 0)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 77 (Node 1)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 74 (Node 0)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 80 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 79 (Node 1)
+Thread 33 affinity set to Node 0
+Thread 33 is running on CPU 36 (Node 0)
+Thread 34 affinity set to Node 1
+Thread 34 is running on CPU 81 (Node 1)
+Thread 37 affinity set to Node 0
+Thread 37 is running on CPU 70 (Node 0)
+Thread 35 affinity set to Node 0
+Thread 35 is running on CPU 34 (Node 0)
+Thread 36 affinity set to Node 1
+Thread 36 is running on CPU 37 (Node 1)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 3 (Node 1)
+Thread 38 affinity set to Node 1
+Thread 38 is running on CPU 95 (Node 1)
+Thread 41 affinity set to Node 0
+Thread 41 is running on CPU 12 (Node 0)
+Thread 39 affinity set to Node 0
+Thread 39 is running on CPU 86 (Node 0)
+Thread 40 affinity set to Node 1
+Thread 40 is running on CPU 63 (Node 1)
+Thread 42 affinity set to Node 1
+Thread 42 is running on CPU 65 (Node 1)
+Thread 43 affinity set to Node 0
+Thread 43 is running on CPU 30 (Node 0)
+Thread 44 affinity set to Node 1
+Thread 44 is running on CPU 67 (Node 1)
+Thread 45 affinity set to Node 0
+Thread 45 is running on CPU 56 (Node 0)
+Thread 46 affinity set to Node 1
+Thread 46 is running on CPU 49 (Node 1)
+Thread 47 affinity set to Node 0
+Thread 47 is running on CPU 40 (Node 0)
+Thread 48 affinity set to Node 1
+Thread 48 is running on CPU 59 (Node 1)
+Thread 49 affinity set to Node 0
+Thread 49 is running on CPU 48 (Node 0)
+Thread 51 affinity set to Node 0
+Thread 51 is running on CPU 18 (Node 0)
+Thread 50 affinity set to Node 1
+Thread 50 is running on CPU 61 (Node 1)
+Thread 52 affinity set to Node 1
+Thread 52 is running on CPU 43 (Node 1)
+Thread 53 affinity set to Node 0
+Thread 53 is running on CPU 16 (Node 0)
+Thread 55 affinity set to Node 0
+Thread 55 is running on CPU 28 (Node 0)
+Thread 54 affinity set to Node 1
+Thread 54 is running on CPU 63 (Node 1)
+Thread 56 affinity set to Node 1
+Thread 56 is running on CPU 43 (Node 1)
+Thread 59 affinity set to Node 0
+Thread 59 is running on CPU 88 (Node 0)
+Thread 57 affinity set to Node 0
+Thread 57 is running on CPU 44 (Node 0)
+Thread 61 affinity set to Node 0
+Thread 61 is running on CPU 38 (Node 0)
+Thread 63 affinity set to Node 0
+Thread 63 is running on CPU 78 (Node 0)
+Thread 62 affinity set to Node 1
+Thread 62 is running on CPU 7 (Node 1)
+Thread 65 affinity set to Node 0
+Thread 65 is running on CPU 6 (Node 0)
+Thread 67 affinity set to Node 0
+Thread 67 is running on CPU 84 (Node 0)
+Thread 66 affinity set to Node 1
+Thread 66 is running on CPU 23 (Node 1)
+Thread 69 affinity set to Node 0
+Thread 69 is running on CPU 52 (Node 0)
+Thread 71 affinity set to Node 0
+Thread 71 is running on CPU 26 (Node 0)
+Thread 58 affinity set to Node 1
+Thread 58 is running on CPU 75 (Node 1)
+Thread 60 affinity set to Node 1
+Thread 60 is running on CPU 35 (Node 1)
+Thread 73 affinity set to Node 0
+Thread 73 is running on CPU 90 (Node 0)
+Thread 64 affinity set to Node 1
+Thread 64 is running on CPU 57 (Node 1)
+Thread 76 affinity set to Node 1
+Thread 76 is running on CPU 89 (Node 1)
+Thread 77 affinity set to Node 0
+Thread 77 is running on CPU 72 (Node 0)
+Thread 75 affinity set to Node 0
+Thread 75 is running on CPU 32 (Node 0)
+Thread 68 affinity set to Node 1
+Thread 68 is running on CPU 59 (Node 1)
+Thread 70 affinity set to Node 1
+Thread 70 is running on CPU 71 (Node 1)
+Thread 78 affinity set to Node 1
+Thread 78 is running on CPU 91 (Node 1)
+Thread 80 affinity set to Node 1
+Thread 80 is running on CPU 93 (Node 1)
+Thread 79 affinity set to Node 0
+Thread 79 is running on CPU 14 (Node 0)
+Thread 74 affinity set to Node 1
+Thread 74 is running on CPU 65 (Node 1)
+Thread 81 affinity set to Node 0
+Thread 81 is running on CPU 60 (Node 0)
+Thread 72 affinity set to Node 1
+Thread 72 is running on CPU 17 (Node 1)
+Thread 83 affinity set to Node 0
+Thread 83 is running on CPU 68 (Node 0)
+Thread 82 affinity set to Node 1
+Thread 82 is running on CPU 87 (Node 1)
+Thread 85 affinity set to Node 0
+Thread 85 is running on CPU 22 (Node 0)
+Thread 86 affinity set to Node 1
+Thread 86 is running on CPU 1 (Node 1)
+Thread 87 affinity set to Node 0
+Thread 87 is running on CPU 82 (Node 0)
+Thread 89 affinity set to Node 0
+Thread 89 is running on CPU 58 (Node 0)
+Thread 91 affinity set to Node 0
+Thread 91 is running on CPU 8 (Node 0)
+Thread 88 affinity set to Node 1
+Thread 88 is running on CPU 57 (Node 1)
+Thread 90 affinity set to Node 1
+Thread 90 is running on CPU 19 (Node 1)
+Thread 84 affinity set to Node 1
+Thread 84 is running on CPU 25 (Node 1)
+Thread 93 affinity set to Node 0
+Thread 93 is running on CPU 2 (Node 0)
+Thread 95 affinity set to Node 0
+Thread 95 is running on CPU 94 (Node 0)
+Thread 92 affinity set to Node 1
+Thread 92 is running on CPU 15 (Node 1)
+Thread 94 affinity set to Node 1
+Thread 94 is running on CPU 59 (Node 1)
+Thread 96 affinity set to Node 1
+Thread 96 is running on CPU 61 (Node 1)
+Thread 1 tokenization time: 8.3451 seconds
+Thread 1 processed 923613749 bytes
+Thread 2 tokenization time: 8.4072 seconds
+Thread 2 processed 921946101 bytes
+Thread 3 tokenization time: 8.1533 seconds
+Thread 3 processed 1346496860 bytes
+Thread 4 tokenization time: 8.2284 seconds
+Thread 4 processed 1355664569 bytes
+Thread 5 tokenization time: 8.1813 seconds
+Thread 5 processed 1353692199 bytes
+Thread 6 tokenization time: 8.2472 seconds
+Thread 6 processed 1377452085 bytes
+Thread 7 tokenization time: 8.1597 seconds
+Thread 7 processed 1340055960 bytes
+Thread 8 tokenization time: 8.2205 seconds
+Thread 8 processed 1350280099 bytes
+Thread 9 tokenization time: 8.1388 seconds
+Thread 9 processed 1341011662 bytes
+Thread 10 tokenization time: 8.2388 seconds
+Thread 10 processed 1353830524 bytes
+Thread 11 tokenization time: 8.1510 seconds
+Thread 11 processed 1344872027 bytes
+Thread 12 tokenization time: 8.2256 seconds
+Thread 12 processed 1346284955 bytes
+Thread 13 tokenization time: 8.1681 seconds
+Thread 13 processed 1351864391 bytes
+Thread 14 tokenization time: 8.2111 seconds
+Thread 14 processed 1338083548 bytes
+Thread 15 tokenization time: 8.1782 seconds
+Thread 15 processed 1351004238 bytes
+Thread 16 tokenization time: 8.2490 seconds
+Thread 16 processed 1353452215 bytes
+Thread 17 tokenization time: 8.1498 seconds
+Thread 17 processed 1344163214 bytes
+Thread 18 tokenization time: 8.2428 seconds
+Thread 18 processed 1361294947 bytes
+Thread 19 tokenization time: 8.1643 seconds
+Thread 19 processed 1351886769 bytes
+Thread 20 tokenization time: 8.2284 seconds
+Thread 20 processed 1345265977 bytes
+Thread 21 tokenization time: 8.1890 seconds
+Thread 21 processed 1357965489 bytes
+Thread 22 tokenization time: 8.2231 seconds
+Thread 22 processed 1353220379 bytes
+Thread 23 tokenization time: 8.1430 seconds
+Thread 23 processed 1343533256 bytes
+Thread 24 tokenization time: 8.2221 seconds
+Thread 24 processed 1349403383 bytes
+Thread 25 tokenization time: 8.1482 seconds
+Thread 25 processed 1341413509 bytes
+Thread 26 tokenization time: 8.2104 seconds
+Thread 26 processed 1334809105 bytes
+Thread 27 tokenization time: 8.1461 seconds
+Thread 27 processed 1341773972 bytes
+Thread 28 tokenization time: 8.2245 seconds
+Thread 28 processed 1346992130 bytes
+Thread 29 tokenization time: 8.1385 seconds
+Thread 29 processed 1344617158 bytes
+Thread 30 tokenization time: 8.2309 seconds
+Thread 30 processed 1352327339 bytes
+Thread 31 tokenization time: 8.1457 seconds
+Thread 31 processed 1342747085 bytes
+Thread 32 tokenization time: 8.2364 seconds
+Thread 32 processed 1350368892 bytes
+Thread 33 tokenization time: 8.1585 seconds
+Thread 33 processed 1346281107 bytes
+Thread 34 tokenization time: 8.2325 seconds
+Thread 34 processed 1355368702 bytes
+Thread 35 tokenization time: 8.1497 seconds
+Thread 35 processed 1344379523 bytes
+Thread 36 tokenization time: 8.2196 seconds
+Thread 36 processed 1342546771 bytes
+Thread 37 tokenization time: 8.1544 seconds
+Thread 37 processed 1341751304 bytes
+Thread 38 tokenization time: 8.2453 seconds
+Thread 38 processed 1356821461 bytes
+Thread 39 tokenization time: 8.1744 seconds
+Thread 39 processed 1347145116 bytes
+Thread 40 tokenization time: 8.2347 seconds
+Thread 40 processed 1352100577 bytes
+Thread 41 tokenization time: 8.1511 seconds
+Thread 41 processed 1337281032 bytes
+Thread 42 tokenization time: 8.2233 seconds
+Thread 42 processed 1349377356 bytes
+Thread 43 tokenization time: 8.1623 seconds
+Thread 43 processed 1355556348 bytes
+Thread 44 tokenization time: 8.2191 seconds
+Thread 44 processed 1345389093 bytes
+Thread 45 tokenization time: 8.1629 seconds
+Thread 45 processed 1347058371 bytes
+Thread 46 tokenization time: 8.2407 seconds
+Thread 46 processed 1348408987 bytes
+Thread 47 tokenization time: 8.1631 seconds
+Thread 47 processed 1352341705 bytes
+Thread 48 tokenization time: 8.2313 seconds
+Thread 48 processed 1341434930 bytes
+Thread 49 tokenization time: 8.1653 seconds
+Thread 49 processed 1345441095 bytes
+Thread 50 tokenization time: 8.2301 seconds
+Thread 50 processed 1351897959 bytes
+Thread 51 tokenization time: 8.1724 seconds
+Thread 51 processed 1361601334 bytes
+Thread 52 tokenization time: 8.2250 seconds
+Thread 52 processed 1347043972 bytes
+Thread 53 tokenization time: 8.1647 seconds
+Thread 53 processed 1360081746 bytes
+Thread 54 tokenization time: 8.2264 seconds
+Thread 54 processed 1339590736 bytes
+Thread 55 tokenization time: 8.1571 seconds
+Thread 55 processed 1347511005 bytes
+Thread 56 tokenization time: 8.2165 seconds
+Thread 56 processed 1352632645 bytes
+Thread 57 tokenization time: 8.1856 seconds
+Thread 57 processed 1362188508 bytes
+Thread 58 tokenization time: 8.2057 seconds
+Thread 58 processed 1338482088 bytes
+Thread 59 tokenization time: 8.1539 seconds
+Thread 59 processed 1345892771 bytes
+Thread 60 tokenization time: 8.2221 seconds
+Thread 60 processed 1352304951 bytes
+Thread 61 tokenization time: 8.1730 seconds
+Thread 61 processed 1360643802 bytes
+Thread 62 tokenization time: 8.2385 seconds
+Thread 62 processed 1366605291 bytes
+Thread 63 tokenization time: 8.1486 seconds
+Thread 63 processed 1345081033 bytes
+Thread 64 tokenization time: 8.2274 seconds
+Thread 64 processed 1350379448 bytes
+Thread 65 tokenization time: 8.1724 seconds
+Thread 65 processed 1347057944 bytes
+Thread 66 tokenization time: 8.2147 seconds
+Thread 66 processed 1347291046 bytes
+Thread 67 tokenization time: 8.1598 seconds
+Thread 67 processed 1350345316 bytes
+Thread 68 tokenization time: 8.2106 seconds
+Thread 68 processed 1343490931 bytes
+Thread 69 tokenization time: 8.1567 seconds
+Thread 69 processed 1362835457 bytes
+Thread 70 tokenization time: 8.2153 seconds
+Thread 70 processed 1345845026 bytes
+Thread 71 tokenization time: 8.1642 seconds
+Thread 71 processed 1359095355 bytes
+Thread 72 tokenization time: 8.2131 seconds
+Thread 72 processed 1350622858 bytes
+Thread 73 tokenization time: 8.1441 seconds
+Thread 73 processed 1340064296 bytes
+Thread 74 tokenization time: 8.2268 seconds
+Thread 74 processed 1353415479 bytes
+Thread 75 tokenization time: 8.1555 seconds
+Thread 75 processed 1349035688 bytes
+Thread 76 tokenization time: 8.2184 seconds
+Thread 76 processed 1343020101 bytes
+Thread 77 tokenization time: 8.1707 seconds
+Thread 77 processed 1350881116 bytes
+Thread 78 tokenization time: 8.2146 seconds
+Thread 78 processed 1348074291 bytes
+Thread 79 tokenization time: 8.1464 seconds
+Thread 79 processed 1346323761 bytes
+Thread 80 tokenization time: 8.2172 seconds
+Thread 80 processed 1350663854 bytes
+Thread 81 tokenization time: 8.1492 seconds
+Thread 81 processed 1340995801 bytes
+Thread 82 tokenization time: 8.2245 seconds
+Thread 82 processed 1354741961 bytes
+Thread 83 tokenization time: 8.1502 seconds
+Thread 83 processed 1351562968 bytes
+Thread 84 tokenization time: 8.2151 seconds
+Thread 84 processed 1350175751 bytes
+Thread 85 tokenization time: 8.1610 seconds
+Thread 85 processed 1363738244 bytes
+Thread 86 tokenization time: 8.2318 seconds
+Thread 86 processed 1342406541 bytes
+Thread 87 tokenization time: 8.1648 seconds
+Thread 87 processed 1350945412 bytes
+Thread 88 tokenization time: 8.2158 seconds
+Thread 88 processed 1347512426 bytes
+Thread 89 tokenization time: 8.1574 seconds
+Thread 89 processed 1351931230 bytes
+Thread 90 tokenization time: 8.2087 seconds
+Thread 90 processed 1353018231 bytes
+Thread 91 tokenization time: 8.1650 seconds
+Thread 91 processed 1351911228 bytes
+Thread 92 tokenization time: 8.2141 seconds
+Thread 92 processed 1342951265 bytes
+Thread 93 tokenization time: 8.1637 seconds
+Thread 93 processed 1351540406 bytes
+Thread 94 tokenization time: 8.2169 seconds
+Thread 94 processed 1350514564 bytes
+Thread 95 tokenization time: 8.1473 seconds
+Thread 95 processed 1366306040 bytes
+Thread 96 tokenization time: 8.2185 seconds
+Thread 96 processed 1350544833 bytes
+Thread 2 took the longest time for tokenization: 8.4072 seconds
+Total execution time (create and join threads): 8.6114 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 14254.1243 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 2 for 96 threads... (affinity = 1)
+Result for 96 threads, iteration 2:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 52 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 25 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 4 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 45 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 56 (Node 0)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 6 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 95 (Node 1)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 1 (Node 1)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 62 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 3 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 60 (Node 0)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 58 (Node 0)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 27 (Node 1)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 64 (Node 0)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 70 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 33 (Node 1)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 31 (Node 1)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 66 (Node 0)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 47 (Node 1)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 91 (Node 1)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 68 (Node 0)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 93 (Node 1)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 28 (Node 0)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 30 (Node 0)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 80 (Node 0)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 82 (Node 0)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 5 (Node 1)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 84 (Node 0)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 26 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 41 (Node 1)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 53 (Node 1)
+Thread 34 affinity set to Node 1
+Thread 34 is running on CPU 57 (Node 1)
+Thread 33 affinity set to Node 0
+Thread 33 is running on CPU 86 (Node 0)
+Thread 35 affinity set to Node 0
+Thread 35 is running on CPU 88 (Node 0)
+Thread 37 affinity set to Node 0
+Thread 37 is running on CPU 46 (Node 0)
+Thread 38 affinity set to Node 1
+Thread 38 is running on CPU 59 (Node 1)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 3 (Node 1)
+Thread 39 affinity set to Node 0
+Thread 39 is running on CPU 42 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 49 (Node 1)
+Thread 36 affinity set to Node 1
+Thread 36 is running on CPU 79 (Node 1)
+Thread 40 affinity set to Node 1
+Thread 40 is running on CPU 15 (Node 1)
+Thread 41 affinity set to Node 0
+Thread 41 is running on CPU 92 (Node 0)
+Thread 42 affinity set to Node 1
+Thread 42 is running on CPU 17 (Node 1)
+Thread 43 affinity set to Node 0
+Thread 43 is running on CPU 0 (Node 0)
+Thread 44 affinity set to Node 1
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 95 (Node 1)
+Thread 44 is running on CPU 19 (Node 1)
+Thread 45 affinity set to Node 0
+Thread 45 is running on CPU 24 (Node 0)
+Thread 47 affinity set to Node 0
+Thread 47 is running on CPU 14 (Node 0)
+Thread 49 affinity set to Node 0
+Thread 49 is running on CPU 56 (Node 0)
+Thread 51 affinity set to Node 0
+Thread 51 is running on CPU 8 (Node 0)
+Thread 50 affinity set to Node 1
+Thread 50 is running on CPU 37 (Node 1)
+Thread 53 affinity set to Node 0
+Thread 53 is running on CPU 48 (Node 0)
+Thread 48 affinity set to Node 1
+Thread 48 is running on CPU 35 (Node 1)
+Thread 55 affinity set to Node 0
+Thread 55 is running on CPU 16 (Node 0)
+Thread 56 affinity set to Node 1
+Thread 56 is running on CPU 51 (Node 1)
+Thread 57 affinity set to Node 0
+Thread 57 is running on CPU 18 (Node 0)
+Thread 46 affinity set to Node 1
+Thread 46 is running on CPU 17 (Node 1)
+Thread 54 affinity set to Node 1
+Thread 54 is running on CPU 37 (Node 1)
+Thread 52 affinity set to Node 1
+Thread 52 is running on CPU 55 (Node 1)
+Thread 59 affinity set to Node 0
+Thread 59 is running on CPU 34 (Node 0)
+Thread 61 affinity set to Node 0
+Thread 61 is running on CPU 72 (Node 0)
+Thread 62 affinity set to Node 1
+Thread 62 is running on CPU 55 (Node 1)
+Thread 63 affinity set to Node 0
+Thread 63 is running on CPU 26 (Node 0)
+Thread 64 affinity set to Node 1
+Thread 64 is running on CPU 85 (Node 1)
+Thread 60 affinity set to Node 1
+Thread 58 affinity set to Node 1
+Thread 58 is running on CPU 53 (Node 1)
+Thread 65 affinity set to Node 0
+Thread 65 is running on CPU 90 (Node 0)
+Thread 60 is running on CPU 19 (Node 1)
+Thread 67 affinity set to Node 0
+Thread 67 is running on CPU 74 (Node 0)
+Thread 68 affinity set to Node 1
+Thread 68 is running on CPU 21 (Node 1)
+Thread 69 affinity set to Node 0
+Thread 69 is running on CPU 50 (Node 0)
+Thread 70 affinity set to Node 1
+Thread 70 is running on CPU 63 (Node 1)
+Thread 71 affinity set to Node 0
+Thread 71 is running on CPU 94 (Node 0)
+Thread 72 affinity set to Node 1
+Thread 72 is running on CPU 27 (Node 1)
+Thread 73 affinity set to Node 0
+Thread 73 is running on CPU 22 (Node 0)
+Thread 75 affinity set to Node 0
+Thread 75 is running on CPU 36 (Node 0)
+Thread 74 affinity set to Node 1
+Thread 74 is running on CPU 29 (Node 1)
+Thread 77 affinity set to Node 0
+Thread 77 is running on CPU 54 (Node 0)
+Thread 66 affinity set to Node 1
+Thread 66 is running on CPU 85 (Node 1)
+Thread 79 affinity set to Node 0
+Thread 79 is running on CPU 40 (Node 0)
+Thread 78 affinity set to Node 1
+Thread 78 is running on CPU 63 (Node 1)
+Thread 80 affinity set to Node 1
+Thread 80 is running on CPU 43 (Node 1)
+Thread 81 affinity set to Node 0
+Thread 81 is running on CPU 78 (Node 0)
+Thread 83 affinity set to Node 0
+Thread 83 is running on CPU 20 (Node 0)
+Thread 85 affinity set to Node 0
+Thread 85 is running on CPU 44 (Node 0)
+Thread 76 affinity set to Node 1
+Thread 76 is running on CPU 3 (Node 1)
+Thread 84 affinity set to Node 1
+Thread 84 is running on CPU 7 (Node 1)
+Thread 87 affinity set to Node 0
+Thread 87 is running on CPU 10 (Node 0)
+Thread 89 affinity set to Node 0
+Thread 89 is running on CPU 12 (Node 0)
+Thread 82 affinity set to Node 1
+Thread 82 is running on CPU 45 (Node 1)
+Thread 90 affinity set to Node 1
+Thread 90 is running on CPU 11 (Node 1)
+Thread 93 affinity set to Node 0
+Thread 93 is running on CPU 52 (Node 0)
+Thread 91 affinity set to Node 0
+Thread 91 is running on CPU 38 (Node 0)
+Thread 88 affinity set to Node 1
+Thread 88 is running on CPU 3 (Node 1)
+Thread 86 affinity set to Node 1
+Thread 86 is running on CPU 9 (Node 1)
+Thread 94 affinity set to Node 1
+Thread 95 affinity set to Node 0
+Thread 95 is running on CPU 32 (Node 0)
+Thread 96 affinity set to Node 1
+Thread 96 is running on CPU 69 (Node 1)
+Thread 94 is running on CPU 67 (Node 1)
+Thread 92 affinity set to Node 1
+Thread 92 is running on CPU 13 (Node 1)
+Thread 1 tokenization time: 8.3633 seconds
+Thread 1 processed 932376471 bytes
+Thread 2 tokenization time: 8.4525 seconds
+Thread 2 processed 942867373 bytes
+Thread 3 tokenization time: 8.2010 seconds
+Thread 3 processed 1350315392 bytes
+Thread 4 tokenization time: 8.2985 seconds
+Thread 4 processed 1352319061 bytes
+Thread 5 tokenization time: 8.1791 seconds
+Thread 5 processed 1341372276 bytes
+Thread 6 tokenization time: 8.2857 seconds
+Thread 6 processed 1348801628 bytes
+Thread 7 tokenization time: 8.1801 seconds
+Thread 7 processed 1336085474 bytes
+Thread 8 tokenization time: 8.2863 seconds
+Thread 8 processed 1344662819 bytes
+Thread 9 tokenization time: 8.2114 seconds
+Thread 9 processed 1349664227 bytes
+Thread 10 tokenization time: 8.2851 seconds
+Thread 10 processed 1358820177 bytes
+Thread 11 tokenization time: 8.1856 seconds
+Thread 11 processed 1343140591 bytes
+Thread 12 tokenization time: 8.2878 seconds
+Thread 12 processed 1350529038 bytes
+Thread 13 tokenization time: 8.1884 seconds
+Thread 13 processed 1345135294 bytes
+Thread 14 tokenization time: 8.2916 seconds
+Thread 14 processed 1360434052 bytes
+Thread 15 tokenization time: 8.1701 seconds
+Thread 15 processed 1338837768 bytes
+Thread 16 tokenization time: 8.2983 seconds
+Thread 16 processed 1338286481 bytes
+Thread 17 tokenization time: 8.1704 seconds
+Thread 17 processed 1342487217 bytes
+Thread 18 tokenization time: 8.2697 seconds
+Thread 18 processed 1342277656 bytes
+Thread 19 tokenization time: 8.1749 seconds
+Thread 19 processed 1339345993 bytes
+Thread 20 tokenization time: 8.2893 seconds
+Thread 20 processed 1335844219 bytes
+Thread 21 tokenization time: 8.1886 seconds
+Thread 21 processed 1368727517 bytes
+Thread 22 tokenization time: 8.2868 seconds
+Thread 22 processed 1344490931 bytes
+Thread 23 tokenization time: 8.1809 seconds
+Thread 23 processed 1345157267 bytes
+Thread 24 tokenization time: 8.2994 seconds
+Thread 24 processed 1349877748 bytes
+Thread 25 tokenization time: 8.1723 seconds
+Thread 25 processed 1344898503 bytes
+Thread 26 tokenization time: 8.2950 seconds
+Thread 26 processed 1350093592 bytes
+Thread 27 tokenization time: 8.1986 seconds
+Thread 27 processed 1344939907 bytes
+Thread 28 tokenization time: 8.2964 seconds
+Thread 28 processed 1355414199 bytes
+Thread 29 tokenization time: 8.1864 seconds
+Thread 29 processed 1348791312 bytes
+Thread 30 tokenization time: 8.2939 seconds
+Thread 30 processed 1365271454 bytes
+Thread 31 tokenization time: 8.2017 seconds
+Thread 31 processed 1350568093 bytes
+Thread 32 tokenization time: 8.2876 seconds
+Thread 32 processed 1350577257 bytes
+Thread 33 tokenization time: 8.1941 seconds
+Thread 33 processed 1347213716 bytes
+Thread 34 tokenization time: 8.2829 seconds
+Thread 34 processed 1351336203 bytes
+Thread 35 tokenization time: 8.1555 seconds
+Thread 35 processed 1340593554 bytes
+Thread 36 tokenization time: 8.2817 seconds
+Thread 36 processed 1351704692 bytes
+Thread 37 tokenization time: 8.1796 seconds
+Thread 37 processed 1347217808 bytes
+Thread 38 tokenization time: 8.2776 seconds
+Thread 38 processed 1339576952 bytes
+Thread 39 tokenization time: 8.1909 seconds
+Thread 39 processed 1372124403 bytes
+Thread 40 tokenization time: 8.2846 seconds
+Thread 40 processed 1353994544 bytes
+Thread 41 tokenization time: 8.1811 seconds
+Thread 41 processed 1344735295 bytes
+Thread 42 tokenization time: 8.2812 seconds
+Thread 42 processed 1346930620 bytes
+Thread 43 tokenization time: 8.1812 seconds
+Thread 43 processed 1345681988 bytes
+Thread 44 tokenization time: 8.2798 seconds
+Thread 44 processed 1347513964 bytes
+Thread 45 tokenization time: 8.1539 seconds
+Thread 45 processed 1336994035 bytes
+Thread 46 tokenization time: 8.2823 seconds
+Thread 46 processed 1352172243 bytes
+Thread 47 tokenization time: 8.1743 seconds
+Thread 47 processed 1339406411 bytes
+Thread 48 tokenization time: 8.2835 seconds
+Thread 48 processed 1349698054 bytes
+Thread 49 tokenization time: 8.1694 seconds
+Thread 49 processed 1342212724 bytes
+Thread 50 tokenization time: 8.2727 seconds
+Thread 50 processed 1352547240 bytes
+Thread 51 tokenization time: 8.1710 seconds
+Thread 51 processed 1344879997 bytes
+Thread 52 tokenization time: 8.2701 seconds
+Thread 52 processed 1345002000 bytes
+Thread 53 tokenization time: 8.1742 seconds
+Thread 53 processed 1344454223 bytes
+Thread 54 tokenization time: 8.2892 seconds
+Thread 54 processed 1339638162 bytes
+Thread 55 tokenization time: 8.1711 seconds
+Thread 55 processed 1338587671 bytes
+Thread 56 tokenization time: 8.2958 seconds
+Thread 56 processed 1355103199 bytes
+Thread 57 tokenization time: 8.1663 seconds
+Thread 57 processed 1342737754 bytes
+Thread 58 tokenization time: 8.2823 seconds
+Thread 58 processed 1346082775 bytes
+Thread 59 tokenization time: 8.1705 seconds
+Thread 59 processed 1341241919 bytes
+Thread 60 tokenization time: 8.2823 seconds
+Thread 60 processed 1357319027 bytes
+Thread 61 tokenization time: 8.1882 seconds
+Thread 61 processed 1350656613 bytes
+Thread 62 tokenization time: 8.2777 seconds
+Thread 62 processed 1342546088 bytes
+Thread 63 tokenization time: 8.1919 seconds
+Thread 63 processed 1350327710 bytes
+Thread 64 tokenization time: 8.2756 seconds
+Thread 64 processed 1331415214 bytes
+Thread 65 tokenization time: 8.2010 seconds
+Thread 65 processed 1353309679 bytes
+Thread 66 tokenization time: 8.2888 seconds
+Thread 66 processed 1352289155 bytes
+Thread 67 tokenization time: 8.1956 seconds
+Thread 67 processed 1351296622 bytes
+Thread 68 tokenization time: 8.2764 seconds
+Thread 68 processed 1345945936 bytes
+Thread 69 tokenization time: 8.1975 seconds
+Thread 69 processed 1357549967 bytes
+Thread 70 tokenization time: 8.2866 seconds
+Thread 70 processed 1360627908 bytes
+Thread 71 tokenization time: 8.2088 seconds
+Thread 71 processed 1358099616 bytes
+Thread 72 tokenization time: 8.2798 seconds
+Thread 72 processed 1344997162 bytes
+Thread 73 tokenization time: 8.1816 seconds
+Thread 73 processed 1358005464 bytes
+Thread 74 tokenization time: 8.2555 seconds
+Thread 74 processed 1339084336 bytes
+Thread 75 tokenization time: 8.2094 seconds
+Thread 75 processed 1359142653 bytes
+Thread 76 tokenization time: 8.2699 seconds
+Thread 76 processed 1337696637 bytes
+Thread 77 tokenization time: 8.2095 seconds
+Thread 77 processed 1353405557 bytes
+Thread 78 tokenization time: 8.2855 seconds
+Thread 78 processed 1351362750 bytes
+Thread 79 tokenization time: 8.1911 seconds
+Thread 79 processed 1357405028 bytes
+Thread 80 tokenization time: 8.2677 seconds
+Thread 80 processed 1339064662 bytes
+Thread 81 tokenization time: 8.1927 seconds
+Thread 81 processed 1355765937 bytes
+Thread 82 tokenization time: 8.2920 seconds
+Thread 82 processed 1354584182 bytes
+Thread 83 tokenization time: 8.2043 seconds
+Thread 83 processed 1363225359 bytes
+Thread 84 tokenization time: 8.2813 seconds
+Thread 84 processed 1348772382 bytes
+Thread 85 tokenization time: 8.1959 seconds
+Thread 85 processed 1357423688 bytes
+Thread 86 tokenization time: 8.2771 seconds
+Thread 86 processed 1358059153 bytes
+Thread 87 tokenization time: 8.2046 seconds
+Thread 87 processed 1356806872 bytes
+Thread 88 tokenization time: 8.2752 seconds
+Thread 88 processed 1347176194 bytes
+Thread 89 tokenization time: 8.1958 seconds
+Thread 89 processed 1357028943 bytes
+Thread 90 tokenization time: 8.2974 seconds
+Thread 90 processed 1354321338 bytes
+Thread 91 tokenization time: 8.2076 seconds
+Thread 91 processed 1360525556 bytes
+Thread 92 tokenization time: 8.2900 seconds
+Thread 92 processed 1358377302 bytes
+Thread 93 tokenization time: 8.1720 seconds
+Thread 93 processed 1351554215 bytes
+Thread 94 tokenization time: 8.2871 seconds
+Thread 94 processed 1355305709 bytes
+Thread 95 tokenization time: 8.1979 seconds
+Thread 95 processed 1354063321 bytes
+Thread 96 tokenization time: 8.2813 seconds
+Thread 96 processed 1354536905 bytes
+Thread 2 took the longest time for tokenization: 8.4525 seconds
+Total execution time (create and join threads): 8.6463 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 14196.5582 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
+Running iteration 3 for 96 threads... (affinity = 1)
+Result for 96 threads, iteration 3:
+> Starting indexFiles with path: /home/cc/Branchless/gutenberg
+Crawled dataset. Number of files: 365780
+Total NUMA nodes detected: 2
+Loader Thread 1 affinity set to Node 0
+Loader Thread 1 is running on CPU 4 (Node 0)
+Loader Thread 2 affinity set to Node 1
+Loader Thread 2 is running on CPU 31 (Node 1)
+Loader Thread 1 completed loading files on Node 0
+Loader Thread 2 completed loading files on Node 1
+All loader threads have completed. Total files loaded: 365700
+Thread 1 affinity set to Node 0
+Thread 1 is running on CPU 32 (Node 0)
+Thread 2 affinity set to Node 1
+Thread 2 is running on CPU 11 (Node 1)
+Thread 3 affinity set to Node 0
+Thread 3 is running on CPU 6 (Node 0)
+Thread 4 affinity set to Node 1
+Thread 4 is running on CPU 15 (Node 1)
+Thread 5 affinity set to Node 0
+Thread 5 is running on CPU 52 (Node 0)
+Thread 7 affinity set to Node 0
+Thread 7 is running on CPU 8 (Node 0)
+Thread 6 affinity set to Node 1
+Thread 6 is running on CPU 53 (Node 1)
+Thread 9 affinity set to Node 0
+Thread 9 is running on CPU 10 (Node 0)
+Thread 8 affinity set to Node 1
+Thread 8 is running on CPU 81 (Node 1)
+Thread 10 affinity set to Node 1
+Thread 10 is running on CPU 95 (Node 1)
+Thread 11 affinity set to Node 0
+Thread 11 is running on CPU 12 (Node 0)
+Thread 12 affinity set to Node 1
+Thread 12 is running on CPU 1 (Node 1)
+Thread 15 affinity set to Node 0
+Thread 15 is running on CPU 14 (Node 0)
+Thread 13 affinity set to Node 0
+Thread 13 is running on CPU 64 (Node 0)
+Thread 14 affinity set to Node 1
+Thread 14 is running on CPU 39 (Node 1)
+Thread 17 affinity set to Node 0
+Thread 17 is running on CPU 18 (Node 0)
+Thread 16 affinity set to Node 1
+Thread 16 is running on CPU 49 (Node 1)
+Thread 18 affinity set to Node 1
+Thread 18 is running on CPU 85 (Node 1)
+Thread 19 affinity set to Node 0
+Thread 19 is running on CPU 70 (Node 0)
+Thread 20 affinity set to Node 1
+Thread 20 is running on CPU 51 (Node 1)
+Thread 21 affinity set to Node 0
+Thread 21 is running on CPU 72 (Node 0)
+Thread 23 affinity set to Node 0
+Thread 23 is running on CPU 26 (Node 0)
+Thread 25 affinity set to Node 0
+Thread 25 is running on CPU 68 (Node 0)
+Thread 24 affinity set to Node 1
+Thread 24 is running on CPU 69 (Node 1)
+Thread 27 affinity set to Node 0
+Thread 27 is running on CPU 28 (Node 0)
+Thread 26 affinity set to Node 1
+Thread 26 is running on CPU 23 (Node 1)
+Thread 28 affinity set to Node 1
+Thread 28 is running on CPU 7 (Node 1)
+Thread 29 affinity set to Node 0
+Thread 29 is running on CPU 30 (Node 0)
+Thread 30 affinity set to Node 1
+Thread 30 is running on CPU 9 (Node 1)
+Thread 31 affinity set to Node 0
+Thread 31 is running on CPU 82 (Node 0)
+Thread 32 affinity set to Node 1
+Thread 32 is running on CPU 15 (Node 1)
+Thread 33 affinity set to Node 0
+Thread 33 is running on CPU 86 (Node 0)
+Thread 35 affinity set to Node 0
+Thread 35 is running on CPU 84 (Node 0)
+Thread 34 affinity set to Node 1
+Thread 34 is running on CPU 55 (Node 1)
+Thread 22 affinity set to Node 1
+Thread 22 is running on CPU 53 (Node 1)
+Thread 36 affinity set to Node 1
+Thread 36 is running on CPU 57 (Node 1)
+Thread 37 affinity set to Node 0
+Thread 37 is running on CPU 90 (Node 0)
+Thread 38 affinity set to Node 1
+Thread 38 is running on CPU 59 (Node 1)
+Thread 39 affinity set to Node 0
+Thread 39 is running on CPU 92 (Node 0)
+Thread 40 affinity set to Node 1
+Thread 40 is running on CPU 61 (Node 1)
+Thread 41 affinity set to Node 0
+Thread 41 is running on CPU 94 (Node 0)
+Thread 43 affinity set to Node 0
+Thread 43 is running on CPU 88 (Node 0)
+Thread 42 affinity set to Node 1
+Thread 44 affinity set to Node 1
+Thread 44 is running on CPU 69 (Node 1)
+Thread 42 is running on CPU 15 (Node 1)
+Thread 45 affinity set to Node 0
+Thread 45 is running on CPU 2 (Node 0)
+Thread 46 affinity set to Node 1
+Thread 46 is running on CPU 71 (Node 1)
+Thread 47 affinity set to Node 0
+Thread 47 is running on CPU 0 (Node 0)
+Thread 49 affinity set to Node 0
+Thread 49 is running on CPU 62 (Node 0)
+Thread 51 affinity set to Node 0
+Thread 51 is running on CPU 36 (Node 0)
+Thread 53 affinity set to Node 0
+Thread 53 is running on CPU 16 (Node 0)
+Thread 50 affinity set to Node 1
+Thread 50 is running on CPU 51 (Node 1)
+Thread 52 affinity set to Node 1
+Thread 52 is running on CPU 79 (Node 1)
+Thread 48 affinity set to Node 1
+Thread 48 is running on CPU 87 (Node 1)
+Thread 55 affinity set to Node 0
+Thread 55 is running on CPU 22 (Node 0)
+Thread 56 affinity set to Node 1
+Thread 56 is running on CPU 75 (Node 1)
+Thread 57 affinity set to Node 0
+Thread 57 is running on CPU 46 (Node 0)
+Thread 59 affinity set to Node 0
+Thread 59 is running on CPU 28 (Node 0)
+Thread 58 affinity set to Node 1
+Thread 58 is running on CPU 77 (Node 1)
+Thread 61 affinity set to Node 0
+Thread 61 is running on CPU 74 (Node 0)
+Thread 54 affinity set to Node 1
+Thread 54 is running on CPU 57 (Node 1)
+Thread 63 affinity set to Node 0
+Thread 63 is running on CPU 58 (Node 0)
+Thread 64 affinity set to Node 1
+Thread 64 is running on CPU 83 (Node 1)
+Thread 62 affinity set to Node 1
+Thread 62 is running on CPU 33 (Node 1)
+Thread 65 affinity set to Node 0
+Thread 65 is running on CPU 44 (Node 0)
+Thread 69 affinity set to Node 0
+Thread 67 affinity set to Node 0
+Thread 67 is running on CPU 42 (Node 0)
+Thread 68 affinity set to Node 1
+Thread 68 is running on CPU 61 (Node 1)
+Thread 69 is running on CPU 40 (Node 0)
+Thread 71 affinity set to Node 0
+Thread 71 is running on CPU 4 (Node 0)
+Thread 70 affinity set to Node 1
+Thread 70 is running on CPU 25 (Node 1)
+Thread 73 affinity set to Node 0
+Thread 73 is running on CPU 60 (Node 0)
+Thread 60 affinity set to Node 1
+Thread 60 is running on CPU 79 (Node 1)
+Thread 66 affinity set to Node 1
+Thread 66 is running on CPU 37 (Node 1)
+Thread 74 affinity set to Node 1
+Thread 74 is running on CPU 13 (Node 1)
+Thread 75 affinity set to Node 0
+Thread 75 is running on CPU 34 (Node 0)
+Thread 77 affinity set to Node 0
+Thread 77 is running on CPU 4 (Node 0)
+Thread 76 affinity set to Node 1
+Thread 76 is running on CPU 13 (Node 1)
+Thread 79 affinity set to Node 0
+Thread 79 is running on CPU 56 (Node 0)
+Thread 78 affinity set to Node 1
+Thread 78 is running on CPU 47 (Node 1)
+Thread 81 affinity set to Node 0
+Thread 81 is running on CPU 20 (Node 0)
+Thread 82 affinity set to Node 1
+Thread 82 is running on CPU 67 (Node 1)
+Thread 83 affinity set to Node 0
+Thread 83 is running on CPU 78 (Node 0)
+Thread 72 affinity set to Node 1
+Thread 72 is running on CPU 7 (Node 1)
+Thread 84 affinity set to Node 1
+Thread 84 is running on CPU 41 (Node 1)
+Thread 80 affinity set to Node 1
+Thread 80 is running on CPU 87 (Node 1)
+Thread 85 affinity set to Node 0
+Thread 85 is running on CPU 24 (Node 0)
+Thread 87 affinity set to Node 0
+Thread 87 is running on CPU 52 (Node 0)
+Thread 86 affinity set to Node 1
+Thread 86 is running on CPU 65 (Node 1)
+Thread 88 affinity set to Node 1
+Thread 88 is running on CPU 91 (Node 1)
+Thread 90 affinity set to Node 1
+Thread 90 is running on CPU 45 (Node 1)
+Thread 89 affinity set to Node 0
+Thread 89 is running on CPU 4 (Node 0)
+Thread 91 affinity set to Node 0
+Thread 91 is running on CPU 38 (Node 0)
+Thread 93 affinity set to Node 0
+Thread 93 is running on CPU 48 (Node 0)
+Thread 92 affinity set to Node 1
+Thread 92 is running on CPU 93 (Node 1)
+Thread 94 affinity set to Node 1
+Thread 94 is running on CPU 49 (Node 1)
+Thread 96 affinity set to Node 1
+Thread 96 is running on CPU 51 (Node 1)
+Thread 95 affinity set to Node 0
+Thread 95 is running on CPU 52 (Node 0)
+Thread 1 tokenization time: 8.6119 seconds
+Thread 1 processed 964144063 bytes
+Thread 2 tokenization time: 8.6794 seconds
+Thread 2 processed 932278200 bytes
+Thread 3 tokenization time: 8.4723 seconds
+Thread 3 processed 1348135812 bytes
+Thread 4 tokenization time: 8.5297 seconds
+Thread 4 processed 1344039358 bytes
+Thread 5 tokenization time: 8.4451 seconds
+Thread 5 processed 1342049524 bytes
+Thread 6 tokenization time: 8.5330 seconds
+Thread 6 processed 1347001111 bytes
+Thread 7 tokenization time: 8.4559 seconds
+Thread 7 processed 1353743868 bytes
+Thread 8 tokenization time: 8.5517 seconds
+Thread 8 processed 1348328993 bytes
+Thread 9 tokenization time: 8.4533 seconds
+Thread 9 processed 1355700897 bytes
+Thread 10 tokenization time: 8.5572 seconds
+Thread 10 processed 1358448758 bytes
+Thread 11 tokenization time: 8.4533 seconds
+Thread 11 processed 1350297657 bytes
+Thread 12 tokenization time: 8.5538 seconds
+Thread 12 processed 1355612956 bytes
+Thread 13 tokenization time: 8.4480 seconds
+Thread 13 processed 1350483333 bytes
+Thread 14 tokenization time: 8.5421 seconds
+Thread 14 processed 1347819653 bytes
+Thread 15 tokenization time: 8.4527 seconds
+Thread 15 processed 1350030075 bytes
+Thread 16 tokenization time: 8.5391 seconds
+Thread 16 processed 1349716229 bytes
+Thread 17 tokenization time: 8.4515 seconds
+Thread 17 processed 1354706587 bytes
+Thread 18 tokenization time: 8.5448 seconds
+Thread 18 processed 1346753365 bytes
+Thread 19 tokenization time: 8.4213 seconds
+Thread 19 processed 1341863307 bytes
+Thread 20 tokenization time: 8.5358 seconds
+Thread 20 processed 1340790589 bytes
+Thread 21 tokenization time: 8.4542 seconds
+Thread 21 processed 1340958457 bytes
+Thread 22 tokenization time: 8.5221 seconds
+Thread 22 processed 1343659796 bytes
+Thread 23 tokenization time: 8.4504 seconds
+Thread 23 processed 1345253509 bytes
+Thread 24 tokenization time: 8.5450 seconds
+Thread 24 processed 1352371006 bytes
+Thread 25 tokenization time: 8.4442 seconds
+Thread 25 processed 1348401297 bytes
+Thread 26 tokenization time: 8.5256 seconds
+Thread 26 processed 1341315577 bytes
+Thread 27 tokenization time: 8.4504 seconds
+Thread 27 processed 1341823588 bytes
+Thread 28 tokenization time: 8.5487 seconds
+Thread 28 processed 1350922947 bytes
+Thread 29 tokenization time: 8.4393 seconds
+Thread 29 processed 1350479075 bytes
+Thread 30 tokenization time: 8.5345 seconds
+Thread 30 processed 1356152732 bytes
+Thread 31 tokenization time: 8.4420 seconds
+Thread 31 processed 1343572932 bytes
+Thread 32 tokenization time: 8.5479 seconds
+Thread 32 processed 1346101069 bytes
+Thread 33 tokenization time: 8.4488 seconds
+Thread 33 processed 1346692935 bytes
+Thread 34 tokenization time: 8.5241 seconds
+Thread 34 processed 1345855141 bytes
+Thread 35 tokenization time: 8.4402 seconds
+Thread 35 processed 1348116027 bytes
+Thread 36 tokenization time: 8.5204 seconds
+Thread 36 processed 1345389207 bytes
+Thread 37 tokenization time: 8.4566 seconds
+Thread 37 processed 1350365233 bytes
+Thread 38 tokenization time: 8.5218 seconds
+Thread 38 processed 1343902230 bytes
+Thread 39 tokenization time: 8.4456 seconds
+Thread 39 processed 1353485217 bytes
+Thread 40 tokenization time: 8.5327 seconds
+Thread 40 processed 1349344930 bytes
+Thread 41 tokenization time: 8.4496 seconds
+Thread 41 processed 1352364125 bytes
+Thread 42 tokenization time: 8.5494 seconds
+Thread 42 processed 1352092545 bytes
+Thread 43 tokenization time: 8.4292 seconds
+Thread 43 processed 1342719390 bytes
+Thread 44 tokenization time: 8.5371 seconds
+Thread 44 processed 1349155056 bytes
+Thread 45 tokenization time: 8.4484 seconds
+Thread 45 processed 1341886731 bytes
+Thread 46 tokenization time: 8.5342 seconds
+Thread 46 processed 1350616252 bytes
+Thread 47 tokenization time: 8.4501 seconds
+Thread 47 processed 1346097118 bytes
+Thread 48 tokenization time: 8.5457 seconds
+Thread 48 processed 1346438784 bytes
+Thread 49 tokenization time: 8.4401 seconds
+Thread 49 processed 1338379834 bytes
+Thread 50 tokenization time: 8.5196 seconds
+Thread 50 processed 1340540362 bytes
+Thread 51 tokenization time: 8.4386 seconds
+Thread 51 processed 1346147903 bytes
+Thread 52 tokenization time: 8.5589 seconds
+Thread 52 processed 1356082096 bytes
+Thread 53 tokenization time: 8.4496 seconds
+Thread 53 processed 1349755985 bytes
+Thread 54 tokenization time: 8.5446 seconds
+Thread 54 processed 1348728974 bytes
+Thread 55 tokenization time: 8.4265 seconds
+Thread 55 processed 1345657997 bytes
+Thread 56 tokenization time: 8.5391 seconds
+Thread 56 processed 1354990531 bytes
+Thread 57 tokenization time: 8.4246 seconds
+Thread 57 processed 1337863869 bytes
+Thread 58 tokenization time: 8.5494 seconds
+Thread 58 processed 1344281439 bytes
+Thread 59 tokenization time: 8.4638 seconds
+Thread 59 processed 1352411045 bytes
+Thread 60 tokenization time: 8.5551 seconds
+Thread 60 processed 1351140345 bytes
+Thread 61 tokenization time: 8.4587 seconds
+Thread 61 processed 1348892127 bytes
+Thread 62 tokenization time: 8.5376 seconds
+Thread 62 processed 1340792983 bytes
+Thread 63 tokenization time: 8.4731 seconds
+Thread 63 processed 1360227331 bytes
+Thread 64 tokenization time: 8.5456 seconds
+Thread 64 processed 1351142727 bytes
+Thread 65 tokenization time: 8.4461 seconds
+Thread 65 processed 1344776396 bytes
+Thread 66 tokenization time: 8.5412 seconds
+Thread 66 processed 1353444203 bytes
+Thread 67 tokenization time: 8.4414 seconds
+Thread 67 processed 1345176507 bytes
+Thread 68 tokenization time: 8.5311 seconds
+Thread 68 processed 1340166973 bytes
+Thread 69 tokenization time: 8.4611 seconds
+Thread 69 processed 1349456954 bytes
+Thread 70 tokenization time: 8.5376 seconds
+Thread 70 processed 1349278427 bytes
+Thread 71 tokenization time: 8.4529 seconds
+Thread 71 processed 1351172765 bytes
+Thread 72 tokenization time: 8.5399 seconds
+Thread 72 processed 1362306397 bytes
+Thread 73 tokenization time: 8.4608 seconds
+Thread 73 processed 1350232282 bytes
+Thread 74 tokenization time: 8.5377 seconds
+Thread 74 processed 1346194298 bytes
+Thread 75 tokenization time: 8.4639 seconds
+Thread 75 processed 1352879036 bytes
+Thread 76 tokenization time: 8.5302 seconds
+Thread 76 processed 1346515746 bytes
+Thread 77 tokenization time: 8.4735 seconds
+Thread 77 processed 1358558437 bytes
+Thread 78 tokenization time: 8.5358 seconds
+Thread 78 processed 1351844294 bytes
+Thread 79 tokenization time: 8.4582 seconds
+Thread 79 processed 1348843375 bytes
+Thread 80 tokenization time: 8.5433 seconds
+Thread 80 processed 1352344876 bytes
+Thread 81 tokenization time: 8.4708 seconds
+Thread 81 processed 1353319821 bytes
+Thread 82 tokenization time: 8.5430 seconds
+Thread 82 processed 1342717108 bytes
+Thread 83 tokenization time: 8.4329 seconds
+Thread 83 processed 1347297574 bytes
+Thread 84 tokenization time: 8.5395 seconds
+Thread 84 processed 1350100452 bytes
+Thread 85 tokenization time: 8.4329 seconds
+Thread 85 processed 1342159942 bytes
+Thread 86 tokenization time: 8.5271 seconds
+Thread 86 processed 1343922839 bytes
+Thread 87 tokenization time: 8.4806 seconds
+Thread 87 processed 1373426619 bytes
+Thread 88 tokenization time: 8.5556 seconds
+Thread 88 processed 1360712432 bytes
+Thread 89 tokenization time: 8.4496 seconds
+Thread 89 processed 1352341226 bytes
+Thread 90 tokenization time: 8.5396 seconds
+Thread 90 processed 1344916646 bytes
+Thread 91 tokenization time: 8.4318 seconds
+Thread 91 processed 1343642532 bytes
+Thread 92 tokenization time: 8.5242 seconds
+Thread 92 processed 1354706240 bytes
+Thread 93 tokenization time: 8.4370 seconds
+Thread 93 processed 1350142851 bytes
+Thread 94 tokenization time: 8.5299 seconds
+Thread 94 processed 1355353007 bytes
+Thread 95 tokenization time: 8.4439 seconds
+Thread 95 processed 1349384435 bytes
+Thread 96 tokenization time: 8.5466 seconds
+Thread 96 processed 1369020494 bytes
+Thread 2 took the longest time for tokenization: 8.6794 seconds
+Total execution time (create and join threads): 8.8690 seconds
+Completed indexing 128710867973 bytes of data
+Completed indexing 23087718389 tokens
+Average Throughput: 13840.1229 MB/s
+> Exit File Retrieval Engine
+
+---------------------------------------
